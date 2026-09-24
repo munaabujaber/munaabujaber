@@ -31,7 +31,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add output/bonsai.svg output/bonsai.png output/bonsai.gif output/bonsai-growth.gif output/bonsai-growth-cropped.gif
+          git add output/bonsai-growth-cropped.gif
           if git diff --cached --quiet; then exit 0; fi
           git commit -m "chore: tend the bonsai 🌳"
           git push origin HEAD:main
