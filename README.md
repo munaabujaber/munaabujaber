@@ -34,8 +34,8 @@ Sincerely,</br><strong>Abu Jaber, Muna</strong>
 
 <a href="https://git.io/typing-svg">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Mono&amp;weight=300&amp;size=20&amp;duration=2500&amp;pause=700&amp;color=C9A7FF&amp;background=00000000&amp;vCenter=true&amp;width=430&amp;height=50&amp;lines=Embedded+Toolkit" />
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&amp;weight=300&amp;size=20&amp;duration=2500&amp;pause=700&amp;color=8250DF&amp;background=00000000&amp;vCenter=true&amp;width=430&amp;height=50&amp;lines=Embedded+Toolkit" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Mono&amp;weight=300&amp;size=20&amp;duration=2500&amp;pause=700&amp;color=F0F6FC&amp;background=00000000&amp;vCenter=true&amp;width=430&amp;height=50&amp;lines=Embedded+Toolkit" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&amp;weight=300&amp;size=20&amp;duration=2500&amp;pause=700&amp;color=1F2328&amp;background=00000000&amp;vCenter=true&amp;width=430&amp;height=50&amp;lines=Embedded+Toolkit" alt="Typing SVG" />
   </picture>
 </a>
 
