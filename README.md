@@ -1,18 +1,13 @@
 <h1 align="center"><img src="assets/profile-header.svg" alt="Hi 👋, I'm Muna Abu Jaber" width="900" /></h1>
 
 <p align="center">
-  <img src="output/bonsai-growth.gif" width="384" alt="A pixel-art bonsai grown from Muna Abu Jaber’s GitHub activity" />
+  <img src="output/bonsai-growth.gif" height="128" alt="A pixel-art bonsai grown from Muna Abu Jaber’s GitHub activity" />
+  <img src="https://raw.githubusercontent.com/munaabujaber/munaabujaber/output/snake.svg" height="128" alt="A snake playing across Muna Abu Jaber’s GitHub contributions" />
 </p>
 
 <p align="center">
   <a href="https://github.com/egorthinks/git-bonsai">Grown with git-bonsai</a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/munaabujaber/munaabujaber/output/snake.svg" alt="A snake playing across Muna Abu Jaber’s GitHub contributions" />
-</p>
-
-<p align="center">
+  ·
   <a href="https://github.com/dahan8473/snake-and-commits">Made with snake-and-commits</a>
 </p>
 
