@@ -3,9 +3,9 @@
 <p align="justify"><em>
 I am an embedded systems enthusiast, with a passion for electronics, involving both, hardware and software. I enjoy building innovative things and see them come to life, grow, and evolve. </br> On a mission to grow and slither toward success, one commit at a time.
 </em></p>
-<p style="font-style: italic;" align="right">
+<p align="right"><em>
 Sincerely,</br><strong>Abu Jaber, Muna</strong>
-</p>
+</em></p>
 </br>
 <p align="center">
   <img src="output/bonsai-growth-cropped.gif" width="15%" alt="A pixel-art bonsai grown from Muna Abu Jaber’s GitHub activity" />
