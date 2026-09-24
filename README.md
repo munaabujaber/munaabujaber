@@ -1,14 +1,24 @@
-<h1 align="center"><img src="assets/profile-header.svg" alt="Hi 👋, I'm Muna Abu Jaber" width="900" /></h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=2500&pause=700&color=8250DF&background=00000000&vCenter=true&width=430&height=50&lines=Greetings%2C+fellow+being!;Welcome+to+my+digital+space.)](https://git.io/typing-svg)
 
+<p style="font-style: italic;" align="justify">
+I am an embedded systems enthusiast, with a passion for electronics, involving both, hardware and software. I enjoy building innovative things and see them come to life, grow, and evolve. </br> On a mission to grow and slither toward success, one commit at a time.
+</p>
+<p style="font-style: italic;" align="right">
+Sincerely,</br><strong>Abu Jaber, Muna</strong>
+</p>
+</br>
 <p align="center">
   <img src="output/bonsai-growth-cropped.gif" width="15%" alt="A pixel-art bonsai grown from Muna Abu Jaber’s GitHub activity" />
   <img src="https://raw.githubusercontent.com/munaabujaber/munaabujaber/output/snake.svg" width="82%" alt="A snake playing across Muna Abu Jaber’s GitHub contributions" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/egorthinks/git-bonsai">Grown with git-bonsai</a>
-  ·
-  <a href="https://github.com/dahan8473/snake-and-commits">Made with snake-and-commits</a>
+  <a href="https://github.com/egorthinks/git-bonsai">
+    <img src="https://img.shields.io/badge/Grown_with-git--bonsai-8250DF" alt="Grown with git-bonsai" />
+  </a>
+  <a href="https://github.com/dahan8473/snake-and-commits">
+    <img src="https://img.shields.io/badge/Made_with-snake--and--commits-8250DF" alt="Made with snake-and-commits" />
+  </a>
 </p>
 
 ### Languages
