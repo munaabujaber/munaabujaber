@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muna Abu Jaber</h1>
+<h1 align="center"><img src="assets/profile-header.svg" alt="Hi 👋, I'm Muna Abu Jaber" width="900" /></h1>
 
 <p align="center">
   <img src="output/bonsai-growth.gif" width="384" alt="A pixel-art bonsai grown from Muna Abu Jaber’s GitHub activity" />
