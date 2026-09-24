@@ -1,5 +1,4 @@
-<a href="https://git.io/typing-svg#gh-dark-mode-only"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&amp;weight=700&amp;size=20&amp;duration=2500&amp;pause=700&amp;color=C9A7FF&amp;background=00000000&amp;vCenter=true&amp;width=430&amp;height=50&amp;lines=Greetings%2C+fellow+explorer!;Welcome+to+my+digital+space.#gh-dark-mode-only" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg#gh-light-mode-only"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&amp;weight=700&amp;size=20&amp;duration=2500&amp;pause=700&amp;color=8250DF&amp;background=00000000&amp;vCenter=true&amp;width=430&amp;height=50&amp;lines=Greetings%2C+fellow+explorer!;Welcome+to+my+digital+space.#gh-light-mode-only" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&amp;weight=700&amp;size=20&amp;duration=2500&amp;pause=700&amp;color=8957E5&amp;background=00000000&amp;vCenter=true&amp;width=430&amp;height=50&amp;lines=Greetings%2C+fellow+explorer!;Welcome+to+my+digital+space." alt="Typing SVG" /></a>
 
 <p align="justify"><em>
 I am an embedded systems enthusiast with a passion for electronics spanning both hardware and software. I enjoy crafting innovative things and see them come to life, develop, and evolve. Beyond embedded systems, I’m drawn to creating apps and other solutions that help people solve real problems, with creativity and thoughtful architecture guiding everything I build. </br> On a mission to grow and slither toward success, one commit at a time.
@@ -20,8 +19,7 @@ Sincerely,</br><strong>Abu Jaber, Muna</strong>
   <a href="https://github.com/dahan8473/snake-and-commits#gh-light-mode-only"><img src="https://img.shields.io/badge/Made_with-snake--and--commits-8250DF#gh-light-mode-only" alt="Made with snake-and-commits" /></a>
 </p>
 
-<a href="https://git.io/typing-svg#gh-dark-mode-only"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&amp;weight=300&amp;size=20&amp;duration=2500&amp;pause=700&amp;color=F0F6FC&amp;background=00000000&amp;vCenter=true&amp;width=430&amp;height=50&amp;lines=Embedded+Toolkit#gh-dark-mode-only" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg#gh-light-mode-only"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&amp;weight=300&amp;size=20&amp;duration=2500&amp;pause=700&amp;color=1F2328&amp;background=00000000&amp;vCenter=true&amp;width=430&amp;height=50&amp;lines=Embedded+Toolkit#gh-light-mode-only" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&amp;weight=300&amp;size=20&amp;duration=2500&amp;pause=700&amp;color=8957E5&amp;background=00000000&amp;vCenter=true&amp;width=430&amp;height=50&amp;lines=Embedded+Toolkit" alt="Typing SVG" /></a>
 
 <p>
   <img src="https://img.shields.io/badge/C-C9A7FF?style=flat-square#gh-dark-mode-only" alt="C" />
