@@ -8,6 +8,14 @@
   <a href="https://github.com/egorthinks/git-bonsai">Grown with git-bonsai</a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/munaabujaber/munaabujaber/output/snake.svg" alt="A snake playing across Muna Abu Jaber’s GitHub contributions" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/dahan8473/snake-and-commits">Made with snake-and-commits</a>
+</p>
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
