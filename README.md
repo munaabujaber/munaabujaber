@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=2500&pause=700&color=8250DF&background=00000000&vCenter=true&width=430&height=50&lines=Greetings%2C+fellow+being!;Welcome+to+my+digital+space.)](https://git.io/typing-svg)
 
-<p style="font-style: italic;" align="justify">
+<p align="justify"><em>
 I am an embedded systems enthusiast, with a passion for electronics, involving both, hardware and software. I enjoy building innovative things and see them come to life, grow, and evolve. </br> On a mission to grow and slither toward success, one commit at a time.
-</p>
+</em></p>
 <p style="font-style: italic;" align="right">
 Sincerely,</br><strong>Abu Jaber, Muna</strong>
 </p>
