@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&amp;weight=700&amp;size=20&amp;duration=2500&amp;pause=700&amp;color=8957E5&amp;background=00000000&amp;vCenter=true&amp;width=430&amp;height=50&amp;lines=Greetings%2C+fellow+explorer!;Welcome+to+my+digital+space." alt="Typing SVG" /></a>
 
 <p align="justify"><em>
-I am an embedded systems enthusiast with a passion for electronics spanning both hardware and software. I enjoy crafting innovative things and see them come to life, develop, and evolve. Beyond embedded systems, I’m drawn to creating apps and other solutions that help people solve real problems, with creativity and thoughtful architecture guiding everything I build. </br> On a mission to grow and slither toward success, one commit at a time.
+I am an embedded systems engineer with a passion for electronics spanning both hardware and software. I enjoy crafting innovative things and see them come to life, develop, and evolve. Beyond embedded systems, I’m drawn to creating apps and other solutions that help people solve real problems, with creativity and thoughtful architecture guiding everything I build. </br> On a mission to grow and slither toward success, one commit at a time.
 </em></p>
 <p align="right"><em>
 Sincerely,</br><strong>Abu Jaber, Muna</strong>
