@@ -19,7 +19,12 @@ Sincerely,</br><strong>Abu Jaber, Muna</strong>
   <a href="https://github.com/dahan8473/snake-and-commits#gh-light-mode-only"><img src="https://img.shields.io/badge/Made_with-snake--and--commits-8250DF#gh-light-mode-only" alt="Made with snake-and-commits" /></a>
 </p>
 
+</br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&amp;weight=300&amp;size=20&amp;duration=2500&amp;pause=700&amp;color=8957E5&amp;background=00000000&amp;vCenter=true&amp;width=430&amp;height=50&amp;lines=Embedded+Toolkit" alt="Typing SVG" /></a>
+
+<p align="justify"><em>
+A few tricks up my sleeve, from circuits to code and everything in between.
+</em></p>
 
 <p>
   <img src="https://img.shields.io/badge/C-C9A7FF?style=flat-square#gh-dark-mode-only" alt="C" />
