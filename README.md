@@ -1,8 +1,8 @@
 <h1 align="center"><img src="assets/profile-header.svg" alt="Hi 👋, I'm Muna Abu Jaber" width="900" /></h1>
 
 <p align="center">
-  <img src="output/bonsai-growth-cropped.gif" height="120" alt="A pixel-art bonsai grown from Muna Abu Jaber’s GitHub activity" />
-  <img src="https://raw.githubusercontent.com/munaabujaber/munaabujaber/output/snake.svg" height="120" alt="A snake playing across Muna Abu Jaber’s GitHub contributions" />
+  <img src="output/bonsai-growth-cropped.gif" width="15%" alt="A pixel-art bonsai grown from Muna Abu Jaber’s GitHub activity" />
+  <img src="https://raw.githubusercontent.com/munaabujaber/munaabujaber/output/snake.svg" width="82%" alt="A snake playing across Muna Abu Jaber’s GitHub contributions" />
 </p>
 
 <p align="center">
