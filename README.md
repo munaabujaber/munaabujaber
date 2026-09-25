@@ -15,7 +15,11 @@ Sincerely,</br><strong>Abu Jaber, Muna</strong>
 </br>
 <p align="center">
   <img src="output/bonsai-growth-cropped.gif" width="15%" alt="A pixel-art bonsai grown from Muna Abu Jaber’s GitHub activity" />
-  <img src="https://raw.githubusercontent.com/munaabujaber/munaabujaber/output/snake.svg" width="82%" alt="A snake playing across Muna Abu Jaber’s GitHub contributions" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/munaabujaber/munaabujaber/output/snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/munaabujaber/munaabujaber/output/snake-light.svg" />
+    <img src="https://raw.githubusercontent.com/munaabujaber/munaabujaber/output/snake-light.svg" width="82%" alt="A snake playing across Muna Abu Jaber’s GitHub contributions" />
+  </picture>
 </p>
 
 <p align="center">

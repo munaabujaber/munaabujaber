@@ -7,6 +7,7 @@ on:
     paths:
       - README.md
       - .github/workflows/snake.yml
+      - scripts/make_snake_light.py
   schedule:
     - cron: '0 */12 * * *'
   workflow_dispatch:
@@ -18,11 +19,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - uses: dahan8473/snake-and-commits@v1
         with:
           github_user: munaabujaber
           output: dist/snake.svg
           theme: green
+      - name: Create light-theme snake
+        run: python3 scripts/make_snake_light.py dist/snake.svg dist/snake-light.svg
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
