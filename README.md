@@ -13,10 +13,10 @@ Sincerely,</br><strong>Abu Jaber, Muna</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/egorthinks/git-bonsai#gh-dark-mode-only"><img src="https://img.shields.io/badge/Grown_with-git--bonsai-C9A7FF#gh-dark-mode-only" alt="Grown with git-bonsai" /></a>
-  <a href="https://github.com/egorthinks/git-bonsai#gh-light-mode-only"><img src="https://img.shields.io/badge/Grown_with-git--bonsai-8250DF#gh-light-mode-only" alt="Grown with git-bonsai" /></a>
-  <a href="https://github.com/dahan8473/snake-and-commits#gh-dark-mode-only"><img src="https://img.shields.io/badge/Made_with-snake--and--commits-C9A7FF#gh-dark-mode-only" alt="Made with snake-and-commits" /></a>
-  <a href="https://github.com/dahan8473/snake-and-commits#gh-light-mode-only"><img src="https://img.shields.io/badge/Made_with-snake--and--commits-8250DF#gh-light-mode-only" alt="Made with snake-and-commits" /></a>
+  <a href="https://github.com/egorthinks/git-bonsai#gh-dark-mode-only"><img src="https://img.shields.io/badge/Grown_with-git--bonsai-8957E5#gh-dark-mode-only" alt="Grown with git-bonsai" /></a>
+  <a href="https://github.com/egorthinks/git-bonsai#gh-light-mode-only"><img src="https://img.shields.io/badge/Grown_with-git--bonsai-C9A7FF#gh-light-mode-only" alt="Grown with git-bonsai" /></a>
+  <a href="https://github.com/dahan8473/snake-and-commits#gh-dark-mode-only"><img src="https://img.shields.io/badge/Made_with-snake--and--commits-8957E5#gh-dark-mode-only" alt="Made with snake-and-commits" /></a>
+  <a href="https://github.com/dahan8473/snake-and-commits#gh-light-mode-only"><img src="https://img.shields.io/badge/Made_with-snake--and--commits-C9A7FF#gh-light-mode-only" alt="Made with snake-and-commits" /></a>
 </p>
 
 </br>
@@ -27,64 +27,64 @@ A few tricks up my sleeve, from circuits to code and everything in between.
 </em></p>
 
 <p>
-  <img src="https://img.shields.io/badge/C-C9A7FF?style=flat-square#gh-dark-mode-only" alt="C" />
-  <img src="https://img.shields.io/badge/C-8250DF?style=flat-square#gh-light-mode-only" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-C9A7FF?style=flat-square#gh-dark-mode-only" alt="C++" />
-  <img src="https://img.shields.io/badge/C%2B%2B-8250DF?style=flat-square#gh-light-mode-only" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-C9A7FF?style=flat-square#gh-dark-mode-only" alt="Python" />
-  <img src="https://img.shields.io/badge/Python-8250DF?style=flat-square#gh-light-mode-only" alt="Python" />
-  <img src="https://img.shields.io/badge/STM32-C9A7FF?style=flat-square#gh-dark-mode-only" alt="STM32" />
-  <img src="https://img.shields.io/badge/STM32-8250DF?style=flat-square#gh-light-mode-only" alt="STM32" />
-  <img src="https://img.shields.io/badge/STM32Cube-C9A7FF?style=flat-square#gh-dark-mode-only" alt="STM32Cube" />
-  <img src="https://img.shields.io/badge/STM32Cube-8250DF?style=flat-square#gh-light-mode-only" alt="STM32Cube" />
-  <img src="https://img.shields.io/badge/STM32_HAL-C9A7FF?style=flat-square#gh-dark-mode-only" alt="STM32 HAL" />
-  <img src="https://img.shields.io/badge/STM32_HAL-8250DF?style=flat-square#gh-light-mode-only" alt="STM32 HAL" />
-  <img src="https://img.shields.io/badge/FreeRTOS-C9A7FF?style=flat-square#gh-dark-mode-only" alt="FreeRTOS" />
-  <img src="https://img.shields.io/badge/FreeRTOS-8250DF?style=flat-square#gh-light-mode-only" alt="FreeRTOS" />
-  <img src="https://img.shields.io/badge/ROS-C9A7FF?style=flat-square#gh-dark-mode-only" alt="ROS" />
-  <img src="https://img.shields.io/badge/ROS-8250DF?style=flat-square#gh-light-mode-only" alt="ROS" />
-  <img src="https://img.shields.io/badge/micro--ROS-C9A7FF?style=flat-square#gh-dark-mode-only" alt="micro-ROS" />
-  <img src="https://img.shields.io/badge/micro--ROS-8250DF?style=flat-square#gh-light-mode-only" alt="micro-ROS" />
-  <img src="https://img.shields.io/badge/UART-C9A7FF?style=flat-square#gh-dark-mode-only" alt="UART" />
-  <img src="https://img.shields.io/badge/UART-8250DF?style=flat-square#gh-light-mode-only" alt="UART" />
-  <img src="https://img.shields.io/badge/SPI-C9A7FF?style=flat-square#gh-dark-mode-only" alt="SPI" />
-  <img src="https://img.shields.io/badge/SPI-8250DF?style=flat-square#gh-light-mode-only" alt="SPI" />
-  <img src="https://img.shields.io/badge/I2C-C9A7FF?style=flat-square#gh-dark-mode-only" alt="I2C" />
-  <img src="https://img.shields.io/badge/I2C-8250DF?style=flat-square#gh-light-mode-only" alt="I2C" />
-  <img src="https://img.shields.io/badge/BLDC_Motor_Control-C9A7FF?style=flat-square#gh-dark-mode-only" alt="BLDC motor control" />
-  <img src="https://img.shields.io/badge/BLDC_Motor_Control-8250DF?style=flat-square#gh-light-mode-only" alt="BLDC motor control" />
-  <img src="https://img.shields.io/badge/PWM-C9A7FF?style=flat-square#gh-dark-mode-only" alt="PWM" />
-  <img src="https://img.shields.io/badge/PWM-8250DF?style=flat-square#gh-light-mode-only" alt="PWM" />
-  <img src="https://img.shields.io/badge/PCB_Design-C9A7FF?style=flat-square#gh-dark-mode-only" alt="PCB design" />
-  <img src="https://img.shields.io/badge/PCB_Design-8250DF?style=flat-square#gh-light-mode-only" alt="PCB design" />
-  <img src="https://img.shields.io/badge/KiCad-C9A7FF?style=flat-square#gh-dark-mode-only" alt="KiCad" />
-  <img src="https://img.shields.io/badge/KiCad-8250DF?style=flat-square#gh-light-mode-only" alt="KiCad" />
-  <img src="https://img.shields.io/badge/MATLAB-C9A7FF?style=flat-square#gh-dark-mode-only" alt="MATLAB" />
-  <img src="https://img.shields.io/badge/MATLAB-8250DF?style=flat-square#gh-light-mode-only" alt="MATLAB" />
-  <img src="https://img.shields.io/badge/Simulink-C9A7FF?style=flat-square#gh-dark-mode-only" alt="Simulink" />
-  <img src="https://img.shields.io/badge/Simulink-8250DF?style=flat-square#gh-light-mode-only" alt="Simulink" />
-  <img src="https://img.shields.io/badge/VHDL-C9A7FF?style=flat-square#gh-dark-mode-only" alt="VHDL" />
-  <img src="https://img.shields.io/badge/VHDL-8250DF?style=flat-square#gh-light-mode-only" alt="VHDL" />
-  <img src="https://img.shields.io/badge/SystemVerilog-C9A7FF?style=flat-square#gh-dark-mode-only" alt="SystemVerilog" />
-  <img src="https://img.shields.io/badge/SystemVerilog-8250DF?style=flat-square#gh-light-mode-only" alt="SystemVerilog" />
-  <img src="https://img.shields.io/badge/FPGA-C9A7FF?style=flat-square#gh-dark-mode-only" alt="FPGA" />
-  <img src="https://img.shields.io/badge/FPGA-8250DF?style=flat-square#gh-light-mode-only" alt="FPGA" />
-  <img src="https://img.shields.io/badge/Vivado-C9A7FF?style=flat-square#gh-dark-mode-only" alt="Vivado" />
-  <img src="https://img.shields.io/badge/Vivado-8250DF?style=flat-square#gh-light-mode-only" alt="Vivado" />
-  <img src="https://img.shields.io/badge/Quartus-C9A7FF?style=flat-square#gh-dark-mode-only" alt="Quartus" />
-  <img src="https://img.shields.io/badge/Quartus-8250DF?style=flat-square#gh-light-mode-only" alt="Quartus" />
-  <img src="https://img.shields.io/badge/ModelSim-C9A7FF?style=flat-square#gh-dark-mode-only" alt="ModelSim" />
-  <img src="https://img.shields.io/badge/ModelSim-8250DF?style=flat-square#gh-light-mode-only" alt="ModelSim" />
-  <img src="https://img.shields.io/badge/CUnit-C9A7FF?style=flat-square#gh-dark-mode-only" alt="CUnit" />
-  <img src="https://img.shields.io/badge/CUnit-8250DF?style=flat-square#gh-light-mode-only" alt="CUnit" />
-  <img src="https://img.shields.io/badge/Google_Test-C9A7FF?style=flat-square#gh-dark-mode-only" alt="Google Test" />
-  <img src="https://img.shields.io/badge/Google_Test-8250DF?style=flat-square#gh-light-mode-only" alt="Google Test" />
-  <img src="https://img.shields.io/badge/pytest-C9A7FF?style=flat-square#gh-dark-mode-only" alt="pytest" />
-  <img src="https://img.shields.io/badge/pytest-8250DF?style=flat-square#gh-light-mode-only" alt="pytest" />
-  <img src="https://img.shields.io/badge/Polyspace-C9A7FF?style=flat-square#gh-dark-mode-only" alt="Polyspace" />
-  <img src="https://img.shields.io/badge/Polyspace-8250DF?style=flat-square#gh-light-mode-only" alt="Polyspace" />
-  <img src="https://img.shields.io/badge/MXAM-C9A7FF?style=flat-square#gh-dark-mode-only" alt="MXAM" />
-  <img src="https://img.shields.io/badge/MXAM-8250DF?style=flat-square#gh-light-mode-only" alt="MXAM" />
-  <img src="https://img.shields.io/badge/ISO_26262-C9A7FF?style=flat-square#gh-dark-mode-only" alt="ISO 26262" />
-  <img src="https://img.shields.io/badge/ISO_26262-8250DF?style=flat-square#gh-light-mode-only" alt="ISO 26262" />
+  <img src="https://img.shields.io/badge/C-8957E5?style=flat-square#gh-dark-mode-only" alt="C" />
+  <img src="https://img.shields.io/badge/C-C9A7FF?style=flat-square#gh-light-mode-only" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-8957E5?style=flat-square#gh-dark-mode-only" alt="C++" />
+  <img src="https://img.shields.io/badge/C%2B%2B-C9A7FF?style=flat-square#gh-light-mode-only" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-8957E5?style=flat-square#gh-dark-mode-only" alt="Python" />
+  <img src="https://img.shields.io/badge/Python-C9A7FF?style=flat-square#gh-light-mode-only" alt="Python" />
+  <img src="https://img.shields.io/badge/STM32-8957E5?style=flat-square#gh-dark-mode-only" alt="STM32" />
+  <img src="https://img.shields.io/badge/STM32-C9A7FF?style=flat-square#gh-light-mode-only" alt="STM32" />
+  <img src="https://img.shields.io/badge/STM32Cube-8957E5?style=flat-square#gh-dark-mode-only" alt="STM32Cube" />
+  <img src="https://img.shields.io/badge/STM32Cube-C9A7FF?style=flat-square#gh-light-mode-only" alt="STM32Cube" />
+  <img src="https://img.shields.io/badge/STM32_HAL-8957E5?style=flat-square#gh-dark-mode-only" alt="STM32 HAL" />
+  <img src="https://img.shields.io/badge/STM32_HAL-C9A7FF?style=flat-square#gh-light-mode-only" alt="STM32 HAL" />
+  <img src="https://img.shields.io/badge/FreeRTOS-8957E5?style=flat-square#gh-dark-mode-only" alt="FreeRTOS" />
+  <img src="https://img.shields.io/badge/FreeRTOS-C9A7FF?style=flat-square#gh-light-mode-only" alt="FreeRTOS" />
+  <img src="https://img.shields.io/badge/ROS-8957E5?style=flat-square#gh-dark-mode-only" alt="ROS" />
+  <img src="https://img.shields.io/badge/ROS-C9A7FF?style=flat-square#gh-light-mode-only" alt="ROS" />
+  <img src="https://img.shields.io/badge/micro--ROS-8957E5?style=flat-square#gh-dark-mode-only" alt="micro-ROS" />
+  <img src="https://img.shields.io/badge/micro--ROS-C9A7FF?style=flat-square#gh-light-mode-only" alt="micro-ROS" />
+  <img src="https://img.shields.io/badge/UART-8957E5?style=flat-square#gh-dark-mode-only" alt="UART" />
+  <img src="https://img.shields.io/badge/UART-C9A7FF?style=flat-square#gh-light-mode-only" alt="UART" />
+  <img src="https://img.shields.io/badge/SPI-8957E5?style=flat-square#gh-dark-mode-only" alt="SPI" />
+  <img src="https://img.shields.io/badge/SPI-C9A7FF?style=flat-square#gh-light-mode-only" alt="SPI" />
+  <img src="https://img.shields.io/badge/I2C-8957E5?style=flat-square#gh-dark-mode-only" alt="I2C" />
+  <img src="https://img.shields.io/badge/I2C-C9A7FF?style=flat-square#gh-light-mode-only" alt="I2C" />
+  <img src="https://img.shields.io/badge/BLDC_Motor_Control-8957E5?style=flat-square#gh-dark-mode-only" alt="BLDC motor control" />
+  <img src="https://img.shields.io/badge/BLDC_Motor_Control-C9A7FF?style=flat-square#gh-light-mode-only" alt="BLDC motor control" />
+  <img src="https://img.shields.io/badge/PWM-8957E5?style=flat-square#gh-dark-mode-only" alt="PWM" />
+  <img src="https://img.shields.io/badge/PWM-C9A7FF?style=flat-square#gh-light-mode-only" alt="PWM" />
+  <img src="https://img.shields.io/badge/PCB_Design-8957E5?style=flat-square#gh-dark-mode-only" alt="PCB design" />
+  <img src="https://img.shields.io/badge/PCB_Design-C9A7FF?style=flat-square#gh-light-mode-only" alt="PCB design" />
+  <img src="https://img.shields.io/badge/KiCad-8957E5?style=flat-square#gh-dark-mode-only" alt="KiCad" />
+  <img src="https://img.shields.io/badge/KiCad-C9A7FF?style=flat-square#gh-light-mode-only" alt="KiCad" />
+  <img src="https://img.shields.io/badge/MATLAB-8957E5?style=flat-square#gh-dark-mode-only" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/MATLAB-C9A7FF?style=flat-square#gh-light-mode-only" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/Simulink-8957E5?style=flat-square#gh-dark-mode-only" alt="Simulink" />
+  <img src="https://img.shields.io/badge/Simulink-C9A7FF?style=flat-square#gh-light-mode-only" alt="Simulink" />
+  <img src="https://img.shields.io/badge/VHDL-8957E5?style=flat-square#gh-dark-mode-only" alt="VHDL" />
+  <img src="https://img.shields.io/badge/VHDL-C9A7FF?style=flat-square#gh-light-mode-only" alt="VHDL" />
+  <img src="https://img.shields.io/badge/SystemVerilog-8957E5?style=flat-square#gh-dark-mode-only" alt="SystemVerilog" />
+  <img src="https://img.shields.io/badge/SystemVerilog-C9A7FF?style=flat-square#gh-light-mode-only" alt="SystemVerilog" />
+  <img src="https://img.shields.io/badge/FPGA-8957E5?style=flat-square#gh-dark-mode-only" alt="FPGA" />
+  <img src="https://img.shields.io/badge/FPGA-C9A7FF?style=flat-square#gh-light-mode-only" alt="FPGA" />
+  <img src="https://img.shields.io/badge/Vivado-8957E5?style=flat-square#gh-dark-mode-only" alt="Vivado" />
+  <img src="https://img.shields.io/badge/Vivado-C9A7FF?style=flat-square#gh-light-mode-only" alt="Vivado" />
+  <img src="https://img.shields.io/badge/Quartus-8957E5?style=flat-square#gh-dark-mode-only" alt="Quartus" />
+  <img src="https://img.shields.io/badge/Quartus-C9A7FF?style=flat-square#gh-light-mode-only" alt="Quartus" />
+  <img src="https://img.shields.io/badge/ModelSim-8957E5?style=flat-square#gh-dark-mode-only" alt="ModelSim" />
+  <img src="https://img.shields.io/badge/ModelSim-C9A7FF?style=flat-square#gh-light-mode-only" alt="ModelSim" />
+  <img src="https://img.shields.io/badge/CUnit-8957E5?style=flat-square#gh-dark-mode-only" alt="CUnit" />
+  <img src="https://img.shields.io/badge/CUnit-C9A7FF?style=flat-square#gh-light-mode-only" alt="CUnit" />
+  <img src="https://img.shields.io/badge/Google_Test-8957E5?style=flat-square#gh-dark-mode-only" alt="Google Test" />
+  <img src="https://img.shields.io/badge/Google_Test-C9A7FF?style=flat-square#gh-light-mode-only" alt="Google Test" />
+  <img src="https://img.shields.io/badge/pytest-8957E5?style=flat-square#gh-dark-mode-only" alt="pytest" />
+  <img src="https://img.shields.io/badge/pytest-C9A7FF?style=flat-square#gh-light-mode-only" alt="pytest" />
+  <img src="https://img.shields.io/badge/Polyspace-8957E5?style=flat-square#gh-dark-mode-only" alt="Polyspace" />
+  <img src="https://img.shields.io/badge/Polyspace-C9A7FF?style=flat-square#gh-light-mode-only" alt="Polyspace" />
+  <img src="https://img.shields.io/badge/MXAM-8957E5?style=flat-square#gh-dark-mode-only" alt="MXAM" />
+  <img src="https://img.shields.io/badge/MXAM-C9A7FF?style=flat-square#gh-light-mode-only" alt="MXAM" />
+  <img src="https://img.shields.io/badge/ISO_26262-8957E5?style=flat-square#gh-dark-mode-only" alt="ISO 26262" />
+  <img src="https://img.shields.io/badge/ISO_26262-C9A7FF?style=flat-square#gh-light-mode-only" alt="ISO 26262" />
 </p>
