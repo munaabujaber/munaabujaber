@@ -1,8 +1,8 @@
 <a href="https://git.io/typing-svg">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Mono&amp;weight=700&amp;size=20&amp;duration=2500&amp;pause=700&amp;color=C9A7FF&amp;background=00000000&amp;vCenter=true&amp;width=430&amp;height=50&amp;lines=Greetings%2C+fellow+explorer!;Welcome+to+my+digital+space." />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Space+Mono&amp;weight=700&amp;size=20&amp;duration=2500&amp;pause=700&amp;color=8957E5&amp;background=00000000&amp;vCenter=true&amp;width=430&amp;height=50&amp;lines=Greetings%2C+fellow+explorer!;Welcome+to+my+digital+space." />
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&amp;weight=700&amp;size=20&amp;duration=2500&amp;pause=700&amp;color=8957E5&amp;background=00000000&amp;vCenter=true&amp;width=430&amp;height=50&amp;lines=Greetings%2C+fellow+explorer!;Welcome+to+my+digital+space." alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Mono&amp;weight=700&amp;size=20&amp;duration=2500&amp;pause=700&amp;color=C9A7FF&amp;background=00000000&amp;vCenter=true&amp;width=430&amp;height=50&amp;lines=Greetings%2C+fellow+explorer!;Welcome+to+my+digital+workshop." />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Space+Mono&amp;weight=700&amp;size=20&amp;duration=2500&amp;pause=700&amp;color=8957E5&amp;background=00000000&amp;vCenter=true&amp;width=430&amp;height=50&amp;lines=Greetings%2C+fellow+explorer!;Welcome+to+my+digital+workshop." />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&amp;weight=700&amp;size=20&amp;duration=2500&amp;pause=700&amp;color=8957E5&amp;background=00000000&amp;vCenter=true&amp;width=430&amp;height=50&amp;lines=Greetings%2C+fellow+explorer!;Welcome+to+my+digital+workshop." alt="Typing SVG" />
   </picture>
 </a>
 
