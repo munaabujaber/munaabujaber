@@ -1,0 +1,1217 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 771 151">
+  <style>
+    .lab { font-family:ui-monospace,'SF Mono',Menlo,Consolas,monospace; font-size:9.5px; fill:#57606a; }
+    .cnt { font-family:ui-monospace,'SF Mono',Menlo,Consolas,monospace; font-size:9.5px; fill:#216e39; }
+    @media (prefers-reduced-motion) { * { animation:none !important; } }
+    @keyframes kc1_2 { 0.0% { fill:#9be9a8; } 0% { fill:#9be9a8; } 0.0% { fill:#0e4429; } 0.253% { fill:#1a7f37; } 1.01% { fill:#216e39; } 2.525% { fill:#30a14e; } 5.303% { fill:#40c463; } 5.506% { fill:#40c463; } 5.556% { fill:#ebedf0; } 19.142% { fill:#ebedf0; } 19.192% { fill:#0e4429; } 19.444% { fill:#1a7f37; } 20.202% { fill:#216e39; } 21.717% { fill:#30a14e; } 24.495% { fill:#40c463; } 29.243% { fill:#40c463; } 29.293% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c1_2 { animation:kc1_2 39.6s linear infinite; }
+@keyframes kc1_3 { 0.0% { fill:#ebedf0; } 4.748% { fill:#ebedf0; } 4.798% { fill:#0e4429; } 5.051% { fill:#1a7f37; } 5.808% { fill:#216e39; } 7.323% { fill:#30a14e; } 10.101% { fill:#40c463; } 11.565999999999999% { fill:#40c463; } 11.616% { fill:#ebedf0; } 11.818999999999999% { fill:#ebedf0; } 11.869% { fill:#0e4429; } 12.121% { fill:#1a7f37; } 12.879% { fill:#216e39; } 14.394% { fill:#30a14e; } 17.172% { fill:#40c463; } 19.142% { fill:#40c463; } 19.192% { fill:#ebedf0; } 19.394% { fill:#ebedf0; } 19.444% { fill:#0e4429; } 19.697% { fill:#1a7f37; } 20.455% { fill:#216e39; } 21.97% { fill:#30a14e; } 24.747% { fill:#40c463; } 29.495% { fill:#40c463; } 29.545% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c1_3 { animation:kc1_3 39.6s linear infinite; }
+@keyframes kc1_4 { 0.0% { fill:#40c463; } 5.001% { fill:#40c463; } 5.051% { fill:#0e4429; } 5.303% { fill:#1a7f37; } 6.061% { fill:#216e39; } 7.576% { fill:#30a14e; } 10.354% { fill:#40c463; } 11.818999999999999% { fill:#40c463; } 11.869% { fill:#ebedf0; } 12.071% { fill:#ebedf0; } 12.121% { fill:#0e4429; } 12.374% { fill:#1a7f37; } 13.131% { fill:#216e39; } 14.646% { fill:#30a14e; } 17.424% { fill:#40c463; } 19.394% { fill:#40c463; } 19.444% { fill:#ebedf0; } 19.647% { fill:#ebedf0; } 19.697% { fill:#0e4429; } 19.949% { fill:#1a7f37; } 20.707% { fill:#216e39; } 22.222% { fill:#30a14e; } 25.0% { fill:#40c463; } 29.747999999999998% { fill:#40c463; } 29.798% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c1_4 { animation:kc1_4 39.6s linear infinite; }
+@keyframes kc1_5 { 0.0% { fill:#ebedf0; } 5.253% { fill:#ebedf0; } 5.303% { fill:#0e4429; } 5.556% { fill:#1a7f37; } 6.313% { fill:#216e39; } 7.828% { fill:#30a14e; } 10.606% { fill:#40c463; } 12.071% { fill:#40c463; } 12.121% { fill:#ebedf0; } 12.324% { fill:#ebedf0; } 12.374% { fill:#0e4429; } 12.626% { fill:#1a7f37; } 13.384% { fill:#216e39; } 14.899% { fill:#30a14e; } 17.677% { fill:#40c463; } 19.647% { fill:#40c463; } 19.697% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c1_5 { animation:kc1_5 39.6s linear infinite; }
+@keyframes kc1_6 { 0.0% { fill:#ebedf0; } 5.506% { fill:#ebedf0; } 5.556% { fill:#0e4429; } 5.808% { fill:#1a7f37; } 6.566% { fill:#216e39; } 8.081% { fill:#30a14e; } 10.859% { fill:#40c463; } 12.324% { fill:#40c463; } 12.374% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c1_6 { animation:kc1_6 39.6s linear infinite; }
+@keyframes kc2_0 { 0.0% { fill:#9be9a8; } 10.303999999999998% { fill:#9be9a8; } 10.354% { fill:#0e4429; } 10.606% { fill:#1a7f37; } 11.364% { fill:#216e39; } 12.879% { fill:#30a14e; } 15.657% { fill:#40c463; } 17.627% { fill:#40c463; } 17.677% { fill:#ebedf0; } 17.878999999999998% { fill:#ebedf0; } 17.929% { fill:#0e4429; } 18.182% { fill:#1a7f37; } 18.939% { fill:#216e39; } 20.455% { fill:#30a14e; } 23.232% { fill:#40c463; } 27.98% { fill:#40c463; } 28.03% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c2_0 { animation:kc2_0 39.6s linear infinite; }
+@keyframes kc2_1 { 0.0% { fill:#9be9a8; } 0.455% { fill:#9be9a8; } 0.505% { fill:#0e4429; } 0.758% { fill:#1a7f37; } 1.515% { fill:#216e39; } 3.03% { fill:#30a14e; } 5.808% { fill:#40c463; } 6.011% { fill:#40c463; } 6.061% { fill:#ebedf0; } 10.556% { fill:#ebedf0; } 10.606% { fill:#0e4429; } 10.859% { fill:#1a7f37; } 11.616% { fill:#216e39; } 13.131% { fill:#30a14e; } 15.909% { fill:#40c463; } 17.878999999999998% { fill:#40c463; } 17.929% { fill:#ebedf0; } 18.131999999999998% { fill:#ebedf0; } 18.182% { fill:#0e4429; } 18.434% { fill:#1a7f37; } 19.192% { fill:#216e39; } 20.707% { fill:#30a14e; } 23.485% { fill:#40c463; } 28.233% { fill:#40c463; } 28.283% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c2_1 { animation:kc2_1 39.6s linear infinite; }
+@keyframes kc2_2 { 0.0% { fill:#9be9a8; } 0.203% { fill:#9be9a8; } 0.253% { fill:#0e4429; } 0.505% { fill:#1a7f37; } 1.263% { fill:#216e39; } 2.778% { fill:#30a14e; } 5.556% { fill:#40c463; } 5.758% { fill:#40c463; } 5.808% { fill:#ebedf0; } 18.889% { fill:#ebedf0; } 18.939% { fill:#0e4429; } 19.192% { fill:#1a7f37; } 19.949% { fill:#216e39; } 21.465% { fill:#30a14e; } 24.242% { fill:#40c463; } 28.99% { fill:#40c463; } 29.04% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c2_2 { animation:kc2_2 39.6s linear infinite; }
+@keyframes kc2_3 { 0.0% { fill:#9be9a8; } 4.495% { fill:#9be9a8; } 4.545% { fill:#0e4429; } 4.798% { fill:#1a7f37; } 5.556% { fill:#216e39; } 7.071% { fill:#30a14e; } 9.848% { fill:#40c463; } 11.061% { fill:#40c463; } 11.111% { fill:#ebedf0; } 11.565999999999999% { fill:#ebedf0; } 11.616% { fill:#0e4429; } 11.869% { fill:#1a7f37; } 12.626% { fill:#216e39; } 14.141% { fill:#30a14e; } 16.919% { fill:#40c463; } 18.889% { fill:#40c463; } 18.939% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c2_3 { animation:kc2_3 39.6s linear infinite; }
+@keyframes kc2_4 { 0.0% { fill:#9be9a8; } 4.243% { fill:#9be9a8; } 4.293% { fill:#0e4429; } 4.545% { fill:#1a7f37; } 5.303% { fill:#216e39; } 6.818% { fill:#30a14e; } 9.596% { fill:#40c463; } 10.809% { fill:#40c463; } 10.859% { fill:#ebedf0; } 19.899% { fill:#ebedf0; } 19.949% { fill:#0e4429; } 20.202% { fill:#1a7f37; } 20.96% { fill:#216e39; } 22.475% { fill:#30a14e; } 25.253% { fill:#40c463; } 30.000999999999998% { fill:#40c463; } 30.051% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c2_4 { animation:kc2_4 39.6s linear infinite; }
+@keyframes kc2_5 { 0.0% { fill:#9be9a8; } 3.99% { fill:#9be9a8; } 4.04% { fill:#0e4429; } 4.293% { fill:#1a7f37; } 5.051% { fill:#216e39; } 6.566% { fill:#30a14e; } 9.343% { fill:#40c463; } 10.556% { fill:#40c463; } 10.606% { fill:#ebedf0; } 12.575999999999999% { fill:#ebedf0; } 12.626% { fill:#0e4429; } 12.879% { fill:#1a7f37; } 13.636% { fill:#216e39; } 15.152% { fill:#30a14e; } 17.929% { fill:#40c463; } 19.899% { fill:#40c463; } 19.949% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c2_5 { animation:kc2_5 39.6s linear infinite; }
+@keyframes kc2_6 { 0.0% { fill:#ebedf0; } 5.758% { fill:#ebedf0; } 5.808% { fill:#0e4429; } 6.061% { fill:#1a7f37; } 6.818% { fill:#216e39; } 8.333% { fill:#30a14e; } 11.111% { fill:#40c463; } 12.575999999999999% { fill:#40c463; } 12.626% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c2_6 { animation:kc2_6 39.6s linear infinite; }
+@keyframes kc3_0 { 0.0% { fill:#ebedf0; } 10.051% { fill:#ebedf0; } 10.101% { fill:#0e4429; } 10.354% { fill:#1a7f37; } 11.111% { fill:#216e39; } 12.626% { fill:#30a14e; } 15.404% { fill:#40c463; } 17.374% { fill:#40c463; } 17.424% { fill:#ebedf0; } 17.627% { fill:#ebedf0; } 17.677% { fill:#0e4429; } 17.929% { fill:#1a7f37; } 18.687% { fill:#216e39; } 20.202% { fill:#30a14e; } 22.98% { fill:#40c463; } 27.727999999999998% { fill:#40c463; } 27.778% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c3_0 { animation:kc3_0 39.6s linear infinite; }
+@keyframes kc3_1 { 0.0% { fill:#9be9a8; } 0.708% { fill:#9be9a8; } 0.758% { fill:#0e4429; } 1.01% { fill:#1a7f37; } 1.768% { fill:#216e39; } 3.283% { fill:#30a14e; } 6.061% { fill:#40c463; } 6.263% { fill:#40c463; } 6.313% { fill:#ebedf0; } 10.809% { fill:#ebedf0; } 10.859% { fill:#0e4429; } 11.111% { fill:#1a7f37; } 11.869% { fill:#216e39; } 13.384% { fill:#30a14e; } 16.162% { fill:#40c463; } 18.131999999999998% { fill:#40c463; } 18.182% { fill:#ebedf0; } 18.384% { fill:#ebedf0; } 18.434% { fill:#0e4429; } 18.687% { fill:#1a7f37; } 19.444% { fill:#216e39; } 20.96% { fill:#30a14e; } 23.737% { fill:#40c463; } 28.485% { fill:#40c463; } 28.535% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c3_1 { animation:kc3_1 39.6s linear infinite; }
+@keyframes kc3_2 { 0.0% { fill:#9be9a8; } 0.96% { fill:#9be9a8; } 1.01% { fill:#0e4429; } 1.263% { fill:#1a7f37; } 2.02% { fill:#216e39; } 3.535% { fill:#30a14e; } 6.313% { fill:#40c463; } 6.516% { fill:#40c463; } 6.566% { fill:#ebedf0; } 11.061% { fill:#ebedf0; } 11.111% { fill:#0e4429; } 11.364% { fill:#1a7f37; } 12.121% { fill:#216e39; } 13.636% { fill:#30a14e; } 16.414% { fill:#40c463; } 18.384% { fill:#40c463; } 18.434% { fill:#ebedf0; } 18.637% { fill:#ebedf0; } 18.687% { fill:#0e4429; } 18.939% { fill:#1a7f37; } 19.697% { fill:#216e39; } 21.212% { fill:#30a14e; } 23.99% { fill:#40c463; } 28.738% { fill:#40c463; } 28.788% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c3_2 { animation:kc3_2 39.6s linear infinite; }
+@keyframes kc3_3 { 0.0% { fill:#9be9a8; } 11.314% { fill:#9be9a8; } 11.364% { fill:#0e4429; } 11.616% { fill:#1a7f37; } 12.374% { fill:#216e39; } 13.889% { fill:#30a14e; } 16.667% { fill:#40c463; } 18.637% { fill:#40c463; } 18.687% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c3_3 { animation:kc3_3 39.6s linear infinite; }
+@keyframes kc3_4 { 0.0% { fill:#ebedf0; } 20.152% { fill:#ebedf0; } 20.202% { fill:#0e4429; } 20.455% { fill:#1a7f37; } 21.212% { fill:#216e39; } 22.727% { fill:#30a14e; } 25.505% { fill:#40c463; } 30.253% { fill:#40c463; } 30.303% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c3_4 { animation:kc3_4 39.6s linear infinite; }
+@keyframes kc3_5 { 0.0% { fill:#9be9a8; } 3.738% { fill:#9be9a8; } 3.788% { fill:#0e4429; } 4.04% { fill:#1a7f37; } 4.798% { fill:#216e39; } 6.313% { fill:#30a14e; } 9.091% { fill:#40c463; } 10.051% { fill:#40c463; } 10.101% { fill:#ebedf0; } 12.828999999999999% { fill:#ebedf0; } 12.879% { fill:#0e4429; } 13.131% { fill:#1a7f37; } 13.889% { fill:#216e39; } 15.404% { fill:#30a14e; } 18.182% { fill:#40c463; } 20.152% { fill:#40c463; } 20.202% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c3_5 { animation:kc3_5 39.6s linear infinite; }
+@keyframes kc3_6 { 0.0% { fill:#ebedf0; } 6.011% { fill:#ebedf0; } 6.061% { fill:#0e4429; } 6.313% { fill:#1a7f37; } 7.071% { fill:#216e39; } 8.586% { fill:#30a14e; } 11.364% { fill:#40c463; } 12.828999999999999% { fill:#40c463; } 12.879% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c3_6 { animation:kc3_6 39.6s linear infinite; }
+@keyframes kc4_0 { 0.0% { fill:#9be9a8; } 9.798% { fill:#9be9a8; } 9.848% { fill:#0e4429; } 10.101% { fill:#1a7f37; } 10.859% { fill:#216e39; } 12.374% { fill:#30a14e; } 15.152% { fill:#40c463; } 17.122% { fill:#40c463; } 17.172% { fill:#ebedf0; } 17.374% { fill:#ebedf0; } 17.424% { fill:#0e4429; } 17.677% { fill:#1a7f37; } 18.434% { fill:#216e39; } 19.949% { fill:#30a14e; } 22.727% { fill:#40c463; } 27.474999999999998% { fill:#40c463; } 27.525% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c4_0 { animation:kc4_0 39.6s linear infinite; }
+@keyframes kc4_1 { 0.0% { fill:#9be9a8; } 9.546% { fill:#9be9a8; } 9.596% { fill:#0e4429; } 9.848% { fill:#1a7f37; } 10.606% { fill:#216e39; } 12.121% { fill:#30a14e; } 14.899% { fill:#40c463; } 16.869% { fill:#40c463; } 16.919% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c4_1 { animation:kc4_1 39.6s linear infinite; }
+@keyframes kc4_2 { 0.0% { fill:#9be9a8; } 1.2129999999999999% { fill:#9be9a8; } 1.263% { fill:#0e4429; } 1.515% { fill:#1a7f37; } 2.273% { fill:#216e39; } 3.788% { fill:#30a14e; } 6.566% { fill:#40c463; } 6.768% { fill:#40c463; } 6.818% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c4_2 { animation:kc4_2 39.6s linear infinite; }
+@keyframes kc4_4 { 0.0% { fill:#ebedf0; } 20.404999999999998% { fill:#ebedf0; } 20.455% { fill:#0e4429; } 20.707% { fill:#1a7f37; } 21.465% { fill:#216e39; } 22.98% { fill:#30a14e; } 25.758% { fill:#40c463; } 30.506% { fill:#40c463; } 30.556% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c4_4 { animation:kc4_4 39.6s linear infinite; }
+@keyframes kc4_5 { 0.0% { fill:#ebedf0; } 3.4850000000000003% { fill:#ebedf0; } 3.535% { fill:#0e4429; } 3.788% { fill:#1a7f37; } 4.545% { fill:#216e39; } 6.061% { fill:#30a14e; } 8.838% { fill:#40c463; } 9.293% { fill:#40c463; } 9.343% { fill:#ebedf0; } 13.081% { fill:#ebedf0; } 13.131% { fill:#0e4429; } 13.384% { fill:#1a7f37; } 14.141% { fill:#216e39; } 15.657% { fill:#30a14e; } 18.434% { fill:#40c463; } 20.404999999999998% { fill:#40c463; } 20.455% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c4_5 { animation:kc4_5 39.6s linear infinite; }
+@keyframes kc4_6 { 0.0% { fill:#ebedf0; } 6.263% { fill:#ebedf0; } 6.313% { fill:#0e4429; } 6.566% { fill:#1a7f37; } 7.323% { fill:#216e39; } 8.838% { fill:#30a14e; } 11.616% { fill:#40c463; } 13.081% { fill:#40c463; } 13.131% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c4_6 { animation:kc4_6 39.6s linear infinite; }
+@keyframes kc5_0 { 0.0% { fill:#ebedf0; } 17.122% { fill:#ebedf0; } 17.172% { fill:#0e4429; } 17.424% { fill:#1a7f37; } 18.182% { fill:#216e39; } 19.697% { fill:#30a14e; } 22.475% { fill:#40c463; } 27.223% { fill:#40c463; } 27.273% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c5_0 { animation:kc5_0 39.6s linear infinite; }
+@keyframes kc5_1 { 0.0% { fill:#ebedf0; } 9.293% { fill:#ebedf0; } 9.343% { fill:#0e4429; } 9.596% { fill:#1a7f37; } 10.354% { fill:#216e39; } 11.869% { fill:#30a14e; } 14.646% { fill:#40c463; } 16.364% { fill:#40c463; } 16.414% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c5_1 { animation:kc5_1 39.6s linear infinite; }
+@keyframes kc5_2 { 0.0% { fill:#9be9a8; } 1.4649999999999999% { fill:#9be9a8; } 1.515% { fill:#0e4429; } 1.768% { fill:#1a7f37; } 2.525% { fill:#216e39; } 4.04% { fill:#30a14e; } 6.818% { fill:#40c463; } 7.021% { fill:#40c463; } 7.071% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c5_2 { animation:kc5_2 39.6s linear infinite; }
+@keyframes kc5_4 { 0.0% { fill:#ebedf0; } 20.657% { fill:#ebedf0; } 20.707% { fill:#0e4429; } 20.96% { fill:#1a7f37; } 21.717% { fill:#216e39; } 23.232% { fill:#30a14e; } 26.01% { fill:#40c463; } 30.758% { fill:#40c463; } 30.808% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c5_4 { animation:kc5_4 39.6s linear infinite; }
+@keyframes kc5_5 { 0.0% { fill:#40c463; } 3.233% { fill:#40c463; } 3.283% { fill:#0e4429; } 3.535% { fill:#1a7f37; } 4.293% { fill:#216e39; } 5.808% { fill:#30a14e; } 8.586% { fill:#40c463; } 9.040999999999999% { fill:#40c463; } 9.091% { fill:#ebedf0; } 13.334% { fill:#ebedf0; } 13.384% { fill:#0e4429; } 13.636% { fill:#1a7f37; } 14.394% { fill:#216e39; } 15.909% { fill:#30a14e; } 18.687% { fill:#40c463; } 20.657% { fill:#40c463; } 20.707% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c5_5 { animation:kc5_5 39.6s linear infinite; }
+@keyframes kc5_6 { 0.0% { fill:#ebedf0; } 6.516% { fill:#ebedf0; } 6.566% { fill:#0e4429; } 6.818% { fill:#1a7f37; } 7.576% { fill:#216e39; } 9.091% { fill:#30a14e; } 11.869% { fill:#40c463; } 13.334% { fill:#40c463; } 13.384% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c5_6 { animation:kc5_6 39.6s linear infinite; }
+@keyframes kc6_0 { 0.0% { fill:#ebedf0; } 16.869% { fill:#ebedf0; } 16.919% { fill:#0e4429; } 17.172% { fill:#1a7f37; } 17.929% { fill:#216e39; } 19.444% { fill:#30a14e; } 22.222% { fill:#40c463; } 26.97% { fill:#40c463; } 27.02% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c6_0 { animation:kc6_0 39.6s linear infinite; }
+@keyframes kc6_1 { 0.0% { fill:#ebedf0; } 9.040999999999999% { fill:#ebedf0; } 9.091% { fill:#0e4429; } 9.343% { fill:#1a7f37; } 10.101% { fill:#216e39; } 11.616% { fill:#30a14e; } 14.394% { fill:#40c463; } 16.112% { fill:#40c463; } 16.162% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c6_1 { animation:kc6_1 39.6s linear infinite; }
+@keyframes kc6_2 { 0.0% { fill:#9be9a8; } 1.718% { fill:#9be9a8; } 1.768% { fill:#0e4429; } 2.02% { fill:#1a7f37; } 2.778% { fill:#216e39; } 4.293% { fill:#30a14e; } 7.071% { fill:#40c463; } 7.273000000000001% { fill:#40c463; } 7.323% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c6_2 { animation:kc6_2 39.6s linear infinite; }
+@keyframes kc6_3 { 0.0% { fill:#9be9a8; } 1.97% { fill:#9be9a8; } 2.02% { fill:#0e4429; } 2.273% { fill:#1a7f37; } 3.03% { fill:#216e39; } 4.545% { fill:#30a14e; } 7.323% { fill:#40c463; } 7.526% { fill:#40c463; } 7.576% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c6_3 { animation:kc6_3 39.6s linear infinite; }
+@keyframes kc6_4 { 0.0% { fill:#9be9a8; } 2.2230000000000003% { fill:#9be9a8; } 2.273% { fill:#0e4429; } 2.525% { fill:#1a7f37; } 3.283% { fill:#216e39; } 4.798% { fill:#30a14e; } 7.576% { fill:#40c463; } 7.7780000000000005% { fill:#40c463; } 7.828% { fill:#ebedf0; } 20.91% { fill:#ebedf0; } 20.96% { fill:#0e4429; } 21.212% { fill:#1a7f37; } 21.97% { fill:#216e39; } 23.485% { fill:#30a14e; } 26.263% { fill:#40c463; } 31.011% { fill:#40c463; } 31.061% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c6_4 { animation:kc6_4 39.6s linear infinite; }
+@keyframes kc6_5 { 0.0% { fill:#9be9a8; } 2.98% { fill:#9be9a8; } 3.03% { fill:#0e4429; } 3.283% { fill:#1a7f37; } 4.04% { fill:#216e39; } 5.556% { fill:#30a14e; } 8.333% { fill:#40c463; } 8.536% { fill:#40c463; } 8.586% { fill:#ebedf0; } 13.585999999999999% { fill:#ebedf0; } 13.636% { fill:#0e4429; } 13.889% { fill:#1a7f37; } 14.646% { fill:#216e39; } 16.162% { fill:#30a14e; } 18.939% { fill:#40c463; } 20.91% { fill:#40c463; } 20.96% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c6_5 { animation:kc6_5 39.6s linear infinite; }
+@keyframes kc6_6 { 0.0% { fill:#ebedf0; } 6.768% { fill:#ebedf0; } 6.818% { fill:#0e4429; } 7.071% { fill:#1a7f37; } 7.828% { fill:#216e39; } 9.343% { fill:#30a14e; } 12.121% { fill:#40c463; } 13.585999999999999% { fill:#40c463; } 13.636% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c6_6 { animation:kc6_6 39.6s linear infinite; }
+@keyframes kc7_0 { 0.0% { fill:#9be9a8; } 16.617% { fill:#9be9a8; } 16.667% { fill:#0e4429; } 16.919% { fill:#1a7f37; } 17.677% { fill:#216e39; } 19.192% { fill:#30a14e; } 21.97% { fill:#40c463; } 25.203% { fill:#40c463; } 25.253% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c7_0 { animation:kc7_0 39.6s linear infinite; }
+@keyframes kc7_1 { 0.0% { fill:#9be9a8; } 8.787999999999998% { fill:#9be9a8; } 8.838% { fill:#0e4429; } 9.091% { fill:#1a7f37; } 9.848% { fill:#216e39; } 11.364% { fill:#30a14e; } 14.141% { fill:#40c463; } 15.859% { fill:#40c463; } 15.909% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c7_1 { animation:kc7_1 39.6s linear infinite; }
+@keyframes kc7_2 { 0.0% { fill:#ebedf0; } 8.536% { fill:#ebedf0; } 8.586% { fill:#0e4429; } 8.838% { fill:#1a7f37; } 9.596% { fill:#216e39; } 11.111% { fill:#30a14e; } 13.889% { fill:#40c463; } 15.354% { fill:#40c463; } 15.404% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c7_2 { animation:kc7_2 39.6s linear infinite; }
+@keyframes kc7_3 { 0.0% { fill:#ebedf0; } 8.283% { fill:#ebedf0; } 8.333% { fill:#0e4429; } 8.586% { fill:#1a7f37; } 9.343% { fill:#216e39; } 10.859% { fill:#30a14e; } 13.636% { fill:#40c463; } 15.101999999999999% { fill:#40c463; } 15.152% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c7_3 { animation:kc7_3 39.6s linear infinite; }
+@keyframes kc7_4 { 0.0% { fill:#9be9a8; } 2.475% { fill:#9be9a8; } 2.525% { fill:#0e4429; } 2.778% { fill:#1a7f37; } 3.535% { fill:#216e39; } 5.051% { fill:#30a14e; } 7.828% { fill:#40c463; } 8.030999999999999% { fill:#40c463; } 8.081% { fill:#ebedf0; } 21.162% { fill:#ebedf0; } 21.212% { fill:#0e4429; } 21.465% { fill:#1a7f37; } 22.222% { fill:#216e39; } 23.737% { fill:#30a14e; } 26.515% { fill:#40c463; } 31.262999999999998% { fill:#40c463; } 31.313% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c7_4 { animation:kc7_4 39.6s linear infinite; }
+@keyframes kc7_5 { 0.0% { fill:#9be9a8; } 2.728% { fill:#9be9a8; } 2.778% { fill:#0e4429; } 3.03% { fill:#1a7f37; } 3.788% { fill:#216e39; } 5.303% { fill:#30a14e; } 8.081% { fill:#40c463; } 8.283% { fill:#40c463; } 8.333% { fill:#ebedf0; } 13.838999999999999% { fill:#ebedf0; } 13.889% { fill:#0e4429; } 14.141% { fill:#1a7f37; } 14.899% { fill:#216e39; } 16.414% { fill:#30a14e; } 19.192% { fill:#40c463; } 21.162% { fill:#40c463; } 21.212% { fill:#ebedf0; } 21.415% { fill:#ebedf0; } 21.465% { fill:#0e4429; } 21.717% { fill:#1a7f37; } 22.475% { fill:#216e39; } 23.99% { fill:#30a14e; } 26.768% { fill:#40c463; } 31.516% { fill:#40c463; } 31.566% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c7_5 { animation:kc7_5 39.6s linear infinite; }
+@keyframes kc7_6 { 0.0% { fill:#ebedf0; } 7.021% { fill:#ebedf0; } 7.071% { fill:#0e4429; } 7.323% { fill:#1a7f37; } 8.081% { fill:#216e39; } 9.596% { fill:#30a14e; } 12.374% { fill:#40c463; } 13.838999999999999% { fill:#40c463; } 13.889% { fill:#ebedf0; } 14.091% { fill:#ebedf0; } 14.141% { fill:#0e4429; } 14.394% { fill:#1a7f37; } 15.152% { fill:#216e39; } 16.667% { fill:#30a14e; } 19.444% { fill:#40c463; } 21.415% { fill:#40c463; } 21.465% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c7_6 { animation:kc7_6 39.6s linear infinite; }
+@keyframes kc8_0 { 0.0% { fill:#ebedf0; } 16.364% { fill:#ebedf0; } 16.414% { fill:#0e4429; } 16.667% { fill:#1a7f37; } 17.424% { fill:#216e39; } 18.939% { fill:#30a14e; } 21.717% { fill:#40c463; } 24.697% { fill:#40c463; } 24.747% { fill:#ebedf0; } 29.495% { fill:#ebedf0; } 29.545% { fill:#0e4429; } 29.798% { fill:#1a7f37; } 30.556% { fill:#216e39; } 32.071% { fill:#30a14e; } 34.848% { fill:#40c463; } 39.596000000000004% { fill:#40c463; } 39.646% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c8_0 { animation:kc8_0 39.6s linear infinite; }
+@keyframes kc8_1 { 0.0% { fill:#ebedf0; } 16.112% { fill:#ebedf0; } 16.162% { fill:#0e4429; } 16.414% { fill:#1a7f37; } 17.172% { fill:#216e39; } 18.687% { fill:#30a14e; } 21.465% { fill:#40c463; } 24.445% { fill:#40c463; } 24.495% { fill:#ebedf0; } 29.747999999999998% { fill:#ebedf0; } 29.798% { fill:#0e4429; } 30.051% { fill:#1a7f37; } 30.808% { fill:#216e39; } 32.323% { fill:#30a14e; } 35.101% { fill:#40c463; } 39.849000000000004% { fill:#40c463; } 39.899% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c8_1 { animation:kc8_1 39.6s linear infinite; }
+@keyframes kc8_2 { 0.0% { fill:#ebedf0; } 15.859% { fill:#ebedf0; } 15.909% { fill:#0e4429; } 16.162% { fill:#1a7f37; } 16.919% { fill:#216e39; } 18.434% { fill:#30a14e; } 21.212% { fill:#40c463; } 23.182% { fill:#40c463; } 23.232% { fill:#ebedf0; } 30.000999999999998% { fill:#ebedf0; } 30.051% { fill:#0e4429; } 30.303% { fill:#1a7f37; } 31.061% { fill:#216e39; } 32.576% { fill:#30a14e; } 35.354% { fill:#40c463; } 40.102000000000004% { fill:#40c463; } 40.152% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c8_2 { animation:kc8_2 39.6s linear infinite; }
+@keyframes kc8_3 { 0.0% { fill:#ebedf0; } 8.030999999999999% { fill:#ebedf0; } 8.081% { fill:#0e4429; } 8.333% { fill:#1a7f37; } 9.091% { fill:#216e39; } 10.606% { fill:#30a14e; } 13.384% { fill:#40c463; } 14.848999999999998% { fill:#40c463; } 14.899% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c8_3 { animation:kc8_3 39.6s linear infinite; }
+@keyframes kc8_4 { 0.0% { fill:#ebedf0; } 7.7780000000000005% { fill:#ebedf0; } 7.828% { fill:#0e4429; } 8.081% { fill:#1a7f37; } 8.838% { fill:#216e39; } 10.354% { fill:#30a14e; } 13.131% { fill:#40c463; } 14.596% { fill:#40c463; } 14.646% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c8_4 { animation:kc8_4 39.6s linear infinite; }
+@keyframes kc8_5 { 0.0% { fill:#ebedf0; } 7.526% { fill:#ebedf0; } 7.576% { fill:#0e4429; } 7.828% { fill:#1a7f37; } 8.586% { fill:#216e39; } 10.101% { fill:#30a14e; } 12.879% { fill:#40c463; } 14.344% { fill:#40c463; } 14.394% { fill:#ebedf0; } 21.666999999999998% { fill:#ebedf0; } 21.717% { fill:#0e4429; } 21.97% { fill:#1a7f37; } 22.727% { fill:#216e39; } 24.242% { fill:#30a14e; } 27.02% { fill:#40c463; } 31.768% { fill:#40c463; } 31.818% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c8_5 { animation:kc8_5 39.6s linear infinite; }
+@keyframes kc8_6 { 0.0% { fill:#ebedf0; } 7.273000000000001% { fill:#ebedf0; } 7.323% { fill:#0e4429; } 7.576% { fill:#1a7f37; } 8.333% { fill:#216e39; } 9.848% { fill:#30a14e; } 12.626% { fill:#40c463; } 14.091% { fill:#40c463; } 14.141% { fill:#ebedf0; } 14.344% { fill:#ebedf0; } 14.394% { fill:#0e4429; } 14.646% { fill:#1a7f37; } 15.404% { fill:#216e39; } 16.919% { fill:#30a14e; } 19.697% { fill:#40c463; } 21.666999999999998% { fill:#40c463; } 21.717% { fill:#ebedf0; } 21.919999999999998% { fill:#ebedf0; } 21.97% { fill:#0e4429; } 22.222% { fill:#1a7f37; } 22.98% { fill:#216e39; } 24.495% { fill:#30a14e; } 27.273% { fill:#40c463; } 32.021% { fill:#40c463; } 32.071% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c8_6 { animation:kc8_6 39.6s linear infinite; }
+@keyframes kc9_0 { 0.0% { fill:#9be9a8; } 29.243% { fill:#9be9a8; } 29.293% { fill:#0e4429; } 29.545% { fill:#1a7f37; } 30.303% { fill:#216e39; } 31.818% { fill:#30a14e; } 34.596% { fill:#40c463; } 39.344% { fill:#40c463; } 39.394% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c9_0 { animation:kc9_0 39.6s linear infinite; }
+@keyframes kc9_1 { 0.0% { fill:#ebedf0; } 28.99% { fill:#ebedf0; } 29.04% { fill:#0e4429; } 29.293% { fill:#1a7f37; } 30.051% { fill:#216e39; } 31.566% { fill:#30a14e; } 34.343% { fill:#40c463; } 39.091% { fill:#40c463; } 39.141% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c9_1 { animation:kc9_1 39.6s linear infinite; }
+@keyframes kc9_2 { 0.0% { fill:#9be9a8; } 15.607% { fill:#9be9a8; } 15.657% { fill:#0e4429; } 15.909% { fill:#1a7f37; } 16.667% { fill:#216e39; } 18.182% { fill:#30a14e; } 20.96% { fill:#40c463; } 22.93% { fill:#40c463; } 22.98% { fill:#ebedf0; } 30.253% { fill:#ebedf0; } 30.303% { fill:#0e4429; } 30.556% { fill:#1a7f37; } 31.313% { fill:#216e39; } 32.828% { fill:#30a14e; } 35.606% { fill:#40c463; } 40.354000000000006% { fill:#40c463; } 40.404% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c9_2 { animation:kc9_2 39.6s linear infinite; }
+@keyframes kc9_3 { 0.0% { fill:#ebedf0; } 15.354% { fill:#ebedf0; } 15.404% { fill:#0e4429; } 15.657% { fill:#1a7f37; } 16.414% { fill:#216e39; } 17.929% { fill:#30a14e; } 20.707% { fill:#40c463; } 22.677% { fill:#40c463; } 22.727% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c9_3 { animation:kc9_3 39.6s linear infinite; }
+@keyframes kc9_4 { 0.0% { fill:#ebedf0; } 15.101999999999999% { fill:#ebedf0; } 15.152% { fill:#0e4429; } 15.404% { fill:#1a7f37; } 16.162% { fill:#216e39; } 17.677% { fill:#30a14e; } 20.455% { fill:#40c463; } 22.425% { fill:#40c463; } 22.475% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c9_4 { animation:kc9_4 39.6s linear infinite; }
+@keyframes kc9_5 { 0.0% { fill:#ebedf0; } 14.848999999999998% { fill:#ebedf0; } 14.899% { fill:#0e4429; } 15.152% { fill:#1a7f37; } 15.909% { fill:#216e39; } 17.424% { fill:#30a14e; } 20.202% { fill:#40c463; } 22.172% { fill:#40c463; } 22.222% { fill:#ebedf0; } 32.526% { fill:#ebedf0; } 32.576% { fill:#0e4429; } 32.828% { fill:#1a7f37; } 33.586% { fill:#216e39; } 35.101% { fill:#30a14e; } 37.879% { fill:#40c463; } 42.627% { fill:#40c463; } 42.677% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c9_5 { animation:kc9_5 39.6s linear infinite; }
+@keyframes kc9_6 { 0.0% { fill:#ebedf0; } 14.596% { fill:#ebedf0; } 14.646% { fill:#0e4429; } 14.899% { fill:#1a7f37; } 15.657% { fill:#216e39; } 17.172% { fill:#30a14e; } 19.949% { fill:#40c463; } 21.919999999999998% { fill:#40c463; } 21.97% { fill:#ebedf0; } 22.172% { fill:#ebedf0; } 22.222% { fill:#0e4429; } 22.475% { fill:#1a7f37; } 23.232% { fill:#216e39; } 24.747% { fill:#30a14e; } 27.525% { fill:#40c463; } 32.273% { fill:#40c463; } 32.323% { fill:#ebedf0; } 32.778000000000006% { fill:#ebedf0; } 32.828% { fill:#0e4429; } 33.081% { fill:#1a7f37; } 33.838% { fill:#216e39; } 35.354% { fill:#30a14e; } 38.131% { fill:#40c463; } 42.879000000000005% { fill:#40c463; } 42.929% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c9_6 { animation:kc9_6 39.6s linear infinite; }
+@keyframes kc10_1 { 0.0% { fill:#ebedf0; } 28.738% { fill:#ebedf0; } 28.788% { fill:#0e4429; } 29.04% { fill:#1a7f37; } 29.798% { fill:#216e39; } 31.313% { fill:#30a14e; } 34.091% { fill:#40c463; } 38.839000000000006% { fill:#40c463; } 38.889% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c10_1 { animation:kc10_1 39.6s linear infinite; }
+@keyframes kc10_2 { 0.0% { fill:#ebedf0; } 30.506% { fill:#ebedf0; } 30.556% { fill:#0e4429; } 30.808% { fill:#1a7f37; } 31.566% { fill:#216e39; } 33.081% { fill:#30a14e; } 35.859% { fill:#40c463; } 40.607% { fill:#40c463; } 40.657% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c10_2 { animation:kc10_2 39.6s linear infinite; }
+@keyframes kc10_3 { 0.0% { fill:#ebedf0; } 30.758% { fill:#ebedf0; } 30.808% { fill:#0e4429; } 31.061% { fill:#1a7f37; } 31.818% { fill:#216e39; } 33.333% { fill:#30a14e; } 36.111% { fill:#40c463; } 40.859% { fill:#40c463; } 40.909% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c10_3 { animation:kc10_3 39.6s linear infinite; }
+@keyframes kc10_4 { 0.0% { fill:#ebedf0; } 31.011% { fill:#ebedf0; } 31.061% { fill:#0e4429; } 31.313% { fill:#1a7f37; } 32.071% { fill:#216e39; } 33.586% { fill:#30a14e; } 36.364% { fill:#40c463; } 41.112% { fill:#40c463; } 41.162% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c10_4 { animation:kc10_4 39.6s linear infinite; }
+@keyframes kc10_5 { 0.0% { fill:#ebedf0; } 32.273% { fill:#ebedf0; } 32.323% { fill:#0e4429; } 32.576% { fill:#1a7f37; } 33.333% { fill:#216e39; } 34.848% { fill:#30a14e; } 37.626% { fill:#40c463; } 42.374% { fill:#40c463; } 42.424% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c10_5 { animation:kc10_5 39.6s linear infinite; }
+@keyframes kc10_6 { 0.0% { fill:#ebedf0; } 22.425% { fill:#ebedf0; } 22.475% { fill:#0e4429; } 22.727% { fill:#1a7f37; } 23.485% { fill:#216e39; } 25.0% { fill:#30a14e; } 27.778% { fill:#40c463; } 32.526% { fill:#40c463; } 32.576% { fill:#ebedf0; } 33.031000000000006% { fill:#ebedf0; } 33.081% { fill:#0e4429; } 33.333% { fill:#1a7f37; } 34.091% { fill:#216e39; } 35.606% { fill:#30a14e; } 38.384% { fill:#40c463; } 43.132000000000005% { fill:#40c463; } 43.182% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c10_6 { animation:kc10_6 39.6s linear infinite; }
+@keyframes kc11_1 { 0.0% { fill:#9be9a8; } 28.485% { fill:#9be9a8; } 28.535% { fill:#0e4429; } 28.788% { fill:#1a7f37; } 29.545% { fill:#216e39; } 31.061% { fill:#30a14e; } 33.838% { fill:#40c463; } 38.586000000000006% { fill:#40c463; } 38.636% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c11_1 { animation:kc11_1 39.6s linear infinite; }
+@keyframes kc11_2 { 0.0% { fill:#9be9a8; } 28.233% { fill:#9be9a8; } 28.283% { fill:#0e4429; } 28.535% { fill:#1a7f37; } 29.293% { fill:#216e39; } 30.808% { fill:#30a14e; } 33.586% { fill:#40c463; } 38.334% { fill:#40c463; } 38.384% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c11_2 { animation:kc11_2 39.6s linear infinite; }
+@keyframes kc11_3 { 0.0% { fill:#ebedf0; } 27.98% { fill:#ebedf0; } 28.03% { fill:#0e4429; } 28.283% { fill:#1a7f37; } 29.04% { fill:#216e39; } 30.556% { fill:#30a14e; } 33.333% { fill:#40c463; } 38.081% { fill:#40c463; } 38.131% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c11_3 { animation:kc11_3 39.6s linear infinite; }
+@keyframes kc11_4 { 0.0% { fill:#ebedf0; } 31.262999999999998% { fill:#ebedf0; } 31.313% { fill:#0e4429; } 31.566% { fill:#1a7f37; } 32.323% { fill:#216e39; } 33.838% { fill:#30a14e; } 36.616% { fill:#40c463; } 41.364000000000004% { fill:#40c463; } 41.414% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c11_4 { animation:kc11_4 39.6s linear infinite; }
+@keyframes kc11_5 { 0.0% { fill:#ebedf0; } 32.021% { fill:#ebedf0; } 32.071% { fill:#0e4429; } 32.323% { fill:#1a7f37; } 33.081% { fill:#216e39; } 34.596% { fill:#30a14e; } 37.374% { fill:#40c463; } 42.122% { fill:#40c463; } 42.172% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c11_5 { animation:kc11_5 39.6s linear infinite; }
+@keyframes kc11_6 { 0.0% { fill:#ebedf0; } 22.677% { fill:#ebedf0; } 22.727% { fill:#0e4429; } 22.98% { fill:#1a7f37; } 23.737% { fill:#216e39; } 25.253% { fill:#30a14e; } 28.03% { fill:#40c463; } 32.778000000000006% { fill:#40c463; } 32.828% { fill:#ebedf0; } 33.283% { fill:#ebedf0; } 33.333% { fill:#0e4429; } 33.586% { fill:#1a7f37; } 34.343% { fill:#216e39; } 35.859% { fill:#30a14e; } 38.636% { fill:#40c463; } 43.384% { fill:#40c463; } 43.434% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c11_6 { animation:kc11_6 39.6s linear infinite; }
+@keyframes kc12_3 { 0.0% { fill:#ebedf0; } 27.727999999999998% { fill:#ebedf0; } 27.778% { fill:#0e4429; } 28.03% { fill:#1a7f37; } 28.788% { fill:#216e39; } 30.303% { fill:#30a14e; } 33.081% { fill:#40c463; } 37.829% { fill:#40c463; } 37.879% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c12_3 { animation:kc12_3 39.6s linear infinite; }
+@keyframes kc12_4 { 0.0% { fill:#ebedf0; } 31.516% { fill:#ebedf0; } 31.566% { fill:#0e4429; } 31.818% { fill:#1a7f37; } 32.576% { fill:#216e39; } 34.091% { fill:#30a14e; } 36.869% { fill:#40c463; } 41.617000000000004% { fill:#40c463; } 41.667% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c12_4 { animation:kc12_4 39.6s linear infinite; }
+@keyframes kc12_5 { 0.0% { fill:#ebedf0; } 31.768% { fill:#ebedf0; } 31.818% { fill:#0e4429; } 32.071% { fill:#1a7f37; } 32.828% { fill:#216e39; } 34.343% { fill:#30a14e; } 37.121% { fill:#40c463; } 41.869% { fill:#40c463; } 41.919% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c12_5 { animation:kc12_5 39.6s linear infinite; }
+@keyframes kc12_6 { 0.0% { fill:#ebedf0; } 22.93% { fill:#ebedf0; } 22.98% { fill:#0e4429; } 23.232% { fill:#1a7f37; } 23.99% { fill:#216e39; } 25.505% { fill:#30a14e; } 28.283% { fill:#40c463; } 33.031000000000006% { fill:#40c463; } 33.081% { fill:#ebedf0; } 33.536% { fill:#ebedf0; } 33.586% { fill:#0e4429; } 33.838% { fill:#1a7f37; } 34.596% { fill:#216e39; } 36.111% { fill:#30a14e; } 38.889% { fill:#40c463; } 43.637% { fill:#40c463; } 43.687% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c12_6 { animation:kc12_6 39.6s linear infinite; }
+@keyframes kc13_2 { 0.0% { fill:#ebedf0; } 27.223% { fill:#ebedf0; } 27.273% { fill:#0e4429; } 27.525% { fill:#1a7f37; } 28.283% { fill:#216e39; } 29.798% { fill:#30a14e; } 32.576% { fill:#40c463; } 37.324000000000005% { fill:#40c463; } 37.374% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c13_2 { animation:kc13_2 39.6s linear infinite; }
+@keyframes kc13_3 { 0.0% { fill:#9be9a8; } 27.474999999999998% { fill:#9be9a8; } 27.525% { fill:#0e4429; } 27.778% { fill:#1a7f37; } 28.535% { fill:#216e39; } 30.051% { fill:#30a14e; } 32.828% { fill:#40c463; } 37.576% { fill:#40c463; } 37.626% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c13_3 { animation:kc13_3 39.6s linear infinite; }
+@keyframes kc13_5 { 0.0% { fill:#9be9a8; } 23.435% { fill:#9be9a8; } 23.485% { fill:#0e4429; } 23.737% { fill:#1a7f37; } 24.495% { fill:#216e39; } 26.01% { fill:#30a14e; } 28.788% { fill:#40c463; } 33.536% { fill:#40c463; } 33.586% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c13_5 { animation:kc13_5 39.6s linear infinite; }
+@keyframes kc13_6 { 0.0% { fill:#ebedf0; } 23.182% { fill:#ebedf0; } 23.232% { fill:#0e4429; } 23.485% { fill:#1a7f37; } 24.242% { fill:#216e39; } 25.758% { fill:#30a14e; } 28.535% { fill:#40c463; } 33.283% { fill:#40c463; } 33.333% { fill:#ebedf0; } 33.788000000000004% { fill:#ebedf0; } 33.838% { fill:#0e4429; } 34.091% { fill:#1a7f37; } 34.848% { fill:#216e39; } 36.364% { fill:#30a14e; } 39.141% { fill:#40c463; } 43.889% { fill:#40c463; } 43.939% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c13_6 { animation:kc13_6 39.6s linear infinite; }
+@keyframes kc14_1 { 0.0% { fill:#9be9a8; } 26.718% { fill:#9be9a8; } 26.768% { fill:#0e4429; } 27.02% { fill:#1a7f37; } 27.778% { fill:#216e39; } 29.293% { fill:#30a14e; } 32.071% { fill:#40c463; } 36.819% { fill:#40c463; } 36.869% { fill:#ebedf0; } 92.37400000000001% { fill:#ebedf0; } 92.424% { fill:#0e4429; } 92.677% { fill:#1a7f37; } 93.434% { fill:#216e39; } 94.949% { fill:#30a14e; } 97.727% { fill:#40c463; } 100% { fill:#40c463; } }
+.c14_1 { animation:kc14_1 39.6s linear infinite; }
+@keyframes kc14_2 { 0.0% { fill:#9be9a8; } 26.97% { fill:#9be9a8; } 27.02% { fill:#0e4429; } 27.273% { fill:#1a7f37; } 28.03% { fill:#216e39; } 29.545% { fill:#30a14e; } 32.323% { fill:#40c463; } 37.071000000000005% { fill:#40c463; } 37.121% { fill:#ebedf0; } 46.162000000000006% { fill:#ebedf0; } 46.212% { fill:#0e4429; } 46.465% { fill:#1a7f37; } 47.222% { fill:#216e39; } 48.737% { fill:#30a14e; } 51.515% { fill:#40c463; } 56.263000000000005% { fill:#40c463; } 56.313% { fill:#ebedf0; } 92.62700000000001% { fill:#ebedf0; } 92.677% { fill:#0e4429; } 92.929% { fill:#1a7f37; } 93.687% { fill:#216e39; } 95.202% { fill:#30a14e; } 97.98% { fill:#40c463; } 100% { fill:#40c463; } }
+.c14_2 { animation:kc14_2 39.6s linear infinite; }
+@keyframes kc14_3 { 0.0% { fill:#40c463; } 46.415000000000006% { fill:#40c463; } 46.465% { fill:#0e4429; } 46.717% { fill:#1a7f37; } 47.475% { fill:#216e39; } 48.99% { fill:#30a14e; } 51.768% { fill:#40c463; } 56.516000000000005% { fill:#40c463; } 56.566% { fill:#ebedf0; } 92.879% { fill:#ebedf0; } 92.929% { fill:#0e4429; } 93.182% { fill:#1a7f37; } 93.939% { fill:#216e39; } 95.455% { fill:#30a14e; } 98.232% { fill:#40c463; } 100% { fill:#40c463; } }
+.c14_3 { animation:kc14_3 39.6s linear infinite; }
+@keyframes kc14_4 { 0.0% { fill:#216e39; } 93.132% { fill:#216e39; } 93.182% { fill:#0e4429; } 93.434% { fill:#1a7f37; } 94.192% { fill:#216e39; } 95.707% { fill:#30a14e; } 98.485% { fill:#40c463; } 100% { fill:#40c463; } }
+.c14_4 { animation:kc14_4 39.6s linear infinite; }
+@keyframes kc14_5 { 0.0% { fill:#9be9a8; } 23.686999999999998% { fill:#9be9a8; } 23.737% { fill:#0e4429; } 23.99% { fill:#1a7f37; } 24.747% { fill:#216e39; } 26.263% { fill:#30a14e; } 29.04% { fill:#40c463; } 33.788000000000004% { fill:#40c463; } 33.838% { fill:#ebedf0; } 34.293000000000006% { fill:#ebedf0; } 34.343% { fill:#0e4429; } 34.596% { fill:#1a7f37; } 35.354% { fill:#216e39; } 36.869% { fill:#30a14e; } 39.646% { fill:#40c463; } 44.394000000000005% { fill:#40c463; } 44.444% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c14_5 { animation:kc14_5 39.6s linear infinite; }
+@keyframes kc14_6 { 0.0% { fill:#40c463; } 34.041000000000004% { fill:#40c463; } 34.091% { fill:#0e4429; } 34.343% { fill:#1a7f37; } 35.101% { fill:#216e39; } 36.616% { fill:#30a14e; } 39.394% { fill:#40c463; } 44.142% { fill:#40c463; } 44.192% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c14_6 { animation:kc14_6 39.6s linear infinite; }
+@keyframes kc15_1 { 0.0% { fill:#9be9a8; } 26.465% { fill:#9be9a8; } 26.515% { fill:#0e4429; } 26.768% { fill:#1a7f37; } 27.525% { fill:#216e39; } 29.04% { fill:#30a14e; } 31.818% { fill:#40c463; } 36.566% { fill:#40c463; } 36.616% { fill:#ebedf0; } 45.657000000000004% { fill:#ebedf0; } 45.707% { fill:#0e4429; } 45.96% { fill:#1a7f37; } 46.717% { fill:#216e39; } 48.232% { fill:#30a14e; } 51.01% { fill:#40c463; } 55.758% { fill:#40c463; } 55.808% { fill:#ebedf0; } 92.122% { fill:#ebedf0; } 92.172% { fill:#0e4429; } 92.424% { fill:#1a7f37; } 93.182% { fill:#216e39; } 94.697% { fill:#30a14e; } 97.475% { fill:#40c463; } 100% { fill:#40c463; } }
+.c15_1 { animation:kc15_1 39.6s linear infinite; }
+@keyframes kc15_2 { 0.0% { fill:#40c463; } 45.910000000000004% { fill:#40c463; } 45.96% { fill:#0e4429; } 46.212% { fill:#1a7f37; } 46.97% { fill:#216e39; } 48.485% { fill:#30a14e; } 51.263% { fill:#40c463; } 56.011% { fill:#40c463; } 56.061% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c15_2 { animation:kc15_2 39.6s linear infinite; }
+@keyframes kc15_3 { 0.0% { fill:#9be9a8; } 25.455% { fill:#9be9a8; } 25.505% { fill:#0e4429; } 25.758% { fill:#1a7f37; } 26.515% { fill:#216e39; } 28.03% { fill:#30a14e; } 30.808% { fill:#40c463; } 35.556000000000004% { fill:#40c463; } 35.606% { fill:#ebedf0; } 46.667% { fill:#ebedf0; } 46.717% { fill:#0e4429; } 46.97% { fill:#1a7f37; } 47.727% { fill:#216e39; } 49.242% { fill:#30a14e; } 52.02% { fill:#40c463; } 56.768% { fill:#40c463; } 56.818% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c15_3 { animation:kc15_3 39.6s linear infinite; }
+@keyframes kc15_4 { 0.0% { fill:#ebedf0; } 25.203% { fill:#ebedf0; } 25.253% { fill:#0e4429; } 25.505% { fill:#1a7f37; } 26.263% { fill:#216e39; } 27.778% { fill:#30a14e; } 30.556% { fill:#40c463; } 35.304% { fill:#40c463; } 35.354% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c15_4 { animation:kc15_4 39.6s linear infinite; }
+@keyframes kc15_5 { 0.0% { fill:#9be9a8; } 23.939999999999998% { fill:#9be9a8; } 23.99% { fill:#0e4429; } 24.242% { fill:#1a7f37; } 25.0% { fill:#216e39; } 26.515% { fill:#30a14e; } 29.293% { fill:#40c463; } 34.041000000000004% { fill:#40c463; } 34.091% { fill:#ebedf0; } 34.546% { fill:#ebedf0; } 34.596% { fill:#0e4429; } 34.848% { fill:#1a7f37; } 35.606% { fill:#216e39; } 37.121% { fill:#30a14e; } 39.899% { fill:#40c463; } 44.647000000000006% { fill:#40c463; } 44.697% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c15_5 { animation:kc15_5 39.6s linear infinite; }
+@keyframes kc15_6 { 0.0% { fill:#9be9a8; } 24.192% { fill:#9be9a8; } 24.242% { fill:#0e4429; } 24.495% { fill:#1a7f37; } 25.253% { fill:#216e39; } 26.768% { fill:#30a14e; } 29.545% { fill:#40c463; } 34.293000000000006% { fill:#40c463; } 34.343% { fill:#ebedf0; } 34.798% { fill:#ebedf0; } 34.848% { fill:#0e4429; } 35.101% { fill:#1a7f37; } 35.859% { fill:#216e39; } 37.374% { fill:#30a14e; } 40.152% { fill:#40c463; } 44.899% { fill:#40c463; } 44.949% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c15_6 { animation:kc15_6 39.6s linear infinite; }
+@keyframes kc16_1 { 0.0% { fill:#9be9a8; } 26.213% { fill:#9be9a8; } 26.263% { fill:#0e4429; } 26.515% { fill:#1a7f37; } 27.273% { fill:#216e39; } 28.788% { fill:#30a14e; } 31.566% { fill:#40c463; } 36.314% { fill:#40c463; } 36.364% { fill:#ebedf0; } 45.405% { fill:#ebedf0; } 45.455% { fill:#0e4429; } 45.707% { fill:#1a7f37; } 46.465% { fill:#216e39; } 47.98% { fill:#30a14e; } 50.758% { fill:#40c463; } 55.506% { fill:#40c463; } 55.556% { fill:#ebedf0; } 91.869% { fill:#ebedf0; } 91.919% { fill:#0e4429; } 92.172% { fill:#1a7f37; } 92.929% { fill:#216e39; } 94.444% { fill:#30a14e; } 97.222% { fill:#40c463; } 100% { fill:#40c463; } }
+.c16_1 { animation:kc16_1 39.6s linear infinite; }
+@keyframes kc16_2 { 0.0% { fill:#40c463; } 25.96% { fill:#40c463; } 26.01% { fill:#0e4429; } 26.263% { fill:#1a7f37; } 27.02% { fill:#216e39; } 28.535% { fill:#30a14e; } 31.313% { fill:#40c463; } 36.061% { fill:#40c463; } 36.111% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c16_2 { animation:kc16_2 39.6s linear infinite; }
+@keyframes kc16_3 { 0.0% { fill:#9be9a8; } 25.708% { fill:#9be9a8; } 25.758% { fill:#0e4429; } 26.01% { fill:#1a7f37; } 26.768% { fill:#216e39; } 28.283% { fill:#30a14e; } 31.061% { fill:#40c463; } 35.809000000000005% { fill:#40c463; } 35.859% { fill:#ebedf0; } 46.92% { fill:#ebedf0; } 46.97% { fill:#0e4429; } 47.222% { fill:#1a7f37; } 47.98% { fill:#216e39; } 49.495% { fill:#30a14e; } 52.273% { fill:#40c463; } 57.021% { fill:#40c463; } 57.071% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c16_3 { animation:kc16_3 39.6s linear infinite; }
+@keyframes kc16_4 { 0.0% { fill:#30a14e; } 24.95% { fill:#30a14e; } 25.0% { fill:#0e4429; } 25.253% { fill:#1a7f37; } 26.01% { fill:#216e39; } 27.525% { fill:#30a14e; } 30.303% { fill:#40c463; } 35.051% { fill:#40c463; } 35.101% { fill:#ebedf0; } 47.172000000000004% { fill:#ebedf0; } 47.222% { fill:#0e4429; } 47.475% { fill:#1a7f37; } 48.232% { fill:#216e39; } 49.747% { fill:#30a14e; } 52.525% { fill:#40c463; } 57.273% { fill:#40c463; } 57.323% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c16_4 { animation:kc16_4 39.6s linear infinite; }
+@keyframes kc16_5 { 0.0% { fill:#ebedf0; } 24.697% { fill:#ebedf0; } 24.747% { fill:#0e4429; } 25.0% { fill:#1a7f37; } 25.758% { fill:#216e39; } 27.273% { fill:#30a14e; } 30.051% { fill:#40c463; } 34.798% { fill:#40c463; } 34.848% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c16_5 { animation:kc16_5 39.6s linear infinite; }
+@keyframes kc16_6 { 0.0% { fill:#ebedf0; } 24.445% { fill:#ebedf0; } 24.495% { fill:#0e4429; } 24.747% { fill:#1a7f37; } 25.505% { fill:#216e39; } 27.02% { fill:#30a14e; } 29.798% { fill:#40c463; } 34.546% { fill:#40c463; } 34.596% { fill:#ebedf0; } 35.051% { fill:#ebedf0; } 35.101% { fill:#0e4429; } 35.354% { fill:#1a7f37; } 36.111% { fill:#216e39; } 37.626% { fill:#30a14e; } 40.404% { fill:#40c463; } 45.152% { fill:#40c463; } 45.202% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c16_6 { animation:kc16_6 39.6s linear infinite; }
+@keyframes kc17_1 { 0.0% { fill:#40c463; } 45.152% { fill:#40c463; } 45.202% { fill:#0e4429; } 45.455% { fill:#1a7f37; } 46.212% { fill:#216e39; } 47.727% { fill:#30a14e; } 50.505% { fill:#40c463; } 55.253% { fill:#40c463; } 55.303% { fill:#ebedf0; } 91.617% { fill:#ebedf0; } 91.667% { fill:#0e4429; } 91.919% { fill:#1a7f37; } 92.677% { fill:#216e39; } 94.192% { fill:#30a14e; } 96.97% { fill:#40c463; } 100% { fill:#40c463; } }
+.c17_1 { animation:kc17_1 39.6s linear infinite; }
+@keyframes kc17_2 { 0.0% { fill:#ebedf0; } 44.899% { fill:#ebedf0; } 44.949% { fill:#0e4429; } 45.202% { fill:#1a7f37; } 45.96% { fill:#216e39; } 47.475% { fill:#30a14e; } 50.253% { fill:#40c463; } 55.001000000000005% { fill:#40c463; } 55.051% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c17_2 { animation:kc17_2 39.6s linear infinite; }
+@keyframes kc17_3 { 0.0% { fill:#ebedf0; } 44.647000000000006% { fill:#ebedf0; } 44.697% { fill:#0e4429; } 44.949% { fill:#1a7f37; } 45.707% { fill:#216e39; } 47.222% { fill:#30a14e; } 50.0% { fill:#40c463; } 54.748000000000005% { fill:#40c463; } 54.798% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c17_3 { animation:kc17_3 39.6s linear infinite; }
+@keyframes kc17_4 { 0.0% { fill:#9be9a8; } 35.809000000000005% { fill:#9be9a8; } 35.859% { fill:#0e4429; } 36.111% { fill:#1a7f37; } 36.869% { fill:#216e39; } 38.384% { fill:#30a14e; } 41.162% { fill:#40c463; } 45.910000000000004% { fill:#40c463; } 45.96% { fill:#ebedf0; } 47.425000000000004% { fill:#ebedf0; } 47.475% { fill:#0e4429; } 47.727% { fill:#1a7f37; } 48.485% { fill:#216e39; } 50.0% { fill:#30a14e; } 52.778% { fill:#40c463; } 57.526% { fill:#40c463; } 57.576% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c17_4 { animation:kc17_4 39.6s linear infinite; }
+@keyframes kc17_5 { 0.0% { fill:#ebedf0; } 35.556000000000004% { fill:#ebedf0; } 35.606% { fill:#0e4429; } 35.859% { fill:#1a7f37; } 36.616% { fill:#216e39; } 38.131% { fill:#30a14e; } 40.909% { fill:#40c463; } 45.657000000000004% { fill:#40c463; } 45.707% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c17_5 { animation:kc17_5 39.6s linear infinite; }
+@keyframes kc17_6 { 0.0% { fill:#ebedf0; } 35.304% { fill:#ebedf0; } 35.354% { fill:#0e4429; } 35.606% { fill:#1a7f37; } 36.364% { fill:#216e39; } 37.879% { fill:#30a14e; } 40.657% { fill:#40c463; } 45.405% { fill:#40c463; } 45.455% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c17_6 { animation:kc17_6 39.6s linear infinite; }
+@keyframes kc18_0 { 0.0% { fill:#ebedf0; } 43.132000000000005% { fill:#ebedf0; } 43.182% { fill:#0e4429; } 43.434% { fill:#1a7f37; } 44.192% { fill:#216e39; } 45.707% { fill:#30a14e; } 48.485% { fill:#40c463; } 53.233000000000004% { fill:#40c463; } 53.283% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c18_0 { animation:kc18_0 39.6s linear infinite; }
+@keyframes kc18_1 { 0.0% { fill:#ebedf0; } 43.384% { fill:#ebedf0; } 43.434% { fill:#0e4429; } 43.687% { fill:#1a7f37; } 44.444% { fill:#216e39; } 45.96% { fill:#30a14e; } 48.737% { fill:#40c463; } 53.485% { fill:#40c463; } 53.535% { fill:#ebedf0; } 91.364% { fill:#ebedf0; } 91.414% { fill:#0e4429; } 91.667% { fill:#1a7f37; } 92.424% { fill:#216e39; } 93.939% { fill:#30a14e; } 96.717% { fill:#40c463; } 100% { fill:#40c463; } }
+.c18_1 { animation:kc18_1 39.6s linear infinite; }
+@keyframes kc18_2 { 0.0% { fill:#9be9a8; } 43.637% { fill:#9be9a8; } 43.687% { fill:#0e4429; } 43.939% { fill:#1a7f37; } 44.697% { fill:#216e39; } 46.212% { fill:#30a14e; } 48.99% { fill:#40c463; } 53.738% { fill:#40c463; } 53.788% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c18_2 { animation:kc18_2 39.6s linear infinite; }
+@keyframes kc18_3 { 0.0% { fill:#ebedf0; } 44.394000000000005% { fill:#ebedf0; } 44.444% { fill:#0e4429; } 44.697% { fill:#1a7f37; } 45.455% { fill:#216e39; } 46.97% { fill:#30a14e; } 49.747% { fill:#40c463; } 54.495000000000005% { fill:#40c463; } 54.545% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c18_3 { animation:kc18_3 39.6s linear infinite; }
+@keyframes kc18_4 { 0.0% { fill:#ebedf0; } 36.061% { fill:#ebedf0; } 36.111% { fill:#0e4429; } 36.364% { fill:#1a7f37; } 37.121% { fill:#216e39; } 38.636% { fill:#30a14e; } 41.414% { fill:#40c463; } 46.162000000000006% { fill:#40c463; } 46.212% { fill:#ebedf0; } 47.677% { fill:#ebedf0; } 47.727% { fill:#0e4429; } 47.98% { fill:#1a7f37; } 48.737% { fill:#216e39; } 50.253% { fill:#30a14e; } 53.03% { fill:#40c463; } 57.778000000000006% { fill:#40c463; } 57.828% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c18_4 { animation:kc18_4 39.6s linear infinite; }
+@keyframes kc19_0 { 0.0% { fill:#ebedf0; } 42.879000000000005% { fill:#ebedf0; } 42.929% { fill:#0e4429; } 43.182% { fill:#1a7f37; } 43.939% { fill:#216e39; } 45.455% { fill:#30a14e; } 48.232% { fill:#40c463; } 52.980000000000004% { fill:#40c463; } 53.03% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c19_0 { animation:kc19_0 39.6s linear infinite; }
+@keyframes kc19_1 { 0.0% { fill:#30a14e; } 91.11200000000001% { fill:#30a14e; } 91.162% { fill:#0e4429; } 91.414% { fill:#1a7f37; } 92.172% { fill:#216e39; } 93.687% { fill:#30a14e; } 96.465% { fill:#40c463; } 100% { fill:#40c463; } }
+.c19_1 { animation:kc19_1 39.6s linear infinite; }
+@keyframes kc19_2 { 0.0% { fill:#40c463; } 43.889% { fill:#40c463; } 43.939% { fill:#0e4429; } 44.192% { fill:#1a7f37; } 44.949% { fill:#216e39; } 46.465% { fill:#30a14e; } 49.242% { fill:#40c463; } 53.99% { fill:#40c463; } 54.04% { fill:#ebedf0; } 90.85900000000001% { fill:#ebedf0; } 90.909% { fill:#0e4429; } 91.162% { fill:#1a7f37; } 91.919% { fill:#216e39; } 93.434% { fill:#30a14e; } 96.212% { fill:#40c463; } 100% { fill:#40c463; } }
+.c19_2 { animation:kc19_2 39.6s linear infinite; }
+@keyframes kc19_3 { 0.0% { fill:#ebedf0; } 44.142% { fill:#ebedf0; } 44.192% { fill:#0e4429; } 44.444% { fill:#1a7f37; } 45.202% { fill:#216e39; } 46.717% { fill:#30a14e; } 49.495% { fill:#40c463; } 54.243% { fill:#40c463; } 54.293% { fill:#ebedf0; } 90.607% { fill:#ebedf0; } 90.657% { fill:#0e4429; } 90.909% { fill:#1a7f37; } 91.667% { fill:#216e39; } 93.182% { fill:#30a14e; } 95.96% { fill:#40c463; } 100% { fill:#40c463; } }
+.c19_3 { animation:kc19_3 39.6s linear infinite; }
+@keyframes kc19_4 { 0.0% { fill:#9be9a8; } 36.314% { fill:#9be9a8; } 36.364% { fill:#0e4429; } 36.616% { fill:#1a7f37; } 37.374% { fill:#216e39; } 38.889% { fill:#30a14e; } 41.667% { fill:#40c463; } 46.415000000000006% { fill:#40c463; } 46.465% { fill:#ebedf0; } 47.93% { fill:#ebedf0; } 47.98% { fill:#0e4429; } 48.232% { fill:#1a7f37; } 48.99% { fill:#216e39; } 50.505% { fill:#30a14e; } 53.283% { fill:#40c463; } 58.031000000000006% { fill:#40c463; } 58.081% { fill:#ebedf0; } 90.354% { fill:#ebedf0; } 90.404% { fill:#0e4429; } 90.657% { fill:#1a7f37; } 91.414% { fill:#216e39; } 92.929% { fill:#30a14e; } 95.707% { fill:#40c463; } 100% { fill:#40c463; } }
+.c19_4 { animation:kc19_4 39.6s linear infinite; }
+@keyframes kc19_5 { 0.0% { fill:#216e39; } 36.566% { fill:#216e39; } 36.616% { fill:#0e4429; } 36.869% { fill:#1a7f37; } 37.626% { fill:#216e39; } 39.141% { fill:#30a14e; } 41.919% { fill:#40c463; } 46.667% { fill:#40c463; } 46.717% { fill:#ebedf0; } 90.102% { fill:#ebedf0; } 90.152% { fill:#0e4429; } 90.404% { fill:#1a7f37; } 91.162% { fill:#216e39; } 92.677% { fill:#30a14e; } 95.455% { fill:#40c463; } 100% { fill:#40c463; } }
+.c19_5 { animation:kc19_5 39.6s linear infinite; }
+@keyframes kc19_6 { 0.0% { fill:#9be9a8; } 36.819% { fill:#9be9a8; } 36.869% { fill:#0e4429; } 37.121% { fill:#1a7f37; } 37.879% { fill:#216e39; } 39.394% { fill:#30a14e; } 42.172% { fill:#40c463; } 46.92% { fill:#40c463; } 46.97% { fill:#ebedf0; } 89.849% { fill:#ebedf0; } 89.899% { fill:#0e4429; } 90.152% { fill:#1a7f37; } 90.909% { fill:#216e39; } 92.424% { fill:#30a14e; } 95.202% { fill:#40c463; } 100% { fill:#40c463; } }
+.c19_6 { animation:kc19_6 39.6s linear infinite; }
+@keyframes kc20_0 { 0.0% { fill:#9be9a8; } 42.627% { fill:#9be9a8; } 42.677% { fill:#0e4429; } 42.929% { fill:#1a7f37; } 43.687% { fill:#216e39; } 45.202% { fill:#30a14e; } 47.98% { fill:#40c463; } 52.728% { fill:#40c463; } 52.778% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c20_0 { animation:kc20_0 39.6s linear infinite; }
+@keyframes kc20_1 { 0.0% { fill:#216e39; } 48.940000000000005% { fill:#216e39; } 48.99% { fill:#0e4429; } 49.242% { fill:#1a7f37; } 50.0% { fill:#216e39; } 51.515% { fill:#30a14e; } 54.293% { fill:#40c463; } 59.041000000000004% { fill:#40c463; } 59.091% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c20_1 { animation:kc20_1 39.6s linear infinite; }
+@keyframes kc20_2 { 0.0% { fill:#216e39; } 48.687000000000005% { fill:#216e39; } 48.737% { fill:#0e4429; } 48.99% { fill:#1a7f37; } 49.747% { fill:#216e39; } 51.263% { fill:#30a14e; } 54.04% { fill:#40c463; } 58.788000000000004% { fill:#40c463; } 58.838% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c20_2 { animation:kc20_2 39.6s linear infinite; }
+@keyframes kc20_3 { 0.0% { fill:#ebedf0; } 48.435% { fill:#ebedf0; } 48.485% { fill:#0e4429; } 48.737% { fill:#1a7f37; } 49.495% { fill:#216e39; } 51.01% { fill:#30a14e; } 53.788% { fill:#40c463; } 58.536% { fill:#40c463; } 58.586% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c20_3 { animation:kc20_3 39.6s linear infinite; }
+@keyframes kc20_4 { 0.0% { fill:#ebedf0; } 48.182% { fill:#ebedf0; } 48.232% { fill:#0e4429; } 48.485% { fill:#1a7f37; } 49.242% { fill:#216e39; } 50.758% { fill:#30a14e; } 53.535% { fill:#40c463; } 58.283% { fill:#40c463; } 58.333% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c20_4 { animation:kc20_4 39.6s linear infinite; }
+@keyframes kc20_6 { 0.0% { fill:#ebedf0; } 37.071000000000005% { fill:#ebedf0; } 37.121% { fill:#0e4429; } 37.374% { fill:#1a7f37; } 38.131% { fill:#216e39; } 39.646% { fill:#30a14e; } 42.424% { fill:#40c463; } 47.172000000000004% { fill:#40c463; } 47.222% { fill:#ebedf0; } 89.596% { fill:#ebedf0; } 89.646% { fill:#0e4429; } 89.899% { fill:#1a7f37; } 90.657% { fill:#216e39; } 92.172% { fill:#30a14e; } 94.949% { fill:#40c463; } 100% { fill:#40c463; } }
+.c20_6 { animation:kc20_6 39.6s linear infinite; }
+@keyframes kc21_0 { 0.0% { fill:#ebedf0; } 42.374% { fill:#ebedf0; } 42.424% { fill:#0e4429; } 42.677% { fill:#1a7f37; } 43.434% { fill:#216e39; } 44.949% { fill:#30a14e; } 47.727% { fill:#40c463; } 52.475% { fill:#40c463; } 52.525% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c21_0 { animation:kc21_0 39.6s linear infinite; }
+@keyframes kc21_1 { 0.0% { fill:#ebedf0; } 49.192% { fill:#ebedf0; } 49.242% { fill:#0e4429; } 49.495% { fill:#1a7f37; } 50.253% { fill:#216e39; } 51.768% { fill:#30a14e; } 54.545% { fill:#40c463; } 59.293000000000006% { fill:#40c463; } 59.343% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c21_1 { animation:kc21_1 39.6s linear infinite; }
+@keyframes kc21_3 { 0.0% { fill:#9be9a8; } 38.081% { fill:#9be9a8; } 38.131% { fill:#0e4429; } 38.384% { fill:#1a7f37; } 39.141% { fill:#216e39; } 40.657% { fill:#30a14e; } 43.434% { fill:#40c463; } 48.182% { fill:#40c463; } 48.232% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c21_3 { animation:kc21_3 39.6s linear infinite; }
+@keyframes kc21_4 { 0.0% { fill:#ebedf0; } 37.829% { fill:#ebedf0; } 37.879% { fill:#0e4429; } 38.131% { fill:#1a7f37; } 38.889% { fill:#216e39; } 40.404% { fill:#30a14e; } 43.182% { fill:#40c463; } 47.93% { fill:#40c463; } 47.98% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c21_4 { animation:kc21_4 39.6s linear infinite; }
+@keyframes kc21_5 { 0.0% { fill:#40c463; } 37.576% { fill:#40c463; } 37.626% { fill:#0e4429; } 37.879% { fill:#1a7f37; } 38.636% { fill:#216e39; } 40.152% { fill:#30a14e; } 42.929% { fill:#40c463; } 47.677% { fill:#40c463; } 47.727% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c21_5 { animation:kc21_5 39.6s linear infinite; }
+@keyframes kc21_6 { 0.0% { fill:#9be9a8; } 37.324000000000005% { fill:#9be9a8; } 37.374% { fill:#0e4429; } 37.626% { fill:#1a7f37; } 38.384% { fill:#216e39; } 39.899% { fill:#30a14e; } 42.677% { fill:#40c463; } 47.425000000000004% { fill:#40c463; } 47.475% { fill:#ebedf0; } 89.34400000000001% { fill:#ebedf0; } 89.394% { fill:#0e4429; } 89.646% { fill:#1a7f37; } 90.404% { fill:#216e39; } 91.919% { fill:#30a14e; } 94.697% { fill:#40c463; } 100% { fill:#40c463; } }
+.c21_6 { animation:kc21_6 39.6s linear infinite; }
+@keyframes kc22_0 { 0.0% { fill:#ebedf0; } 42.122% { fill:#ebedf0; } 42.172% { fill:#0e4429; } 42.424% { fill:#1a7f37; } 43.182% { fill:#216e39; } 44.697% { fill:#30a14e; } 47.475% { fill:#40c463; } 52.223000000000006% { fill:#40c463; } 52.273% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c22_0 { animation:kc22_0 39.6s linear infinite; }
+@keyframes kc22_1 { 0.0% { fill:#30a14e; } 49.445% { fill:#30a14e; } 49.495% { fill:#0e4429; } 49.747% { fill:#1a7f37; } 50.505% { fill:#216e39; } 52.02% { fill:#30a14e; } 54.798% { fill:#40c463; } 59.546% { fill:#40c463; } 59.596% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c22_1 { animation:kc22_1 39.6s linear infinite; }
+@keyframes kc22_2 { 0.0% { fill:#9be9a8; } 38.586000000000006% { fill:#9be9a8; } 38.636% { fill:#0e4429; } 38.889% { fill:#1a7f37; } 39.646% { fill:#216e39; } 41.162% { fill:#30a14e; } 43.939% { fill:#40c463; } 48.687000000000005% { fill:#40c463; } 48.737% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c22_2 { animation:kc22_2 39.6s linear infinite; }
+@keyframes kc22_3 { 0.0% { fill:#40c463; } 38.334% { fill:#40c463; } 38.384% { fill:#0e4429; } 38.636% { fill:#1a7f37; } 39.394% { fill:#216e39; } 40.909% { fill:#30a14e; } 43.687% { fill:#40c463; } 48.435% { fill:#40c463; } 48.485% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c22_3 { animation:kc22_3 39.6s linear infinite; }
+@keyframes kc22_6 { 0.0% { fill:#ebedf0; } 89.09100000000001% { fill:#ebedf0; } 89.141% { fill:#0e4429; } 89.394% { fill:#1a7f37; } 90.152% { fill:#216e39; } 91.667% { fill:#30a14e; } 94.444% { fill:#40c463; } 100% { fill:#40c463; } }
+.c22_6 { animation:kc22_6 39.6s linear infinite; }
+@keyframes kc23_0 { 0.0% { fill:#ebedf0; } 41.869% { fill:#ebedf0; } 41.919% { fill:#0e4429; } 42.172% { fill:#1a7f37; } 42.929% { fill:#216e39; } 44.444% { fill:#30a14e; } 47.222% { fill:#40c463; } 51.970000000000006% { fill:#40c463; } 52.02% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c23_0 { animation:kc23_0 39.6s linear infinite; }
+@keyframes kc23_1 { 0.0% { fill:#ebedf0; } 49.697% { fill:#ebedf0; } 49.747% { fill:#0e4429; } 50.0% { fill:#1a7f37; } 50.758% { fill:#216e39; } 52.273% { fill:#30a14e; } 55.051% { fill:#40c463; } 59.798% { fill:#40c463; } 59.848% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c23_1 { animation:kc23_1 39.6s linear infinite; }
+@keyframes kc23_2 { 0.0% { fill:#9be9a8; } 38.839000000000006% { fill:#9be9a8; } 38.889% { fill:#0e4429; } 39.141% { fill:#1a7f37; } 39.899% { fill:#216e39; } 41.414% { fill:#30a14e; } 44.192% { fill:#40c463; } 48.940000000000005% { fill:#40c463; } 48.99% { fill:#ebedf0; } 49.95% { fill:#ebedf0; } 50.0% { fill:#0e4429; } 50.253% { fill:#1a7f37; } 51.01% { fill:#216e39; } 52.525% { fill:#30a14e; } 55.303% { fill:#40c463; } 60.051% { fill:#40c463; } 60.101% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c23_2 { animation:kc23_2 39.6s linear infinite; }
+@keyframes kc23_3 { 0.0% { fill:#ebedf0; } 50.203% { fill:#ebedf0; } 50.253% { fill:#0e4429; } 50.505% { fill:#1a7f37; } 51.263% { fill:#216e39; } 52.778% { fill:#30a14e; } 55.556% { fill:#40c463; } 60.304% { fill:#40c463; } 60.354% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c23_3 { animation:kc23_3 39.6s linear infinite; }
+@keyframes kc23_4 { 0.0% { fill:#ebedf0; } 50.455000000000005% { fill:#ebedf0; } 50.505% { fill:#0e4429; } 50.758% { fill:#1a7f37; } 51.515% { fill:#216e39; } 53.03% { fill:#30a14e; } 55.808% { fill:#40c463; } 60.556000000000004% { fill:#40c463; } 60.606% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c23_4 { animation:kc23_4 39.6s linear infinite; }
+@keyframes kc23_5 { 0.0% { fill:#ebedf0; } 50.708000000000006% { fill:#ebedf0; } 50.758% { fill:#0e4429; } 51.01% { fill:#1a7f37; } 51.768% { fill:#216e39; } 53.283% { fill:#30a14e; } 56.061% { fill:#40c463; } 60.809000000000005% { fill:#40c463; } 60.859% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c23_5 { animation:kc23_5 39.6s linear infinite; }
+@keyframes kc23_6 { 0.0% { fill:#ebedf0; } 88.839% { fill:#ebedf0; } 88.889% { fill:#0e4429; } 89.141% { fill:#1a7f37; } 89.899% { fill:#216e39; } 91.414% { fill:#30a14e; } 94.192% { fill:#40c463; } 100% { fill:#40c463; } }
+.c23_6 { animation:kc23_6 39.6s linear infinite; }
+@keyframes kc24_0 { 0.0% { fill:#9be9a8; } 41.617000000000004% { fill:#9be9a8; } 41.667% { fill:#0e4429; } 41.919% { fill:#1a7f37; } 42.677% { fill:#216e39; } 44.192% { fill:#30a14e; } 46.97% { fill:#40c463; } 51.718% { fill:#40c463; } 51.768% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c24_0 { animation:kc24_0 39.6s linear infinite; }
+@keyframes kc24_1 { 0.0% { fill:#ebedf0; } 41.364000000000004% { fill:#ebedf0; } 41.414% { fill:#0e4429; } 41.667% { fill:#1a7f37; } 42.424% { fill:#216e39; } 43.939% { fill:#30a14e; } 46.717% { fill:#40c463; } 51.465% { fill:#40c463; } 51.515% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c24_1 { animation:kc24_1 39.6s linear infinite; }
+@keyframes kc24_2 { 0.0% { fill:#40c463; } 39.091% { fill:#40c463; } 39.141% { fill:#0e4429; } 39.394% { fill:#1a7f37; } 40.152% { fill:#216e39; } 41.667% { fill:#30a14e; } 44.444% { fill:#40c463; } 49.192% { fill:#40c463; } 49.242% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c24_2 { animation:kc24_2 39.6s linear infinite; }
+@keyframes kc24_3 { 0.0% { fill:#9be9a8; } 39.344% { fill:#9be9a8; } 39.394% { fill:#0e4429; } 39.646% { fill:#1a7f37; } 40.404% { fill:#216e39; } 41.919% { fill:#30a14e; } 44.697% { fill:#40c463; } 49.445% { fill:#40c463; } 49.495% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c24_3 { animation:kc24_3 39.6s linear infinite; }
+@keyframes kc24_4 { 0.0% { fill:#9be9a8; } 39.596000000000004% { fill:#9be9a8; } 39.646% { fill:#0e4429; } 39.899% { fill:#1a7f37; } 40.657% { fill:#216e39; } 42.172% { fill:#30a14e; } 44.949% { fill:#40c463; } 49.697% { fill:#40c463; } 49.747% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c24_4 { animation:kc24_4 39.6s linear infinite; }
+@keyframes kc24_5 { 0.0% { fill:#ebedf0; } 50.96% { fill:#ebedf0; } 51.01% { fill:#0e4429; } 51.263% { fill:#1a7f37; } 52.02% { fill:#216e39; } 53.535% { fill:#30a14e; } 56.313% { fill:#40c463; } 61.061% { fill:#40c463; } 61.111% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c24_5 { animation:kc24_5 39.6s linear infinite; }
+@keyframes kc24_6 { 0.0% { fill:#ebedf0; } 88.586% { fill:#ebedf0; } 88.636% { fill:#0e4429; } 88.889% { fill:#1a7f37; } 89.646% { fill:#216e39; } 91.162% { fill:#30a14e; } 93.939% { fill:#40c463; } 100% { fill:#40c463; } }
+.c24_6 { animation:kc24_6 39.6s linear infinite; }
+@keyframes kc25_0 { 0.0% { fill:#ebedf0; } 56.011% { fill:#ebedf0; } 56.061% { fill:#0e4429; } 56.313% { fill:#1a7f37; } 57.071% { fill:#216e39; } 58.586% { fill:#30a14e; } 61.364% { fill:#40c463; } 66.11200000000001% { fill:#40c463; } 66.162% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c25_0 { animation:kc25_0 39.6s linear infinite; }
+@keyframes kc25_1 { 0.0% { fill:#9be9a8; } 41.112% { fill:#9be9a8; } 41.162% { fill:#0e4429; } 41.414% { fill:#1a7f37; } 42.172% { fill:#216e39; } 43.687% { fill:#30a14e; } 46.465% { fill:#40c463; } 51.213% { fill:#40c463; } 51.263% { fill:#ebedf0; } 55.758% { fill:#ebedf0; } 55.808% { fill:#0e4429; } 56.061% { fill:#1a7f37; } 56.818% { fill:#216e39; } 58.333% { fill:#30a14e; } 61.111% { fill:#40c463; } 65.85900000000001% { fill:#40c463; } 65.909% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c25_1 { animation:kc25_1 39.6s linear infinite; }
+@keyframes kc25_2 { 0.0% { fill:#9be9a8; } 40.859% { fill:#9be9a8; } 40.909% { fill:#0e4429; } 41.162% { fill:#1a7f37; } 41.919% { fill:#216e39; } 43.434% { fill:#30a14e; } 46.212% { fill:#40c463; } 50.96% { fill:#40c463; } 51.01% { fill:#ebedf0; } 55.506% { fill:#ebedf0; } 55.556% { fill:#0e4429; } 55.808% { fill:#1a7f37; } 56.566% { fill:#216e39; } 58.081% { fill:#30a14e; } 60.859% { fill:#40c463; } 65.607% { fill:#40c463; } 65.657% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c25_2 { animation:kc25_2 39.6s linear infinite; }
+@keyframes kc25_3 { 0.0% { fill:#ebedf0; } 40.607% { fill:#ebedf0; } 40.657% { fill:#0e4429; } 40.909% { fill:#1a7f37; } 41.667% { fill:#216e39; } 43.182% { fill:#30a14e; } 45.96% { fill:#40c463; } 50.708000000000006% { fill:#40c463; } 50.758% { fill:#ebedf0; } 55.253% { fill:#ebedf0; } 55.303% { fill:#0e4429; } 55.556% { fill:#1a7f37; } 56.313% { fill:#216e39; } 57.828% { fill:#30a14e; } 60.606% { fill:#40c463; } 65.354% { fill:#40c463; } 65.404% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c25_3 { animation:kc25_3 39.6s linear infinite; }
+@keyframes kc25_4 { 0.0% { fill:#ebedf0; } 39.849000000000004% { fill:#ebedf0; } 39.899% { fill:#0e4429; } 40.152% { fill:#1a7f37; } 40.909% { fill:#216e39; } 42.424% { fill:#30a14e; } 45.202% { fill:#40c463; } 49.95% { fill:#40c463; } 50.0% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c25_4 { animation:kc25_4 39.6s linear infinite; }
+@keyframes kc25_5 { 0.0% { fill:#40c463; } 51.213% { fill:#40c463; } 51.263% { fill:#0e4429; } 51.515% { fill:#1a7f37; } 52.273% { fill:#216e39; } 53.788% { fill:#30a14e; } 56.566% { fill:#40c463; } 61.314% { fill:#40c463; } 61.364% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c25_5 { animation:kc25_5 39.6s linear infinite; }
+@keyframes kc25_6 { 0.0% { fill:#ebedf0; } 88.334% { fill:#ebedf0; } 88.384% { fill:#0e4429; } 88.636% { fill:#1a7f37; } 89.394% { fill:#216e39; } 90.909% { fill:#30a14e; } 93.687% { fill:#40c463; } 100% { fill:#40c463; } }
+.c25_6 { animation:kc25_6 39.6s linear infinite; }
+@keyframes kc26_0 { 0.0% { fill:#ebedf0; } 56.263000000000005% { fill:#ebedf0; } 56.313% { fill:#0e4429; } 56.566% { fill:#1a7f37; } 57.323% { fill:#216e39; } 58.838% { fill:#30a14e; } 61.616% { fill:#40c463; } 66.364% { fill:#40c463; } 66.414% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c26_0 { animation:kc26_0 39.6s linear infinite; }
+@keyframes kc26_1 { 0.0% { fill:#ebedf0; } 53.99% { fill:#ebedf0; } 54.04% { fill:#0e4429; } 54.293% { fill:#1a7f37; } 55.051% { fill:#216e39; } 56.566% { fill:#30a14e; } 59.343% { fill:#40c463; } 64.09100000000001% { fill:#40c463; } 64.141% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c26_1 { animation:kc26_1 39.6s linear infinite; }
+@keyframes kc26_2 { 0.0% { fill:#40c463; } 54.243% { fill:#40c463; } 54.293% { fill:#0e4429; } 54.545% { fill:#1a7f37; } 55.303% { fill:#216e39; } 56.818% { fill:#30a14e; } 59.596% { fill:#40c463; } 64.34400000000001% { fill:#40c463; } 64.394% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c26_2 { animation:kc26_2 39.6s linear infinite; }
+@keyframes kc26_3 { 0.0% { fill:#40c463; } 40.354000000000006% { fill:#40c463; } 40.404% { fill:#0e4429; } 40.657% { fill:#1a7f37; } 41.414% { fill:#216e39; } 42.929% { fill:#30a14e; } 45.707% { fill:#40c463; } 50.455000000000005% { fill:#40c463; } 50.505% { fill:#ebedf0; } 55.001000000000005% { fill:#ebedf0; } 55.051% { fill:#0e4429; } 55.303% { fill:#1a7f37; } 56.061% { fill:#216e39; } 57.576% { fill:#30a14e; } 60.354% { fill:#40c463; } 65.102% { fill:#40c463; } 65.152% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c26_3 { animation:kc26_3 39.6s linear infinite; }
+@keyframes kc26_4 { 0.0% { fill:#9be9a8; } 40.102000000000004% { fill:#9be9a8; } 40.152% { fill:#0e4429; } 40.404% { fill:#1a7f37; } 41.162% { fill:#216e39; } 42.677% { fill:#30a14e; } 45.455% { fill:#40c463; } 50.203% { fill:#40c463; } 50.253% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c26_4 { animation:kc26_4 39.6s linear infinite; }
+@keyframes kc26_5 { 0.0% { fill:#ebedf0; } 51.465% { fill:#ebedf0; } 51.515% { fill:#0e4429; } 51.768% { fill:#1a7f37; } 52.525% { fill:#216e39; } 54.04% { fill:#30a14e; } 56.818% { fill:#40c463; } 61.566% { fill:#40c463; } 61.616% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c26_5 { animation:kc26_5 39.6s linear infinite; }
+@keyframes kc26_6 { 0.0% { fill:#ebedf0; } 88.081% { fill:#ebedf0; } 88.131% { fill:#0e4429; } 88.384% { fill:#1a7f37; } 89.141% { fill:#216e39; } 90.657% { fill:#30a14e; } 93.434% { fill:#40c463; } 100% { fill:#40c463; } }
+.c26_6 { animation:kc26_6 39.6s linear infinite; }
+@keyframes kc27_0 { 0.0% { fill:#ebedf0; } 56.516000000000005% { fill:#ebedf0; } 56.566% { fill:#0e4429; } 56.818% { fill:#1a7f37; } 57.576% { fill:#216e39; } 59.091% { fill:#30a14e; } 61.869% { fill:#40c463; } 66.617% { fill:#40c463; } 66.667% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c27_0 { animation:kc27_0 39.6s linear infinite; }
+@keyframes kc27_1 { 0.0% { fill:#ebedf0; } 53.738% { fill:#ebedf0; } 53.788% { fill:#0e4429; } 54.04% { fill:#1a7f37; } 54.798% { fill:#216e39; } 56.313% { fill:#30a14e; } 59.091% { fill:#40c463; } 63.839000000000006% { fill:#40c463; } 63.889% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c27_1 { animation:kc27_1 39.6s linear infinite; }
+@keyframes kc27_2 { 0.0% { fill:#ebedf0; } 54.495000000000005% { fill:#ebedf0; } 54.545% { fill:#0e4429; } 54.798% { fill:#1a7f37; } 55.556% { fill:#216e39; } 57.071% { fill:#30a14e; } 59.848% { fill:#40c463; } 64.596% { fill:#40c463; } 64.646% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c27_2 { animation:kc27_2 39.6s linear infinite; }
+@keyframes kc27_3 { 0.0% { fill:#40c463; } 54.748000000000005% { fill:#40c463; } 54.798% { fill:#0e4429; } 55.051% { fill:#1a7f37; } 55.808% { fill:#216e39; } 57.323% { fill:#30a14e; } 60.101% { fill:#40c463; } 64.849% { fill:#40c463; } 64.899% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c27_3 { animation:kc27_3 39.6s linear infinite; }
+@keyframes kc27_5 { 0.0% { fill:#ebedf0; } 51.718% { fill:#ebedf0; } 51.768% { fill:#0e4429; } 52.02% { fill:#1a7f37; } 52.778% { fill:#216e39; } 54.293% { fill:#30a14e; } 57.071% { fill:#40c463; } 61.819% { fill:#40c463; } 61.869% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c27_5 { animation:kc27_5 39.6s linear infinite; }
+@keyframes kc27_6 { 0.0% { fill:#ebedf0; } 87.82900000000001% { fill:#ebedf0; } 87.879% { fill:#0e4429; } 88.131% { fill:#1a7f37; } 88.889% { fill:#216e39; } 90.404% { fill:#30a14e; } 93.182% { fill:#40c463; } 100% { fill:#40c463; } }
+.c27_6 { animation:kc27_6 39.6s linear infinite; }
+@keyframes kc28_0 { 0.0% { fill:#ebedf0; } 56.768% { fill:#ebedf0; } 56.818% { fill:#0e4429; } 57.071% { fill:#1a7f37; } 57.828% { fill:#216e39; } 59.343% { fill:#30a14e; } 62.121% { fill:#40c463; } 66.869% { fill:#40c463; } 66.919% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c28_0 { animation:kc28_0 39.6s linear infinite; }
+@keyframes kc28_1 { 0.0% { fill:#ebedf0; } 53.485% { fill:#ebedf0; } 53.535% { fill:#0e4429; } 53.788% { fill:#1a7f37; } 54.545% { fill:#216e39; } 56.061% { fill:#30a14e; } 58.838% { fill:#40c463; } 63.586000000000006% { fill:#40c463; } 63.636% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c28_1 { animation:kc28_1 39.6s linear infinite; }
+@keyframes kc28_5 { 0.0% { fill:#ebedf0; } 51.970000000000006% { fill:#ebedf0; } 52.02% { fill:#0e4429; } 52.273% { fill:#1a7f37; } 53.03% { fill:#216e39; } 54.545% { fill:#30a14e; } 57.323% { fill:#40c463; } 62.071000000000005% { fill:#40c463; } 62.121% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c28_5 { animation:kc28_5 39.6s linear infinite; }
+@keyframes kc28_6 { 0.0% { fill:#ebedf0; } 87.57600000000001% { fill:#ebedf0; } 87.626% { fill:#0e4429; } 87.879% { fill:#1a7f37; } 88.636% { fill:#216e39; } 90.152% { fill:#30a14e; } 92.929% { fill:#40c463; } 100% { fill:#40c463; } }
+.c28_6 { animation:kc28_6 39.6s linear infinite; }
+@keyframes kc29_0 { 0.0% { fill:#ebedf0; } 57.021% { fill:#ebedf0; } 57.071% { fill:#0e4429; } 57.323% { fill:#1a7f37; } 58.081% { fill:#216e39; } 59.596% { fill:#30a14e; } 62.374% { fill:#40c463; } 67.122% { fill:#40c463; } 67.172% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c29_0 { animation:kc29_0 39.6s linear infinite; }
+@keyframes kc29_1 { 0.0% { fill:#9be9a8; } 53.233000000000004% { fill:#9be9a8; } 53.283% { fill:#0e4429; } 53.535% { fill:#1a7f37; } 54.293% { fill:#216e39; } 55.808% { fill:#30a14e; } 58.586% { fill:#40c463; } 63.334% { fill:#40c463; } 63.384% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c29_1 { animation:kc29_1 39.6s linear infinite; }
+@keyframes kc29_2 { 0.0% { fill:#9be9a8; } 52.980000000000004% { fill:#9be9a8; } 53.03% { fill:#0e4429; } 53.283% { fill:#1a7f37; } 54.04% { fill:#216e39; } 55.556% { fill:#30a14e; } 58.333% { fill:#40c463; } 63.081% { fill:#40c463; } 63.131% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c29_2 { animation:kc29_2 39.6s linear infinite; }
+@keyframes kc29_3 { 0.0% { fill:#ebedf0; } 52.728% { fill:#ebedf0; } 52.778% { fill:#0e4429; } 53.03% { fill:#1a7f37; } 53.788% { fill:#216e39; } 55.303% { fill:#30a14e; } 58.081% { fill:#40c463; } 62.829% { fill:#40c463; } 62.879% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c29_3 { animation:kc29_3 39.6s linear infinite; }
+@keyframes kc29_4 { 0.0% { fill:#ebedf0; } 52.475% { fill:#ebedf0; } 52.525% { fill:#0e4429; } 52.778% { fill:#1a7f37; } 53.535% { fill:#216e39; } 55.051% { fill:#30a14e; } 57.828% { fill:#40c463; } 62.576% { fill:#40c463; } 62.626% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c29_4 { animation:kc29_4 39.6s linear infinite; }
+@keyframes kc29_5 { 0.0% { fill:#ebedf0; } 52.223000000000006% { fill:#ebedf0; } 52.273% { fill:#0e4429; } 52.525% { fill:#1a7f37; } 53.283% { fill:#216e39; } 54.798% { fill:#30a14e; } 57.576% { fill:#40c463; } 62.324000000000005% { fill:#40c463; } 62.374% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c29_5 { animation:kc29_5 39.6s linear infinite; }
+@keyframes kc29_6 { 0.0% { fill:#ebedf0; } 87.324% { fill:#ebedf0; } 87.374% { fill:#0e4429; } 87.626% { fill:#1a7f37; } 88.384% { fill:#216e39; } 89.899% { fill:#30a14e; } 92.677% { fill:#40c463; } 100% { fill:#40c463; } }
+.c29_6 { animation:kc29_6 39.6s linear infinite; }
+@keyframes kc30_0 { 0.0% { fill:#ebedf0; } 57.273% { fill:#ebedf0; } 57.323% { fill:#0e4429; } 57.576% { fill:#1a7f37; } 58.333% { fill:#216e39; } 59.848% { fill:#30a14e; } 62.626% { fill:#40c463; } 67.37400000000001% { fill:#40c463; } 67.424% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c30_0 { animation:kc30_0 39.6s linear infinite; }
+@keyframes kc30_6 { 0.0% { fill:#ebedf0; } 87.071% { fill:#ebedf0; } 87.121% { fill:#0e4429; } 87.374% { fill:#1a7f37; } 88.131% { fill:#216e39; } 89.646% { fill:#30a14e; } 92.424% { fill:#40c463; } 100% { fill:#40c463; } }
+.c30_6 { animation:kc30_6 39.6s linear infinite; }
+@keyframes kc31_0 { 0.0% { fill:#ebedf0; } 57.526% { fill:#ebedf0; } 57.576% { fill:#0e4429; } 57.828% { fill:#1a7f37; } 58.586% { fill:#216e39; } 60.101% { fill:#30a14e; } 62.879% { fill:#40c463; } 67.62700000000001% { fill:#40c463; } 67.677% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c31_0 { animation:kc31_0 39.6s linear infinite; }
+@keyframes kc31_6 { 0.0% { fill:#ebedf0; } 86.819% { fill:#ebedf0; } 86.869% { fill:#0e4429; } 87.121% { fill:#1a7f37; } 87.879% { fill:#216e39; } 89.394% { fill:#30a14e; } 92.172% { fill:#40c463; } 100% { fill:#40c463; } }
+.c31_6 { animation:kc31_6 39.6s linear infinite; }
+@keyframes kc32_0 { 0.0% { fill:#ebedf0; } 57.778000000000006% { fill:#ebedf0; } 57.828% { fill:#0e4429; } 58.081% { fill:#1a7f37; } 58.838% { fill:#216e39; } 60.354% { fill:#30a14e; } 63.131% { fill:#40c463; } 67.879% { fill:#40c463; } 67.929% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c32_0 { animation:kc32_0 39.6s linear infinite; }
+@keyframes kc32_6 { 0.0% { fill:#ebedf0; } 86.566% { fill:#ebedf0; } 86.616% { fill:#0e4429; } 86.869% { fill:#1a7f37; } 87.626% { fill:#216e39; } 89.141% { fill:#30a14e; } 91.919% { fill:#40c463; } 100% { fill:#40c463; } }
+.c32_6 { animation:kc32_6 39.6s linear infinite; }
+@keyframes kc33_0 { 0.0% { fill:#ebedf0; } 58.031000000000006% { fill:#ebedf0; } 58.081% { fill:#0e4429; } 58.333% { fill:#1a7f37; } 59.091% { fill:#216e39; } 60.606% { fill:#30a14e; } 63.384% { fill:#40c463; } 68.132% { fill:#40c463; } 68.182% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c33_0 { animation:kc33_0 39.6s linear infinite; }
+@keyframes kc33_6 { 0.0% { fill:#ebedf0; } 86.31400000000001% { fill:#ebedf0; } 86.364% { fill:#0e4429; } 86.616% { fill:#1a7f37; } 87.374% { fill:#216e39; } 88.889% { fill:#30a14e; } 91.667% { fill:#40c463; } 100% { fill:#40c463; } }
+.c33_6 { animation:kc33_6 39.6s linear infinite; }
+@keyframes kc34_0 { 0.0% { fill:#ebedf0; } 58.283% { fill:#ebedf0; } 58.333% { fill:#0e4429; } 58.586% { fill:#1a7f37; } 59.343% { fill:#216e39; } 60.859% { fill:#30a14e; } 63.636% { fill:#40c463; } 68.384% { fill:#40c463; } 68.434% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c34_0 { animation:kc34_0 39.6s linear infinite; }
+@keyframes kc34_6 { 0.0% { fill:#ebedf0; } 86.061% { fill:#ebedf0; } 86.111% { fill:#0e4429; } 86.364% { fill:#1a7f37; } 87.121% { fill:#216e39; } 88.636% { fill:#30a14e; } 91.414% { fill:#40c463; } 100% { fill:#40c463; } }
+.c34_6 { animation:kc34_6 39.6s linear infinite; }
+@keyframes kc35_0 { 0.0% { fill:#ebedf0; } 58.536% { fill:#ebedf0; } 58.586% { fill:#0e4429; } 58.838% { fill:#1a7f37; } 59.596% { fill:#216e39; } 61.111% { fill:#30a14e; } 63.889% { fill:#40c463; } 68.637% { fill:#40c463; } 68.687% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c35_0 { animation:kc35_0 39.6s linear infinite; }
+@keyframes kc35_6 { 0.0% { fill:#ebedf0; } 85.809% { fill:#ebedf0; } 85.859% { fill:#0e4429; } 86.111% { fill:#1a7f37; } 86.869% { fill:#216e39; } 88.384% { fill:#30a14e; } 91.162% { fill:#40c463; } 100% { fill:#40c463; } }
+.c35_6 { animation:kc35_6 39.6s linear infinite; }
+@keyframes kc36_0 { 0.0% { fill:#ebedf0; } 58.788000000000004% { fill:#ebedf0; } 58.838% { fill:#0e4429; } 59.091% { fill:#1a7f37; } 59.848% { fill:#216e39; } 61.364% { fill:#30a14e; } 64.141% { fill:#40c463; } 68.889% { fill:#40c463; } 68.939% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c36_0 { animation:kc36_0 39.6s linear infinite; }
+@keyframes kc36_6 { 0.0% { fill:#ebedf0; } 85.556% { fill:#ebedf0; } 85.606% { fill:#0e4429; } 85.859% { fill:#1a7f37; } 86.616% { fill:#216e39; } 88.131% { fill:#30a14e; } 90.909% { fill:#40c463; } 100% { fill:#40c463; } }
+.c36_6 { animation:kc36_6 39.6s linear infinite; }
+@keyframes kc37_0 { 0.0% { fill:#ebedf0; } 59.041000000000004% { fill:#ebedf0; } 59.091% { fill:#0e4429; } 59.343% { fill:#1a7f37; } 60.101% { fill:#216e39; } 61.616% { fill:#30a14e; } 64.394% { fill:#40c463; } 69.142% { fill:#40c463; } 69.192% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c37_0 { animation:kc37_0 39.6s linear infinite; }
+@keyframes kc37_6 { 0.0% { fill:#ebedf0; } 85.304% { fill:#ebedf0; } 85.354% { fill:#0e4429; } 85.606% { fill:#1a7f37; } 86.364% { fill:#216e39; } 87.879% { fill:#30a14e; } 90.657% { fill:#40c463; } 100% { fill:#40c463; } }
+.c37_6 { animation:kc37_6 39.6s linear infinite; }
+@keyframes kc38_0 { 0.0% { fill:#ebedf0; } 59.293000000000006% { fill:#ebedf0; } 59.343% { fill:#0e4429; } 59.596% { fill:#1a7f37; } 60.354% { fill:#216e39; } 61.869% { fill:#30a14e; } 64.646% { fill:#40c463; } 69.394% { fill:#40c463; } 69.444% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c38_0 { animation:kc38_0 39.6s linear infinite; }
+@keyframes kc38_6 { 0.0% { fill:#ebedf0; } 85.051% { fill:#ebedf0; } 85.101% { fill:#0e4429; } 85.354% { fill:#1a7f37; } 86.111% { fill:#216e39; } 87.626% { fill:#30a14e; } 90.404% { fill:#40c463; } 100% { fill:#40c463; } }
+.c38_6 { animation:kc38_6 39.6s linear infinite; }
+@keyframes kc39_0 { 0.0% { fill:#ebedf0; } 59.546% { fill:#ebedf0; } 59.596% { fill:#0e4429; } 59.848% { fill:#1a7f37; } 60.606% { fill:#216e39; } 62.121% { fill:#30a14e; } 64.899% { fill:#40c463; } 69.647% { fill:#40c463; } 69.697% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c39_0 { animation:kc39_0 39.6s linear infinite; }
+@keyframes kc39_6 { 0.0% { fill:#ebedf0; } 84.798% { fill:#ebedf0; } 84.848% { fill:#0e4429; } 85.101% { fill:#1a7f37; } 85.859% { fill:#216e39; } 87.374% { fill:#30a14e; } 90.152% { fill:#40c463; } 100% { fill:#40c463; } }
+.c39_6 { animation:kc39_6 39.6s linear infinite; }
+@keyframes kc40_0 { 0.0% { fill:#ebedf0; } 59.798% { fill:#ebedf0; } 59.848% { fill:#0e4429; } 60.101% { fill:#1a7f37; } 60.859% { fill:#216e39; } 62.374% { fill:#30a14e; } 65.152% { fill:#40c463; } 69.899% { fill:#40c463; } 69.949% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c40_0 { animation:kc40_0 39.6s linear infinite; }
+@keyframes kc40_6 { 0.0% { fill:#ebedf0; } 84.546% { fill:#ebedf0; } 84.596% { fill:#0e4429; } 84.848% { fill:#1a7f37; } 85.606% { fill:#216e39; } 87.121% { fill:#30a14e; } 89.899% { fill:#40c463; } 100% { fill:#40c463; } }
+.c40_6 { animation:kc40_6 39.6s linear infinite; }
+@keyframes kc41_0 { 0.0% { fill:#ebedf0; } 60.051% { fill:#ebedf0; } 60.101% { fill:#0e4429; } 60.354% { fill:#1a7f37; } 61.111% { fill:#216e39; } 62.626% { fill:#30a14e; } 65.404% { fill:#40c463; } 70.152% { fill:#40c463; } 70.202% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c41_0 { animation:kc41_0 39.6s linear infinite; }
+@keyframes kc41_1 { 0.0% { fill:#ebedf0; } 60.304% { fill:#ebedf0; } 60.354% { fill:#0e4429; } 60.606% { fill:#1a7f37; } 61.364% { fill:#216e39; } 62.879% { fill:#30a14e; } 65.657% { fill:#40c463; } 70.405% { fill:#40c463; } 70.455% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c41_1 { animation:kc41_1 39.6s linear infinite; }
+@keyframes kc41_2 { 0.0% { fill:#ebedf0; } 60.556000000000004% { fill:#ebedf0; } 60.606% { fill:#0e4429; } 60.859% { fill:#1a7f37; } 61.616% { fill:#216e39; } 63.131% { fill:#30a14e; } 65.909% { fill:#40c463; } 70.657% { fill:#40c463; } 70.707% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c41_2 { animation:kc41_2 39.6s linear infinite; }
+@keyframes kc41_3 { 0.0% { fill:#ebedf0; } 60.809000000000005% { fill:#ebedf0; } 60.859% { fill:#0e4429; } 61.111% { fill:#1a7f37; } 61.869% { fill:#216e39; } 63.384% { fill:#30a14e; } 66.162% { fill:#40c463; } 70.91% { fill:#40c463; } 70.96% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c41_3 { animation:kc41_3 39.6s linear infinite; }
+@keyframes kc41_4 { 0.0% { fill:#ebedf0; } 61.061% { fill:#ebedf0; } 61.111% { fill:#0e4429; } 61.364% { fill:#1a7f37; } 62.121% { fill:#216e39; } 63.636% { fill:#30a14e; } 66.414% { fill:#40c463; } 71.162% { fill:#40c463; } 71.212% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c41_4 { animation:kc41_4 39.6s linear infinite; }
+@keyframes kc41_5 { 0.0% { fill:#9be9a8; } 61.314% { fill:#9be9a8; } 61.364% { fill:#0e4429; } 61.616% { fill:#1a7f37; } 62.374% { fill:#216e39; } 63.889% { fill:#30a14e; } 66.667% { fill:#40c463; } 71.415% { fill:#40c463; } 71.465% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c41_5 { animation:kc41_5 39.6s linear infinite; }
+@keyframes kc41_6 { 0.0% { fill:#ebedf0; } 84.293% { fill:#ebedf0; } 84.343% { fill:#0e4429; } 84.596% { fill:#1a7f37; } 85.354% { fill:#216e39; } 86.869% { fill:#30a14e; } 89.646% { fill:#40c463; } 100% { fill:#40c463; } }
+.c41_6 { animation:kc41_6 39.6s linear infinite; }
+@keyframes kc42_5 { 0.0% { fill:#ebedf0; } 61.566% { fill:#ebedf0; } 61.616% { fill:#0e4429; } 61.869% { fill:#1a7f37; } 62.626% { fill:#216e39; } 64.141% { fill:#30a14e; } 66.919% { fill:#40c463; } 71.667% { fill:#40c463; } 71.717% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c42_5 { animation:kc42_5 39.6s linear infinite; }
+@keyframes kc42_6 { 0.0% { fill:#ebedf0; } 84.041% { fill:#ebedf0; } 84.091% { fill:#0e4429; } 84.343% { fill:#1a7f37; } 85.101% { fill:#216e39; } 86.616% { fill:#30a14e; } 89.394% { fill:#40c463; } 100% { fill:#40c463; } }
+.c42_6 { animation:kc42_6 39.6s linear infinite; }
+@keyframes kc43_5 { 0.0% { fill:#ebedf0; } 61.819% { fill:#ebedf0; } 61.869% { fill:#0e4429; } 62.121% { fill:#1a7f37; } 62.879% { fill:#216e39; } 64.394% { fill:#30a14e; } 67.172% { fill:#40c463; } 71.92% { fill:#40c463; } 71.97% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c43_5 { animation:kc43_5 39.6s linear infinite; }
+@keyframes kc43_6 { 0.0% { fill:#ebedf0; } 83.788% { fill:#ebedf0; } 83.838% { fill:#0e4429; } 84.091% { fill:#1a7f37; } 84.848% { fill:#216e39; } 86.364% { fill:#30a14e; } 89.141% { fill:#40c463; } 100% { fill:#40c463; } }
+.c43_6 { animation:kc43_6 39.6s linear infinite; }
+@keyframes kc44_0 { 0.0% { fill:#ebedf0; } 75.455% { fill:#ebedf0; } 75.505% { fill:#0e4429; } 75.758% { fill:#1a7f37; } 76.515% { fill:#216e39; } 78.03% { fill:#30a14e; } 80.808% { fill:#40c463; } 85.556% { fill:#40c463; } 85.606% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c44_0 { animation:kc44_0 39.6s linear infinite; }
+@keyframes kc44_1 { 0.0% { fill:#ebedf0; } 75.203% { fill:#ebedf0; } 75.253% { fill:#0e4429; } 75.505% { fill:#1a7f37; } 76.263% { fill:#216e39; } 77.778% { fill:#30a14e; } 80.556% { fill:#40c463; } 85.304% { fill:#40c463; } 85.354% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c44_1 { animation:kc44_1 39.6s linear infinite; }
+@keyframes kc44_2 { 0.0% { fill:#ebedf0; } 74.95% { fill:#ebedf0; } 75.0% { fill:#0e4429; } 75.253% { fill:#1a7f37; } 76.01% { fill:#216e39; } 77.525% { fill:#30a14e; } 80.303% { fill:#40c463; } 85.051% { fill:#40c463; } 85.101% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c44_2 { animation:kc44_2 39.6s linear infinite; }
+@keyframes kc44_5 { 0.0% { fill:#ebedf0; } 62.071000000000005% { fill:#ebedf0; } 62.121% { fill:#0e4429; } 62.374% { fill:#1a7f37; } 63.131% { fill:#216e39; } 64.646% { fill:#30a14e; } 67.424% { fill:#40c463; } 72.172% { fill:#40c463; } 72.222% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c44_5 { animation:kc44_5 39.6s linear infinite; }
+@keyframes kc44_6 { 0.0% { fill:#ebedf0; } 83.536% { fill:#ebedf0; } 83.586% { fill:#0e4429; } 83.838% { fill:#1a7f37; } 84.596% { fill:#216e39; } 86.111% { fill:#30a14e; } 88.889% { fill:#40c463; } 100% { fill:#40c463; } }
+.c44_6 { animation:kc44_6 39.6s linear infinite; }
+@keyframes kc45_0 { 0.0% { fill:#ebedf0; } 75.708% { fill:#ebedf0; } 75.758% { fill:#0e4429; } 76.01% { fill:#1a7f37; } 76.768% { fill:#216e39; } 78.283% { fill:#30a14e; } 81.061% { fill:#40c463; } 85.809% { fill:#40c463; } 85.859% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c45_0 { animation:kc45_0 39.6s linear infinite; }
+@keyframes kc45_1 { 0.0% { fill:#ebedf0; } 64.34400000000001% { fill:#ebedf0; } 64.394% { fill:#0e4429; } 64.646% { fill:#1a7f37; } 65.404% { fill:#216e39; } 66.919% { fill:#30a14e; } 69.697% { fill:#40c463; } 74.44500000000001% { fill:#40c463; } 74.495% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c45_1 { animation:kc45_1 39.6s linear infinite; }
+@keyframes kc45_2 { 0.0% { fill:#9be9a8; } 64.09100000000001% { fill:#9be9a8; } 64.141% { fill:#0e4429; } 64.394% { fill:#1a7f37; } 65.152% { fill:#216e39; } 66.667% { fill:#30a14e; } 69.444% { fill:#40c463; } 74.19200000000001% { fill:#40c463; } 74.242% { fill:#ebedf0; } 74.697% { fill:#ebedf0; } 74.747% { fill:#0e4429; } 75.0% { fill:#1a7f37; } 75.758% { fill:#216e39; } 77.273% { fill:#30a14e; } 80.051% { fill:#40c463; } 84.798% { fill:#40c463; } 84.848% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c45_2 { animation:kc45_2 39.6s linear infinite; }
+@keyframes kc45_3 { 0.0% { fill:#40c463; } 73.435% { fill:#40c463; } 73.485% { fill:#0e4429; } 73.737% { fill:#1a7f37; } 74.495% { fill:#216e39; } 76.01% { fill:#30a14e; } 78.788% { fill:#40c463; } 83.536% { fill:#40c463; } 83.586% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c45_3 { animation:kc45_3 39.6s linear infinite; }
+@keyframes kc45_4 { 0.0% { fill:#ebedf0; } 73.182% { fill:#ebedf0; } 73.232% { fill:#0e4429; } 73.485% { fill:#1a7f37; } 74.242% { fill:#216e39; } 75.758% { fill:#30a14e; } 78.535% { fill:#40c463; } 83.283% { fill:#40c463; } 83.333% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c45_4 { animation:kc45_4 39.6s linear infinite; }
+@keyframes kc45_5 { 0.0% { fill:#ebedf0; } 62.324000000000005% { fill:#ebedf0; } 62.374% { fill:#0e4429; } 62.626% { fill:#1a7f37; } 63.384% { fill:#216e39; } 64.899% { fill:#30a14e; } 67.677% { fill:#40c463; } 72.425% { fill:#40c463; } 72.475% { fill:#ebedf0; } 72.93% { fill:#ebedf0; } 72.98% { fill:#0e4429; } 73.232% { fill:#1a7f37; } 73.99% { fill:#216e39; } 75.505% { fill:#30a14e; } 78.283% { fill:#40c463; } 83.031% { fill:#40c463; } 83.081% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c45_5 { animation:kc45_5 39.6s linear infinite; }
+@keyframes kc45_6 { 0.0% { fill:#40c463; } 72.677% { fill:#40c463; } 72.727% { fill:#0e4429; } 72.98% { fill:#1a7f37; } 73.737% { fill:#216e39; } 75.253% { fill:#30a14e; } 78.03% { fill:#40c463; } 82.778% { fill:#40c463; } 82.828% { fill:#ebedf0; } 83.283% { fill:#ebedf0; } 83.333% { fill:#0e4429; } 83.586% { fill:#1a7f37; } 84.343% { fill:#216e39; } 85.859% { fill:#30a14e; } 88.636% { fill:#40c463; } 100% { fill:#40c463; } }
+.c45_6 { animation:kc45_6 39.6s linear infinite; }
+@keyframes kc46_0 { 0.0% { fill:#ebedf0; } 75.96000000000001% { fill:#ebedf0; } 76.01% { fill:#0e4429; } 76.263% { fill:#1a7f37; } 77.02% { fill:#216e39; } 78.535% { fill:#30a14e; } 81.313% { fill:#40c463; } 86.061% { fill:#40c463; } 86.111% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c46_0 { animation:kc46_0 39.6s linear infinite; }
+@keyframes kc46_1 { 0.0% { fill:#ebedf0; } 64.596% { fill:#ebedf0; } 64.646% { fill:#0e4429; } 64.899% { fill:#1a7f37; } 65.657% { fill:#216e39; } 67.172% { fill:#30a14e; } 69.949% { fill:#40c463; } 74.697% { fill:#40c463; } 74.747% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c46_1 { animation:kc46_1 39.6s linear infinite; }
+@keyframes kc46_2 { 0.0% { fill:#ebedf0; } 63.839000000000006% { fill:#ebedf0; } 63.889% { fill:#0e4429; } 64.141% { fill:#1a7f37; } 64.899% { fill:#216e39; } 66.414% { fill:#30a14e; } 69.192% { fill:#40c463; } 73.94% { fill:#40c463; } 73.99% { fill:#ebedf0; } 74.44500000000001% { fill:#ebedf0; } 74.495% { fill:#0e4429; } 74.747% { fill:#1a7f37; } 75.505% { fill:#216e39; } 77.02% { fill:#30a14e; } 79.798% { fill:#40c463; } 84.546% { fill:#40c463; } 84.596% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c46_2 { animation:kc46_2 39.6s linear infinite; }
+@keyframes kc46_3 { 0.0% { fill:#ebedf0; } 73.687% { fill:#ebedf0; } 73.737% { fill:#0e4429; } 73.99% { fill:#1a7f37; } 74.747% { fill:#216e39; } 76.263% { fill:#30a14e; } 79.04% { fill:#40c463; } 83.788% { fill:#40c463; } 83.838% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c46_3 { animation:kc46_3 39.6s linear infinite; }
+@keyframes kc46_4 { 0.0% { fill:#9be9a8; } 62.829% { fill:#9be9a8; } 62.879% { fill:#0e4429; } 63.131% { fill:#1a7f37; } 63.889% { fill:#216e39; } 65.404% { fill:#30a14e; } 68.182% { fill:#40c463; } 72.93% { fill:#40c463; } 72.98% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c46_4 { animation:kc46_4 39.6s linear infinite; }
+@keyframes kc46_5 { 0.0% { fill:#ebedf0; } 62.576% { fill:#ebedf0; } 62.626% { fill:#0e4429; } 62.879% { fill:#1a7f37; } 63.636% { fill:#216e39; } 65.152% { fill:#30a14e; } 67.929% { fill:#40c463; } 72.677% { fill:#40c463; } 72.727% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c46_5 { animation:kc46_5 39.6s linear infinite; }
+@keyframes kc46_6 { 0.0% { fill:#40c463; } 72.425% { fill:#40c463; } 72.475% { fill:#0e4429; } 72.727% { fill:#1a7f37; } 73.485% { fill:#216e39; } 75.0% { fill:#30a14e; } 77.778% { fill:#40c463; } 82.526% { fill:#40c463; } 82.576% { fill:#ebedf0; } 83.031% { fill:#ebedf0; } 83.081% { fill:#0e4429; } 83.333% { fill:#1a7f37; } 84.091% { fill:#216e39; } 85.606% { fill:#30a14e; } 88.384% { fill:#40c463; } 93.132% { fill:#40c463; } 93.182% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c46_6 { animation:kc46_6 39.6s linear infinite; }
+@keyframes kc47_0 { 0.0% { fill:#ebedf0; } 76.21300000000001% { fill:#ebedf0; } 76.263% { fill:#0e4429; } 76.515% { fill:#1a7f37; } 77.273% { fill:#216e39; } 78.788% { fill:#30a14e; } 81.566% { fill:#40c463; } 86.31400000000001% { fill:#40c463; } 86.364% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c47_0 { animation:kc47_0 39.6s linear infinite; }
+@keyframes kc47_1 { 0.0% { fill:#30a14e; } 64.849% { fill:#30a14e; } 64.899% { fill:#0e4429; } 65.152% { fill:#1a7f37; } 65.909% { fill:#216e39; } 67.424% { fill:#30a14e; } 70.202% { fill:#40c463; } 74.95% { fill:#40c463; } 75.0% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c47_1 { animation:kc47_1 39.6s linear infinite; }
+@keyframes kc47_2 { 0.0% { fill:#9be9a8; } 63.586000000000006% { fill:#9be9a8; } 63.636% { fill:#0e4429; } 63.889% { fill:#1a7f37; } 64.646% { fill:#216e39; } 66.162% { fill:#30a14e; } 68.939% { fill:#40c463; } 73.687% { fill:#40c463; } 73.737% { fill:#ebedf0; } 74.19200000000001% { fill:#ebedf0; } 74.242% { fill:#0e4429; } 74.495% { fill:#1a7f37; } 75.253% { fill:#216e39; } 76.768% { fill:#30a14e; } 79.545% { fill:#40c463; } 84.293% { fill:#40c463; } 84.343% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c47_2 { animation:kc47_2 39.6s linear infinite; }
+@keyframes kc47_3 { 0.0% { fill:#ebedf0; } 63.334% { fill:#ebedf0; } 63.384% { fill:#0e4429; } 63.636% { fill:#1a7f37; } 64.394% { fill:#216e39; } 65.909% { fill:#30a14e; } 68.687% { fill:#40c463; } 73.435% { fill:#40c463; } 73.485% { fill:#ebedf0; } 73.94% { fill:#ebedf0; } 73.99% { fill:#0e4429; } 74.242% { fill:#1a7f37; } 75.0% { fill:#216e39; } 76.515% { fill:#30a14e; } 79.293% { fill:#40c463; } 84.041% { fill:#40c463; } 84.091% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c47_3 { animation:kc47_3 39.6s linear infinite; }
+@keyframes kc47_4 { 0.0% { fill:#40c463; } 63.081% { fill:#40c463; } 63.131% { fill:#0e4429; } 63.384% { fill:#1a7f37; } 64.141% { fill:#216e39; } 65.657% { fill:#30a14e; } 68.434% { fill:#40c463; } 73.182% { fill:#40c463; } 73.232% { fill:#ebedf0; } 78.233% { fill:#ebedf0; } 78.283% { fill:#0e4429; } 78.535% { fill:#1a7f37; } 79.293% { fill:#216e39; } 80.808% { fill:#30a14e; } 83.586% { fill:#40c463; } 88.334% { fill:#40c463; } 88.384% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c47_4 { animation:kc47_4 39.6s linear infinite; }
+@keyframes kc47_5 { 0.0% { fill:#216e39; } 78.485% { fill:#216e39; } 78.535% { fill:#0e4429; } 78.788% { fill:#1a7f37; } 79.545% { fill:#216e39; } 81.061% { fill:#30a14e; } 83.838% { fill:#40c463; } 88.586% { fill:#40c463; } 88.636% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c47_5 { animation:kc47_5 39.6s linear infinite; }
+@keyframes kc47_6 { 0.0% { fill:#ebedf0; } 72.172% { fill:#ebedf0; } 72.222% { fill:#0e4429; } 72.475% { fill:#1a7f37; } 73.232% { fill:#216e39; } 74.747% { fill:#30a14e; } 77.525% { fill:#40c463; } 82.273% { fill:#40c463; } 82.323% { fill:#ebedf0; } 82.778% { fill:#ebedf0; } 82.828% { fill:#0e4429; } 83.081% { fill:#1a7f37; } 83.838% { fill:#216e39; } 85.354% { fill:#30a14e; } 88.131% { fill:#40c463; } 92.879% { fill:#40c463; } 92.929% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c47_6 { animation:kc47_6 39.6s linear infinite; }
+@keyframes kc48_0 { 0.0% { fill:#ebedf0; } 76.465% { fill:#ebedf0; } 76.515% { fill:#0e4429; } 76.768% { fill:#1a7f37; } 77.525% { fill:#216e39; } 79.04% { fill:#30a14e; } 81.818% { fill:#40c463; } 86.566% { fill:#40c463; } 86.616% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c48_0 { animation:kc48_0 39.6s linear infinite; }
+@keyframes kc48_1 { 0.0% { fill:#ebedf0; } 65.102% { fill:#ebedf0; } 65.152% { fill:#0e4429; } 65.404% { fill:#1a7f37; } 66.162% { fill:#216e39; } 67.677% { fill:#30a14e; } 70.455% { fill:#40c463; } 75.203% { fill:#40c463; } 75.253% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c48_1 { animation:kc48_1 39.6s linear infinite; }
+@keyframes kc48_3 { 0.0% { fill:#ebedf0; } 66.617% { fill:#ebedf0; } 66.667% { fill:#0e4429; } 66.919% { fill:#1a7f37; } 67.677% { fill:#216e39; } 69.192% { fill:#30a14e; } 71.97% { fill:#40c463; } 76.718% { fill:#40c463; } 76.768% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c48_3 { animation:kc48_3 39.6s linear infinite; }
+@keyframes kc48_4 { 0.0% { fill:#40c463; } 66.869% { fill:#40c463; } 66.919% { fill:#0e4429; } 67.172% { fill:#1a7f37; } 67.929% { fill:#216e39; } 69.444% { fill:#30a14e; } 72.222% { fill:#40c463; } 76.97% { fill:#40c463; } 77.02% { fill:#ebedf0; } 77.98% { fill:#ebedf0; } 78.03% { fill:#0e4429; } 78.283% { fill:#1a7f37; } 79.04% { fill:#216e39; } 80.556% { fill:#30a14e; } 83.333% { fill:#40c463; } 88.081% { fill:#40c463; } 88.131% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c48_4 { animation:kc48_4 39.6s linear infinite; }
+@keyframes kc48_5 { 0.0% { fill:#9be9a8; } 67.122% { fill:#9be9a8; } 67.172% { fill:#0e4429; } 67.424% { fill:#1a7f37; } 68.182% { fill:#216e39; } 69.697% { fill:#30a14e; } 72.475% { fill:#40c463; } 77.223% { fill:#40c463; } 77.273% { fill:#ebedf0; } 78.738% { fill:#ebedf0; } 78.788% { fill:#0e4429; } 79.04% { fill:#1a7f37; } 79.798% { fill:#216e39; } 81.313% { fill:#30a14e; } 84.091% { fill:#40c463; } 88.839% { fill:#40c463; } 88.889% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c48_5 { animation:kc48_5 39.6s linear infinite; }
+@keyframes kc48_6 { 0.0% { fill:#30a14e; } 71.92% { fill:#30a14e; } 71.97% { fill:#0e4429; } 72.222% { fill:#1a7f37; } 72.98% { fill:#216e39; } 74.495% { fill:#30a14e; } 77.273% { fill:#40c463; } 82.021% { fill:#40c463; } 82.071% { fill:#ebedf0; } 82.526% { fill:#ebedf0; } 82.576% { fill:#0e4429; } 82.828% { fill:#1a7f37; } 83.586% { fill:#216e39; } 85.101% { fill:#30a14e; } 87.879% { fill:#40c463; } 92.62700000000001% { fill:#40c463; } 92.677% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c48_6 { animation:kc48_6 39.6s linear infinite; }
+@keyframes kc49_0 { 0.0% { fill:#216e39; } 76.718% { fill:#216e39; } 76.768% { fill:#0e4429; } 77.02% { fill:#1a7f37; } 77.778% { fill:#216e39; } 79.293% { fill:#30a14e; } 82.071% { fill:#40c463; } 86.819% { fill:#40c463; } 86.869% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c49_0 { animation:kc49_0 39.6s linear infinite; }
+@keyframes kc49_1 { 0.0% { fill:#40c463; } 65.354% { fill:#40c463; } 65.404% { fill:#0e4429; } 65.657% { fill:#1a7f37; } 66.414% { fill:#216e39; } 67.929% { fill:#30a14e; } 70.707% { fill:#40c463; } 75.455% { fill:#40c463; } 75.505% { fill:#ebedf0; } 76.97% { fill:#ebedf0; } 77.02% { fill:#0e4429; } 77.273% { fill:#1a7f37; } 78.03% { fill:#216e39; } 79.545% { fill:#30a14e; } 82.323% { fill:#40c463; } 87.071% { fill:#40c463; } 87.121% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c49_1 { animation:kc49_1 39.6s linear infinite; }
+@keyframes kc49_2 { 0.0% { fill:#ebedf0; } 66.11200000000001% { fill:#ebedf0; } 66.162% { fill:#0e4429; } 66.414% { fill:#1a7f37; } 67.172% { fill:#216e39; } 68.687% { fill:#30a14e; } 71.465% { fill:#40c463; } 76.21300000000001% { fill:#40c463; } 76.263% { fill:#ebedf0; } 77.223% { fill:#ebedf0; } 77.273% { fill:#0e4429; } 77.525% { fill:#1a7f37; } 78.283% { fill:#216e39; } 79.798% { fill:#30a14e; } 82.576% { fill:#40c463; } 87.324% { fill:#40c463; } 87.374% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c49_2 { animation:kc49_2 39.6s linear infinite; }
+@keyframes kc49_3 { 0.0% { fill:#9be9a8; } 66.364% { fill:#9be9a8; } 66.414% { fill:#0e4429; } 66.667% { fill:#1a7f37; } 67.424% { fill:#216e39; } 68.939% { fill:#30a14e; } 71.717% { fill:#40c463; } 76.465% { fill:#40c463; } 76.515% { fill:#ebedf0; } 77.47500000000001% { fill:#ebedf0; } 77.525% { fill:#0e4429; } 77.778% { fill:#1a7f37; } 78.535% { fill:#216e39; } 80.051% { fill:#30a14e; } 82.828% { fill:#40c463; } 87.57600000000001% { fill:#40c463; } 87.626% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c49_3 { animation:kc49_3 39.6s linear infinite; }
+@keyframes kc49_4 { 0.0% { fill:#40c463; } 77.72800000000001% { fill:#40c463; } 77.778% { fill:#0e4429; } 78.03% { fill:#1a7f37; } 78.788% { fill:#216e39; } 80.303% { fill:#30a14e; } 83.081% { fill:#40c463; } 87.82900000000001% { fill:#40c463; } 87.879% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c49_4 { animation:kc49_4 39.6s linear infinite; }
+@keyframes kc49_5 { 0.0% { fill:#ebedf0; } 67.37400000000001% { fill:#ebedf0; } 67.424% { fill:#0e4429; } 67.677% { fill:#1a7f37; } 68.434% { fill:#216e39; } 69.949% { fill:#30a14e; } 72.727% { fill:#40c463; } 77.47500000000001% { fill:#40c463; } 77.525% { fill:#ebedf0; } 78.99000000000001% { fill:#ebedf0; } 79.04% { fill:#0e4429; } 79.293% { fill:#1a7f37; } 80.051% { fill:#216e39; } 81.566% { fill:#30a14e; } 84.343% { fill:#40c463; } 89.09100000000001% { fill:#40c463; } 89.141% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c49_5 { animation:kc49_5 39.6s linear infinite; }
+@keyframes kc49_6 { 0.0% { fill:#ebedf0; } 71.667% { fill:#ebedf0; } 71.717% { fill:#0e4429; } 71.97% { fill:#1a7f37; } 72.727% { fill:#216e39; } 74.242% { fill:#30a14e; } 77.02% { fill:#40c463; } 81.768% { fill:#40c463; } 81.818% { fill:#ebedf0; } 82.273% { fill:#ebedf0; } 82.323% { fill:#0e4429; } 82.576% { fill:#1a7f37; } 83.333% { fill:#216e39; } 84.848% { fill:#30a14e; } 87.626% { fill:#40c463; } 92.37400000000001% { fill:#40c463; } 92.424% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c49_6 { animation:kc49_6 39.6s linear infinite; }
+@keyframes kc50_1 { 0.0% { fill:#ebedf0; } 65.607% { fill:#ebedf0; } 65.657% { fill:#0e4429; } 65.909% { fill:#1a7f37; } 66.667% { fill:#216e39; } 68.182% { fill:#30a14e; } 70.96% { fill:#40c463; } 75.708% { fill:#40c463; } 75.758% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c50_1 { animation:kc50_1 39.6s linear infinite; }
+@keyframes kc50_2 { 0.0% { fill:#9be9a8; } 65.85900000000001% { fill:#9be9a8; } 65.909% { fill:#0e4429; } 66.162% { fill:#1a7f37; } 66.919% { fill:#216e39; } 68.434% { fill:#30a14e; } 71.212% { fill:#40c463; } 75.96000000000001% { fill:#40c463; } 76.01% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c50_2 { animation:kc50_2 39.6s linear infinite; }
+@keyframes kc50_4 { 0.0% { fill:#ebedf0; } 67.879% { fill:#ebedf0; } 67.929% { fill:#0e4429; } 68.182% { fill:#1a7f37; } 68.939% { fill:#216e39; } 70.455% { fill:#30a14e; } 73.232% { fill:#40c463; } 77.98% { fill:#40c463; } 78.03% { fill:#ebedf0; } 79.495% { fill:#ebedf0; } 79.545% { fill:#0e4429; } 79.798% { fill:#1a7f37; } 80.556% { fill:#216e39; } 82.071% { fill:#30a14e; } 84.848% { fill:#40c463; } 89.596% { fill:#40c463; } 89.646% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c50_4 { animation:kc50_4 39.6s linear infinite; }
+@keyframes kc50_5 { 0.0% { fill:#9be9a8; } 67.62700000000001% { fill:#9be9a8; } 67.677% { fill:#0e4429; } 67.929% { fill:#1a7f37; } 68.687% { fill:#216e39; } 70.202% { fill:#30a14e; } 72.98% { fill:#40c463; } 77.72800000000001% { fill:#40c463; } 77.778% { fill:#ebedf0; } 79.24300000000001% { fill:#ebedf0; } 79.293% { fill:#0e4429; } 79.545% { fill:#1a7f37; } 80.303% { fill:#216e39; } 81.818% { fill:#30a14e; } 84.596% { fill:#40c463; } 89.34400000000001% { fill:#40c463; } 89.394% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c50_5 { animation:kc50_5 39.6s linear infinite; }
+@keyframes kc50_6 { 0.0% { fill:#ebedf0; } 71.415% { fill:#ebedf0; } 71.465% { fill:#0e4429; } 71.717% { fill:#1a7f37; } 72.475% { fill:#216e39; } 73.99% { fill:#30a14e; } 76.768% { fill:#40c463; } 81.516% { fill:#40c463; } 81.566% { fill:#ebedf0; } 82.021% { fill:#ebedf0; } 82.071% { fill:#0e4429; } 82.323% { fill:#1a7f37; } 83.081% { fill:#216e39; } 84.596% { fill:#30a14e; } 87.374% { fill:#40c463; } 92.122% { fill:#40c463; } 92.172% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c50_6 { animation:kc50_6 39.6s linear infinite; }
+@keyframes kc51_0 { 0.0% { fill:#ebedf0; } 69.142% { fill:#ebedf0; } 69.192% { fill:#0e4429; } 69.444% { fill:#1a7f37; } 70.202% { fill:#216e39; } 71.717% { fill:#30a14e; } 74.495% { fill:#40c463; } 79.24300000000001% { fill:#40c463; } 79.293% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c51_0 { animation:kc51_0 39.6s linear infinite; }
+@keyframes kc51_1 { 0.0% { fill:#ebedf0; } 68.889% { fill:#ebedf0; } 68.939% { fill:#0e4429; } 69.192% { fill:#1a7f37; } 69.949% { fill:#216e39; } 71.465% { fill:#30a14e; } 74.242% { fill:#40c463; } 78.99000000000001% { fill:#40c463; } 79.04% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c51_1 { animation:kc51_1 39.6s linear infinite; }
+@keyframes kc51_2 { 0.0% { fill:#ebedf0; } 68.637% { fill:#ebedf0; } 68.687% { fill:#0e4429; } 68.939% { fill:#1a7f37; } 69.697% { fill:#216e39; } 71.212% { fill:#30a14e; } 73.99% { fill:#40c463; } 78.738% { fill:#40c463; } 78.788% { fill:#ebedf0; } 80.253% { fill:#ebedf0; } 80.303% { fill:#0e4429; } 80.556% { fill:#1a7f37; } 81.313% { fill:#216e39; } 82.828% { fill:#30a14e; } 85.606% { fill:#40c463; } 90.354% { fill:#40c463; } 90.404% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c51_2 { animation:kc51_2 39.6s linear infinite; }
+@keyframes kc51_3 { 0.0% { fill:#ebedf0; } 68.384% { fill:#ebedf0; } 68.434% { fill:#0e4429; } 68.687% { fill:#1a7f37; } 69.444% { fill:#216e39; } 70.96% { fill:#30a14e; } 73.737% { fill:#40c463; } 78.485% { fill:#40c463; } 78.535% { fill:#ebedf0; } 80.001% { fill:#ebedf0; } 80.051% { fill:#0e4429; } 80.303% { fill:#1a7f37; } 81.061% { fill:#216e39; } 82.576% { fill:#30a14e; } 85.354% { fill:#40c463; } 90.102% { fill:#40c463; } 90.152% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c51_3 { animation:kc51_3 39.6s linear infinite; }
+@keyframes kc51_4 { 0.0% { fill:#ebedf0; } 68.132% { fill:#ebedf0; } 68.182% { fill:#0e4429; } 68.434% { fill:#1a7f37; } 69.192% { fill:#216e39; } 70.707% { fill:#30a14e; } 73.485% { fill:#40c463; } 78.233% { fill:#40c463; } 78.283% { fill:#ebedf0; } 79.748% { fill:#ebedf0; } 79.798% { fill:#0e4429; } 80.051% { fill:#1a7f37; } 80.808% { fill:#216e39; } 82.323% { fill:#30a14e; } 85.101% { fill:#40c463; } 89.849% { fill:#40c463; } 89.899% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c51_4 { animation:kc51_4 39.6s linear infinite; }
+@keyframes kc51_5 { 0.0% { fill:#ebedf0; } 70.91% { fill:#ebedf0; } 70.96% { fill:#0e4429; } 71.212% { fill:#1a7f37; } 71.97% { fill:#216e39; } 73.485% { fill:#30a14e; } 76.263% { fill:#40c463; } 81.01100000000001% { fill:#40c463; } 81.061% { fill:#ebedf0; } 81.516% { fill:#ebedf0; } 81.566% { fill:#0e4429; } 81.818% { fill:#1a7f37; } 82.576% { fill:#216e39; } 84.091% { fill:#30a14e; } 86.869% { fill:#40c463; } 91.617% { fill:#40c463; } 91.667% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c51_5 { animation:kc51_5 39.6s linear infinite; }
+@keyframes kc51_6 { 0.0% { fill:#ebedf0; } 71.162% { fill:#ebedf0; } 71.212% { fill:#0e4429; } 71.465% { fill:#1a7f37; } 72.222% { fill:#216e39; } 73.737% { fill:#30a14e; } 76.515% { fill:#40c463; } 81.263% { fill:#40c463; } 81.313% { fill:#ebedf0; } 81.768% { fill:#ebedf0; } 81.818% { fill:#0e4429; } 82.071% { fill:#1a7f37; } 82.828% { fill:#216e39; } 84.343% { fill:#30a14e; } 87.121% { fill:#40c463; } 91.869% { fill:#40c463; } 91.919% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c51_6 { animation:kc51_6 39.6s linear infinite; }
+@keyframes kc52_0 { 0.0% { fill:#ebedf0; } 69.394% { fill:#ebedf0; } 69.444% { fill:#0e4429; } 69.697% { fill:#1a7f37; } 70.455% { fill:#216e39; } 71.97% { fill:#30a14e; } 74.747% { fill:#40c463; } 79.495% { fill:#40c463; } 79.545% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c52_0 { animation:kc52_0 39.6s linear infinite; }
+@keyframes kc52_1 { 0.0% { fill:#ebedf0; } 69.647% { fill:#ebedf0; } 69.697% { fill:#0e4429; } 69.949% { fill:#1a7f37; } 70.707% { fill:#216e39; } 72.222% { fill:#30a14e; } 75.0% { fill:#40c463; } 79.748% { fill:#40c463; } 79.798% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c52_1 { animation:kc52_1 39.6s linear infinite; }
+@keyframes kc52_2 { 0.0% { fill:#ebedf0; } 69.899% { fill:#ebedf0; } 69.949% { fill:#0e4429; } 70.202% { fill:#1a7f37; } 70.96% { fill:#216e39; } 72.475% { fill:#30a14e; } 75.253% { fill:#40c463; } 80.001% { fill:#40c463; } 80.051% { fill:#ebedf0; } 80.506% { fill:#ebedf0; } 80.556% { fill:#0e4429; } 80.808% { fill:#1a7f37; } 81.566% { fill:#216e39; } 83.081% { fill:#30a14e; } 85.859% { fill:#40c463; } 90.607% { fill:#40c463; } 90.657% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c52_2 { animation:kc52_2 39.6s linear infinite; }
+@keyframes kc52_3 { 0.0% { fill:#ebedf0; } 70.152% { fill:#ebedf0; } 70.202% { fill:#0e4429; } 70.455% { fill:#1a7f37; } 71.212% { fill:#216e39; } 72.727% { fill:#30a14e; } 75.505% { fill:#40c463; } 80.253% { fill:#40c463; } 80.303% { fill:#ebedf0; } 80.75800000000001% { fill:#ebedf0; } 80.808% { fill:#0e4429; } 81.061% { fill:#1a7f37; } 81.818% { fill:#216e39; } 83.333% { fill:#30a14e; } 86.111% { fill:#40c463; } 90.85900000000001% { fill:#40c463; } 90.909% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c52_3 { animation:kc52_3 39.6s linear infinite; }
+@keyframes kc52_4 { 0.0% { fill:#ebedf0; } 70.405% { fill:#ebedf0; } 70.455% { fill:#0e4429; } 70.707% { fill:#1a7f37; } 71.465% { fill:#216e39; } 72.98% { fill:#30a14e; } 75.758% { fill:#40c463; } 80.506% { fill:#40c463; } 80.556% { fill:#ebedf0; } 81.01100000000001% { fill:#ebedf0; } 81.061% { fill:#0e4429; } 81.313% { fill:#1a7f37; } 82.071% { fill:#216e39; } 83.586% { fill:#30a14e; } 86.364% { fill:#40c463; } 91.11200000000001% { fill:#40c463; } 91.162% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c52_4 { animation:kc52_4 39.6s linear infinite; }
+@keyframes kc52_5 { 0.0% { fill:#ebedf0; } 70.657% { fill:#ebedf0; } 70.707% { fill:#0e4429; } 70.96% { fill:#1a7f37; } 71.717% { fill:#216e39; } 73.232% { fill:#30a14e; } 76.01% { fill:#40c463; } 80.75800000000001% { fill:#40c463; } 80.808% { fill:#ebedf0; } 81.263% { fill:#ebedf0; } 81.313% { fill:#0e4429; } 81.566% { fill:#1a7f37; } 82.323% { fill:#216e39; } 83.838% { fill:#30a14e; } 86.616% { fill:#40c463; } 91.364% { fill:#40c463; } 91.414% { fill:#ebedf0; } 100% { fill:#ebedf0; } }
+.c52_5 { animation:kc52_5 39.6s linear infinite; }
+@keyframes m1 { 0% { opacity:0; } 0.0% { opacity:1; } 0.253% { opacity:0; } 100% { opacity:0; } }
+.m1 { animation:m1 39.6s steps(1,end) infinite; }
+@keyframes m2 { 0% { opacity:0; } 0.253% { opacity:1; } 0.505% { opacity:0; } 100% { opacity:0; } }
+.m2 { animation:m2 39.6s steps(1,end) infinite; }
+@keyframes m3 { 0% { opacity:0; } 0.505% { opacity:1; } 0.758% { opacity:0; } 100% { opacity:0; } }
+.m3 { animation:m3 39.6s steps(1,end) infinite; }
+@keyframes m4 { 0% { opacity:0; } 0.758% { opacity:1; } 1.01% { opacity:0; } 100% { opacity:0; } }
+.m4 { animation:m4 39.6s steps(1,end) infinite; }
+@keyframes m5 { 0% { opacity:0; } 1.01% { opacity:1; } 1.263% { opacity:0; } 100% { opacity:0; } }
+.m5 { animation:m5 39.6s steps(1,end) infinite; }
+@keyframes m6 { 0% { opacity:0; } 1.263% { opacity:1; } 1.515% { opacity:0; } 100% { opacity:0; } }
+.m6 { animation:m6 39.6s steps(1,end) infinite; }
+@keyframes m7 { 0% { opacity:0; } 1.515% { opacity:1; } 1.768% { opacity:0; } 100% { opacity:0; } }
+.m7 { animation:m7 39.6s steps(1,end) infinite; }
+@keyframes m8 { 0% { opacity:0; } 1.768% { opacity:1; } 2.02% { opacity:0; } 100% { opacity:0; } }
+.m8 { animation:m8 39.6s steps(1,end) infinite; }
+@keyframes m9 { 0% { opacity:0; } 2.02% { opacity:1; } 2.273% { opacity:0; } 100% { opacity:0; } }
+.m9 { animation:m9 39.6s steps(1,end) infinite; }
+@keyframes m10 { 0% { opacity:0; } 2.273% { opacity:1; } 2.525% { opacity:0; } 100% { opacity:0; } }
+.m10 { animation:m10 39.6s steps(1,end) infinite; }
+@keyframes m11 { 0% { opacity:0; } 2.525% { opacity:1; } 2.778% { opacity:0; } 100% { opacity:0; } }
+.m11 { animation:m11 39.6s steps(1,end) infinite; }
+@keyframes m12 { 0% { opacity:0; } 2.778% { opacity:1; } 3.03% { opacity:0; } 100% { opacity:0; } }
+.m12 { animation:m12 39.6s steps(1,end) infinite; }
+@keyframes m13 { 0% { opacity:0; } 3.03% { opacity:1; } 3.283% { opacity:0; } 100% { opacity:0; } }
+.m13 { animation:m13 39.6s steps(1,end) infinite; }
+@keyframes m14 { 0% { opacity:0; } 3.283% { opacity:1; } 3.788% { opacity:0; } 100% { opacity:0; } }
+.m14 { animation:m14 39.6s steps(1,end) infinite; }
+@keyframes m15 { 0% { opacity:0; } 3.788% { opacity:1; } 4.04% { opacity:0; } 100% { opacity:0; } }
+.m15 { animation:m15 39.6s steps(1,end) infinite; }
+@keyframes m16 { 0% { opacity:0; } 4.04% { opacity:1; } 4.293% { opacity:0; } 100% { opacity:0; } }
+.m16 { animation:m16 39.6s steps(1,end) infinite; }
+@keyframes m17 { 0% { opacity:0; } 4.293% { opacity:1; } 4.545% { opacity:0; } 100% { opacity:0; } }
+.m17 { animation:m17 39.6s steps(1,end) infinite; }
+@keyframes m18 { 0% { opacity:0; } 4.545% { opacity:1; } 5.051% { opacity:0; } 100% { opacity:0; } }
+.m18 { animation:m18 39.6s steps(1,end) infinite; }
+@keyframes m19 { 0% { opacity:0; } 5.051% { opacity:1; } 8.838% { opacity:0; } 100% { opacity:0; } }
+.m19 { animation:m19 39.6s steps(1,end) infinite; }
+@keyframes m20 { 0% { opacity:0; } 8.838% { opacity:1; } 9.596% { opacity:0; } 100% { opacity:0; } }
+.m20 { animation:m20 39.6s steps(1,end) infinite; }
+@keyframes m21 { 0% { opacity:0; } 9.596% { opacity:1; } 9.848% { opacity:0; } 100% { opacity:0; } }
+.m21 { animation:m21 39.6s steps(1,end) infinite; }
+@keyframes m22 { 0% { opacity:0; } 9.848% { opacity:1; } 10.354% { opacity:0; } 100% { opacity:0; } }
+.m22 { animation:m22 39.6s steps(1,end) infinite; }
+@keyframes m23 { 0% { opacity:0; } 10.354% { opacity:1; } 11.364% { opacity:0; } 100% { opacity:0; } }
+.m23 { animation:m23 39.6s steps(1,end) infinite; }
+@keyframes m24 { 0% { opacity:0; } 11.364% { opacity:1; } 15.657% { opacity:0; } 100% { opacity:0; } }
+.m24 { animation:m24 39.6s steps(1,end) infinite; }
+@keyframes m25 { 0% { opacity:0; } 15.657% { opacity:1; } 16.667% { opacity:0; } 100% { opacity:0; } }
+.m25 { animation:m25 39.6s steps(1,end) infinite; }
+@keyframes m26 { 0% { opacity:0; } 16.667% { opacity:1; } 23.485% { opacity:0; } 100% { opacity:0; } }
+.m26 { animation:m26 39.6s steps(1,end) infinite; }
+@keyframes m27 { 0% { opacity:0; } 23.485% { opacity:1; } 23.737% { opacity:0; } 100% { opacity:0; } }
+.m27 { animation:m27 39.6s steps(1,end) infinite; }
+@keyframes m28 { 0% { opacity:0; } 23.737% { opacity:1; } 23.99% { opacity:0; } 100% { opacity:0; } }
+.m28 { animation:m28 39.6s steps(1,end) infinite; }
+@keyframes m29 { 0% { opacity:0; } 23.99% { opacity:1; } 24.242% { opacity:0; } 100% { opacity:0; } }
+.m29 { animation:m29 39.6s steps(1,end) infinite; }
+@keyframes m30 { 0% { opacity:0; } 24.242% { opacity:1; } 25.0% { opacity:0; } 100% { opacity:0; } }
+.m30 { animation:m30 39.6s steps(1,end) infinite; }
+@keyframes m31 { 0% { opacity:0; } 25.0% { opacity:1; } 25.505% { opacity:0; } 100% { opacity:0; } }
+.m31 { animation:m31 39.6s steps(1,end) infinite; }
+@keyframes m32 { 0% { opacity:0; } 25.505% { opacity:1; } 25.758% { opacity:0; } 100% { opacity:0; } }
+.m32 { animation:m32 39.6s steps(1,end) infinite; }
+@keyframes m33 { 0% { opacity:0; } 25.758% { opacity:1; } 26.01% { opacity:0; } 100% { opacity:0; } }
+.m33 { animation:m33 39.6s steps(1,end) infinite; }
+@keyframes m34 { 0% { opacity:0; } 26.01% { opacity:1; } 26.263% { opacity:0; } 100% { opacity:0; } }
+.m34 { animation:m34 39.6s steps(1,end) infinite; }
+@keyframes m35 { 0% { opacity:0; } 26.263% { opacity:1; } 26.515% { opacity:0; } 100% { opacity:0; } }
+.m35 { animation:m35 39.6s steps(1,end) infinite; }
+@keyframes m36 { 0% { opacity:0; } 26.515% { opacity:1; } 26.768% { opacity:0; } 100% { opacity:0; } }
+.m36 { animation:m36 39.6s steps(1,end) infinite; }
+@keyframes m37 { 0% { opacity:0; } 26.768% { opacity:1; } 27.02% { opacity:0; } 100% { opacity:0; } }
+.m37 { animation:m37 39.6s steps(1,end) infinite; }
+@keyframes m38 { 0% { opacity:0; } 27.02% { opacity:1; } 27.525% { opacity:0; } 100% { opacity:0; } }
+.m38 { animation:m38 39.6s steps(1,end) infinite; }
+@keyframes m39 { 0% { opacity:0; } 27.525% { opacity:1; } 28.283% { opacity:0; } 100% { opacity:0; } }
+.m39 { animation:m39 39.6s steps(1,end) infinite; }
+@keyframes m40 { 0% { opacity:0; } 28.283% { opacity:1; } 28.535% { opacity:0; } 100% { opacity:0; } }
+.m40 { animation:m40 39.6s steps(1,end) infinite; }
+@keyframes m41 { 0% { opacity:0; } 28.535% { opacity:1; } 29.293% { opacity:0; } 100% { opacity:0; } }
+.m41 { animation:m41 39.6s steps(1,end) infinite; }
+@keyframes m42 { 0% { opacity:0; } 29.293% { opacity:1; } 34.091% { opacity:0; } 100% { opacity:0; } }
+.m42 { animation:m42 39.6s steps(1,end) infinite; }
+@keyframes m43 { 0% { opacity:0; } 34.091% { opacity:1; } 35.859% { opacity:0; } 100% { opacity:0; } }
+.m43 { animation:m43 39.6s steps(1,end) infinite; }
+@keyframes m44 { 0% { opacity:0; } 35.859% { opacity:1; } 36.364% { opacity:0; } 100% { opacity:0; } }
+.m44 { animation:m44 39.6s steps(1,end) infinite; }
+@keyframes m45 { 0% { opacity:0; } 36.364% { opacity:1; } 36.616% { opacity:0; } 100% { opacity:0; } }
+.m45 { animation:m45 39.6s steps(1,end) infinite; }
+@keyframes m46 { 0% { opacity:0; } 36.616% { opacity:1; } 36.869% { opacity:0; } 100% { opacity:0; } }
+.m46 { animation:m46 39.6s steps(1,end) infinite; }
+@keyframes m47 { 0% { opacity:0; } 36.869% { opacity:1; } 37.374% { opacity:0; } 100% { opacity:0; } }
+.m47 { animation:m47 39.6s steps(1,end) infinite; }
+@keyframes m48 { 0% { opacity:0; } 37.374% { opacity:1; } 37.626% { opacity:0; } 100% { opacity:0; } }
+.m48 { animation:m48 39.6s steps(1,end) infinite; }
+@keyframes m49 { 0% { opacity:0; } 37.626% { opacity:1; } 38.131% { opacity:0; } 100% { opacity:0; } }
+.m49 { animation:m49 39.6s steps(1,end) infinite; }
+@keyframes m50 { 0% { opacity:0; } 38.131% { opacity:1; } 38.384% { opacity:0; } 100% { opacity:0; } }
+.m50 { animation:m50 39.6s steps(1,end) infinite; }
+@keyframes m51 { 0% { opacity:0; } 38.384% { opacity:1; } 38.636% { opacity:0; } 100% { opacity:0; } }
+.m51 { animation:m51 39.6s steps(1,end) infinite; }
+@keyframes m52 { 0% { opacity:0; } 38.636% { opacity:1; } 38.889% { opacity:0; } 100% { opacity:0; } }
+.m52 { animation:m52 39.6s steps(1,end) infinite; }
+@keyframes m53 { 0% { opacity:0; } 38.889% { opacity:1; } 39.141% { opacity:0; } 100% { opacity:0; } }
+.m53 { animation:m53 39.6s steps(1,end) infinite; }
+@keyframes m54 { 0% { opacity:0; } 39.141% { opacity:1; } 39.394% { opacity:0; } 100% { opacity:0; } }
+.m54 { animation:m54 39.6s steps(1,end) infinite; }
+@keyframes m55 { 0% { opacity:0; } 39.394% { opacity:1; } 39.646% { opacity:0; } 100% { opacity:0; } }
+.m55 { animation:m55 39.6s steps(1,end) infinite; }
+@keyframes m56 { 0% { opacity:0; } 39.646% { opacity:1; } 40.152% { opacity:0; } 100% { opacity:0; } }
+.m56 { animation:m56 39.6s steps(1,end) infinite; }
+@keyframes m57 { 0% { opacity:0; } 40.152% { opacity:1; } 40.404% { opacity:0; } 100% { opacity:0; } }
+.m57 { animation:m57 39.6s steps(1,end) infinite; }
+@keyframes m58 { 0% { opacity:0; } 40.404% { opacity:1; } 40.909% { opacity:0; } 100% { opacity:0; } }
+.m58 { animation:m58 39.6s steps(1,end) infinite; }
+@keyframes m59 { 0% { opacity:0; } 40.909% { opacity:1; } 41.162% { opacity:0; } 100% { opacity:0; } }
+.m59 { animation:m59 39.6s steps(1,end) infinite; }
+@keyframes m60 { 0% { opacity:0; } 41.162% { opacity:1; } 41.667% { opacity:0; } 100% { opacity:0; } }
+.m60 { animation:m60 39.6s steps(1,end) infinite; }
+@keyframes m61 { 0% { opacity:0; } 41.667% { opacity:1; } 42.677% { opacity:0; } 100% { opacity:0; } }
+.m61 { animation:m61 39.6s steps(1,end) infinite; }
+@keyframes m62 { 0% { opacity:0; } 42.677% { opacity:1; } 43.687% { opacity:0; } 100% { opacity:0; } }
+.m62 { animation:m62 39.6s steps(1,end) infinite; }
+@keyframes m63 { 0% { opacity:0; } 43.687% { opacity:1; } 43.939% { opacity:0; } 100% { opacity:0; } }
+.m63 { animation:m63 39.6s steps(1,end) infinite; }
+@keyframes m64 { 0% { opacity:0; } 43.939% { opacity:1; } 45.202% { opacity:0; } 100% { opacity:0; } }
+.m64 { animation:m64 39.6s steps(1,end) infinite; }
+@keyframes m65 { 0% { opacity:0; } 45.202% { opacity:1; } 45.96% { opacity:0; } 100% { opacity:0; } }
+.m65 { animation:m65 39.6s steps(1,end) infinite; }
+@keyframes m66 { 0% { opacity:0; } 45.96% { opacity:1; } 46.465% { opacity:0; } 100% { opacity:0; } }
+.m66 { animation:m66 39.6s steps(1,end) infinite; }
+@keyframes m67 { 0% { opacity:0; } 46.465% { opacity:1; } 48.737% { opacity:0; } 100% { opacity:0; } }
+.m67 { animation:m67 39.6s steps(1,end) infinite; }
+@keyframes m68 { 0% { opacity:0; } 48.737% { opacity:1; } 48.99% { opacity:0; } 100% { opacity:0; } }
+.m68 { animation:m68 39.6s steps(1,end) infinite; }
+@keyframes m69 { 0% { opacity:0; } 48.99% { opacity:1; } 49.495% { opacity:0; } 100% { opacity:0; } }
+.m69 { animation:m69 39.6s steps(1,end) infinite; }
+@keyframes m70 { 0% { opacity:0; } 49.495% { opacity:1; } 51.263% { opacity:0; } 100% { opacity:0; } }
+.m70 { animation:m70 39.6s steps(1,end) infinite; }
+@keyframes m71 { 0% { opacity:0; } 51.263% { opacity:1; } 53.03% { opacity:0; } 100% { opacity:0; } }
+.m71 { animation:m71 39.6s steps(1,end) infinite; }
+@keyframes m72 { 0% { opacity:0; } 53.03% { opacity:1; } 53.283% { opacity:0; } 100% { opacity:0; } }
+.m72 { animation:m72 39.6s steps(1,end) infinite; }
+@keyframes m73 { 0% { opacity:0; } 53.283% { opacity:1; } 54.293% { opacity:0; } 100% { opacity:0; } }
+.m73 { animation:m73 39.6s steps(1,end) infinite; }
+@keyframes m74 { 0% { opacity:0; } 54.293% { opacity:1; } 54.798% { opacity:0; } 100% { opacity:0; } }
+.m74 { animation:m74 39.6s steps(1,end) infinite; }
+@keyframes m75 { 0% { opacity:0; } 54.798% { opacity:1; } 61.364% { opacity:0; } 100% { opacity:0; } }
+.m75 { animation:m75 39.6s steps(1,end) infinite; }
+@keyframes m76 { 0% { opacity:0; } 61.364% { opacity:1; } 62.879% { opacity:0; } 100% { opacity:0; } }
+.m76 { animation:m76 39.6s steps(1,end) infinite; }
+@keyframes m77 { 0% { opacity:0; } 62.879% { opacity:1; } 63.131% { opacity:0; } 100% { opacity:0; } }
+.m77 { animation:m77 39.6s steps(1,end) infinite; }
+@keyframes m78 { 0% { opacity:0; } 63.131% { opacity:1; } 63.636% { opacity:0; } 100% { opacity:0; } }
+.m78 { animation:m78 39.6s steps(1,end) infinite; }
+@keyframes m79 { 0% { opacity:0; } 63.636% { opacity:1; } 64.141% { opacity:0; } 100% { opacity:0; } }
+.m79 { animation:m79 39.6s steps(1,end) infinite; }
+@keyframes m80 { 0% { opacity:0; } 64.141% { opacity:1; } 64.899% { opacity:0; } 100% { opacity:0; } }
+.m80 { animation:m80 39.6s steps(1,end) infinite; }
+@keyframes m81 { 0% { opacity:0; } 64.899% { opacity:1; } 65.404% { opacity:0; } 100% { opacity:0; } }
+.m81 { animation:m81 39.6s steps(1,end) infinite; }
+@keyframes m82 { 0% { opacity:0; } 65.404% { opacity:1; } 65.909% { opacity:0; } 100% { opacity:0; } }
+.m82 { animation:m82 39.6s steps(1,end) infinite; }
+@keyframes m83 { 0% { opacity:0; } 65.909% { opacity:1; } 66.414% { opacity:0; } 100% { opacity:0; } }
+.m83 { animation:m83 39.6s steps(1,end) infinite; }
+@keyframes m84 { 0% { opacity:0; } 66.414% { opacity:1; } 66.919% { opacity:0; } 100% { opacity:0; } }
+.m84 { animation:m84 39.6s steps(1,end) infinite; }
+@keyframes m85 { 0% { opacity:0; } 66.919% { opacity:1; } 67.172% { opacity:0; } 100% { opacity:0; } }
+.m85 { animation:m85 39.6s steps(1,end) infinite; }
+@keyframes m86 { 0% { opacity:0; } 67.172% { opacity:1; } 67.677% { opacity:0; } 100% { opacity:0; } }
+.m86 { animation:m86 39.6s steps(1,end) infinite; }
+@keyframes m87 { 0% { opacity:0; } 67.677% { opacity:1; } 71.97% { opacity:0; } 100% { opacity:0; } }
+.m87 { animation:m87 39.6s steps(1,end) infinite; }
+@keyframes m88 { 0% { opacity:0; } 71.97% { opacity:1; } 72.475% { opacity:0; } 100% { opacity:0; } }
+.m88 { animation:m88 39.6s steps(1,end) infinite; }
+@keyframes m89 { 0% { opacity:0; } 72.475% { opacity:1; } 72.727% { opacity:0; } 100% { opacity:0; } }
+.m89 { animation:m89 39.6s steps(1,end) infinite; }
+@keyframes m90 { 0% { opacity:0; } 72.727% { opacity:1; } 73.485% { opacity:0; } 100% { opacity:0; } }
+.m90 { animation:m90 39.6s steps(1,end) infinite; }
+@keyframes m91 { 0% { opacity:0; } 73.485% { opacity:1; } 76.768% { opacity:0; } 100% { opacity:0; } }
+.m91 { animation:m91 39.6s steps(1,end) infinite; }
+@keyframes m92 { 0% { opacity:0; } 76.768% { opacity:1; } 77.778% { opacity:0; } 100% { opacity:0; } }
+.m92 { animation:m92 39.6s steps(1,end) infinite; }
+@keyframes m93 { 0% { opacity:0; } 77.778% { opacity:1; } 78.535% { opacity:0; } 100% { opacity:0; } }
+.m93 { animation:m93 39.6s steps(1,end) infinite; }
+@keyframes m94 { 0% { opacity:0; } 78.535% { opacity:1; } 91.162% { opacity:0; } 100% { opacity:0; } }
+.m94 { animation:m94 39.6s steps(1,end) infinite; }
+@keyframes m95 { 0% { opacity:0; } 91.162% { opacity:1; } 93.182% { opacity:0; } 100% { opacity:0; } }
+.m95 { animation:m95 39.6s steps(1,end) infinite; }
+@keyframes m96 { 0% { opacity:0; } 93.182% { opacity:1; } 100% { opacity:1; } }
+.m96 { animation:m96 39.6s steps(1,end) infinite; }
+  </style>
+  
+    <rect class="c0_0" x="16" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c0_1" x="16" y="40" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c1_0" x="30" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c1_1" x="30" y="40" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c1_2" x="30" y="54" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c1_3" x="30" y="68" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c1_4" x="30" y="82" width="11" height="11" rx="2.5" fill="#40c463"/>
+  <rect class="c1_5" x="30" y="96" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c1_6" x="30" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c2_0" x="44" y="26" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c2_1" x="44" y="40" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c2_2" x="44" y="54" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c2_3" x="44" y="68" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c2_4" x="44" y="82" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c2_5" x="44" y="96" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c2_6" x="44" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c3_0" x="58" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c3_1" x="58" y="40" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c3_2" x="58" y="54" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c3_3" x="58" y="68" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c3_4" x="58" y="82" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c3_5" x="58" y="96" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c3_6" x="58" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c4_0" x="72" y="26" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c4_1" x="72" y="40" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c4_2" x="72" y="54" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c4_3" x="72" y="68" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c4_4" x="72" y="82" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c4_5" x="72" y="96" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c4_6" x="72" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c5_0" x="86" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c5_1" x="86" y="40" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c5_2" x="86" y="54" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c5_3" x="86" y="68" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c5_4" x="86" y="82" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c5_5" x="86" y="96" width="11" height="11" rx="2.5" fill="#40c463"/>
+  <rect class="c5_6" x="86" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c6_0" x="100" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c6_1" x="100" y="40" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c6_2" x="100" y="54" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c6_3" x="100" y="68" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c6_4" x="100" y="82" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c6_5" x="100" y="96" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c6_6" x="100" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c7_0" x="114" y="26" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c7_1" x="114" y="40" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c7_2" x="114" y="54" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c7_3" x="114" y="68" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c7_4" x="114" y="82" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c7_5" x="114" y="96" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c7_6" x="114" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c8_0" x="128" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c8_1" x="128" y="40" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c8_2" x="128" y="54" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c8_3" x="128" y="68" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c8_4" x="128" y="82" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c8_5" x="128" y="96" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c8_6" x="128" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c9_0" x="142" y="26" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c9_1" x="142" y="40" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c9_2" x="142" y="54" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c9_3" x="142" y="68" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c9_4" x="142" y="82" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c9_5" x="142" y="96" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c9_6" x="142" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c10_0" x="156" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c10_1" x="156" y="40" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c10_2" x="156" y="54" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c10_3" x="156" y="68" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c10_4" x="156" y="82" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c10_5" x="156" y="96" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c10_6" x="156" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c11_0" x="170" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c11_1" x="170" y="40" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c11_2" x="170" y="54" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c11_3" x="170" y="68" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c11_4" x="170" y="82" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c11_5" x="170" y="96" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c11_6" x="170" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c12_0" x="184" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c12_1" x="184" y="40" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c12_2" x="184" y="54" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c12_3" x="184" y="68" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c12_4" x="184" y="82" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c12_5" x="184" y="96" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c12_6" x="184" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c13_0" x="198" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c13_1" x="198" y="40" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c13_2" x="198" y="54" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c13_3" x="198" y="68" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c13_4" x="198" y="82" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c13_5" x="198" y="96" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c13_6" x="198" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c14_0" x="212" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c14_1" x="212" y="40" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c14_2" x="212" y="54" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c14_3" x="212" y="68" width="11" height="11" rx="2.5" fill="#40c463"/>
+  <rect class="c14_4" x="212" y="82" width="11" height="11" rx="2.5" fill="#216e39"/>
+  <rect class="c14_5" x="212" y="96" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c14_6" x="212" y="110" width="11" height="11" rx="2.5" fill="#40c463"/>
+  <rect class="c15_0" x="226" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c15_1" x="226" y="40" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c15_2" x="226" y="54" width="11" height="11" rx="2.5" fill="#40c463"/>
+  <rect class="c15_3" x="226" y="68" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c15_4" x="226" y="82" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c15_5" x="226" y="96" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c15_6" x="226" y="110" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c16_0" x="240" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c16_1" x="240" y="40" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c16_2" x="240" y="54" width="11" height="11" rx="2.5" fill="#40c463"/>
+  <rect class="c16_3" x="240" y="68" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c16_4" x="240" y="82" width="11" height="11" rx="2.5" fill="#30a14e"/>
+  <rect class="c16_5" x="240" y="96" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c16_6" x="240" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c17_0" x="254" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c17_1" x="254" y="40" width="11" height="11" rx="2.5" fill="#40c463"/>
+  <rect class="c17_2" x="254" y="54" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c17_3" x="254" y="68" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c17_4" x="254" y="82" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c17_5" x="254" y="96" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c17_6" x="254" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c18_0" x="268" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c18_1" x="268" y="40" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c18_2" x="268" y="54" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c18_3" x="268" y="68" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c18_4" x="268" y="82" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c18_5" x="268" y="96" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c18_6" x="268" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c19_0" x="282" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c19_1" x="282" y="40" width="11" height="11" rx="2.5" fill="#30a14e"/>
+  <rect class="c19_2" x="282" y="54" width="11" height="11" rx="2.5" fill="#40c463"/>
+  <rect class="c19_3" x="282" y="68" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c19_4" x="282" y="82" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c19_5" x="282" y="96" width="11" height="11" rx="2.5" fill="#216e39"/>
+  <rect class="c19_6" x="282" y="110" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c20_0" x="296" y="26" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c20_1" x="296" y="40" width="11" height="11" rx="2.5" fill="#216e39"/>
+  <rect class="c20_2" x="296" y="54" width="11" height="11" rx="2.5" fill="#216e39"/>
+  <rect class="c20_3" x="296" y="68" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c20_4" x="296" y="82" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c20_5" x="296" y="96" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c20_6" x="296" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c21_0" x="310" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c21_1" x="310" y="40" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c21_2" x="310" y="54" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c21_3" x="310" y="68" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c21_4" x="310" y="82" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c21_5" x="310" y="96" width="11" height="11" rx="2.5" fill="#40c463"/>
+  <rect class="c21_6" x="310" y="110" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c22_0" x="324" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c22_1" x="324" y="40" width="11" height="11" rx="2.5" fill="#30a14e"/>
+  <rect class="c22_2" x="324" y="54" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c22_3" x="324" y="68" width="11" height="11" rx="2.5" fill="#40c463"/>
+  <rect class="c22_4" x="324" y="82" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c22_5" x="324" y="96" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c22_6" x="324" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c23_0" x="338" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c23_1" x="338" y="40" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c23_2" x="338" y="54" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c23_3" x="338" y="68" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c23_4" x="338" y="82" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c23_5" x="338" y="96" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c23_6" x="338" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c24_0" x="352" y="26" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c24_1" x="352" y="40" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c24_2" x="352" y="54" width="11" height="11" rx="2.5" fill="#40c463"/>
+  <rect class="c24_3" x="352" y="68" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c24_4" x="352" y="82" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c24_5" x="352" y="96" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c24_6" x="352" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c25_0" x="366" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c25_1" x="366" y="40" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c25_2" x="366" y="54" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c25_3" x="366" y="68" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c25_4" x="366" y="82" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c25_5" x="366" y="96" width="11" height="11" rx="2.5" fill="#40c463"/>
+  <rect class="c25_6" x="366" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c26_0" x="380" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c26_1" x="380" y="40" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c26_2" x="380" y="54" width="11" height="11" rx="2.5" fill="#40c463"/>
+  <rect class="c26_3" x="380" y="68" width="11" height="11" rx="2.5" fill="#40c463"/>
+  <rect class="c26_4" x="380" y="82" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c26_5" x="380" y="96" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c26_6" x="380" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c27_0" x="394" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c27_1" x="394" y="40" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c27_2" x="394" y="54" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c27_3" x="394" y="68" width="11" height="11" rx="2.5" fill="#40c463"/>
+  <rect class="c27_4" x="394" y="82" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c27_5" x="394" y="96" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c27_6" x="394" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c28_0" x="408" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c28_1" x="408" y="40" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c28_2" x="408" y="54" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c28_3" x="408" y="68" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c28_4" x="408" y="82" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c28_5" x="408" y="96" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c28_6" x="408" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c29_0" x="422" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c29_1" x="422" y="40" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c29_2" x="422" y="54" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c29_3" x="422" y="68" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c29_4" x="422" y="82" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c29_5" x="422" y="96" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c29_6" x="422" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c30_0" x="436" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c30_1" x="436" y="40" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c30_2" x="436" y="54" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c30_3" x="436" y="68" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c30_4" x="436" y="82" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c30_5" x="436" y="96" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c30_6" x="436" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c31_0" x="450" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c31_1" x="450" y="40" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c31_2" x="450" y="54" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c31_3" x="450" y="68" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c31_4" x="450" y="82" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c31_5" x="450" y="96" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c31_6" x="450" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c32_0" x="464" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c32_1" x="464" y="40" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c32_2" x="464" y="54" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c32_3" x="464" y="68" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c32_4" x="464" y="82" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c32_5" x="464" y="96" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c32_6" x="464" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c33_0" x="478" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c33_1" x="478" y="40" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c33_2" x="478" y="54" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c33_3" x="478" y="68" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c33_4" x="478" y="82" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c33_5" x="478" y="96" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c33_6" x="478" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c34_0" x="492" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c34_1" x="492" y="40" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c34_2" x="492" y="54" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c34_3" x="492" y="68" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c34_4" x="492" y="82" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c34_5" x="492" y="96" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c34_6" x="492" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c35_0" x="506" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c35_1" x="506" y="40" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c35_2" x="506" y="54" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c35_3" x="506" y="68" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c35_4" x="506" y="82" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c35_5" x="506" y="96" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c35_6" x="506" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c36_0" x="520" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c36_1" x="520" y="40" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c36_2" x="520" y="54" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c36_3" x="520" y="68" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c36_4" x="520" y="82" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c36_5" x="520" y="96" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c36_6" x="520" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c37_0" x="534" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c37_1" x="534" y="40" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c37_2" x="534" y="54" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c37_3" x="534" y="68" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c37_4" x="534" y="82" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c37_5" x="534" y="96" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c37_6" x="534" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c38_0" x="548" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c38_1" x="548" y="40" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c38_2" x="548" y="54" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c38_3" x="548" y="68" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c38_4" x="548" y="82" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c38_5" x="548" y="96" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c38_6" x="548" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c39_0" x="562" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c39_1" x="562" y="40" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c39_2" x="562" y="54" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c39_3" x="562" y="68" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c39_4" x="562" y="82" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c39_5" x="562" y="96" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c39_6" x="562" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c40_0" x="576" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c40_1" x="576" y="40" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c40_2" x="576" y="54" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c40_3" x="576" y="68" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c40_4" x="576" y="82" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c40_5" x="576" y="96" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c40_6" x="576" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c41_0" x="590" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c41_1" x="590" y="40" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c41_2" x="590" y="54" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c41_3" x="590" y="68" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c41_4" x="590" y="82" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c41_5" x="590" y="96" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c41_6" x="590" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c42_0" x="604" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c42_1" x="604" y="40" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c42_2" x="604" y="54" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c42_3" x="604" y="68" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c42_4" x="604" y="82" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c42_5" x="604" y="96" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c42_6" x="604" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c43_0" x="618" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c43_1" x="618" y="40" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c43_2" x="618" y="54" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c43_3" x="618" y="68" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c43_4" x="618" y="82" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c43_5" x="618" y="96" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c43_6" x="618" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c44_0" x="632" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c44_1" x="632" y="40" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c44_2" x="632" y="54" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c44_3" x="632" y="68" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c44_4" x="632" y="82" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c44_5" x="632" y="96" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c44_6" x="632" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c45_0" x="646" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c45_1" x="646" y="40" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c45_2" x="646" y="54" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c45_3" x="646" y="68" width="11" height="11" rx="2.5" fill="#40c463"/>
+  <rect class="c45_4" x="646" y="82" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c45_5" x="646" y="96" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c45_6" x="646" y="110" width="11" height="11" rx="2.5" fill="#40c463"/>
+  <rect class="c46_0" x="660" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c46_1" x="660" y="40" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c46_2" x="660" y="54" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c46_3" x="660" y="68" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c46_4" x="660" y="82" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c46_5" x="660" y="96" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c46_6" x="660" y="110" width="11" height="11" rx="2.5" fill="#40c463"/>
+  <rect class="c47_0" x="674" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c47_1" x="674" y="40" width="11" height="11" rx="2.5" fill="#30a14e"/>
+  <rect class="c47_2" x="674" y="54" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c47_3" x="674" y="68" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c47_4" x="674" y="82" width="11" height="11" rx="2.5" fill="#40c463"/>
+  <rect class="c47_5" x="674" y="96" width="11" height="11" rx="2.5" fill="#216e39"/>
+  <rect class="c47_6" x="674" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c48_0" x="688" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c48_1" x="688" y="40" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c48_2" x="688" y="54" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c48_3" x="688" y="68" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c48_4" x="688" y="82" width="11" height="11" rx="2.5" fill="#40c463"/>
+  <rect class="c48_5" x="688" y="96" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c48_6" x="688" y="110" width="11" height="11" rx="2.5" fill="#30a14e"/>
+  <rect class="c49_0" x="702" y="26" width="11" height="11" rx="2.5" fill="#216e39"/>
+  <rect class="c49_1" x="702" y="40" width="11" height="11" rx="2.5" fill="#40c463"/>
+  <rect class="c49_2" x="702" y="54" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c49_3" x="702" y="68" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c49_4" x="702" y="82" width="11" height="11" rx="2.5" fill="#40c463"/>
+  <rect class="c49_5" x="702" y="96" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c49_6" x="702" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c50_0" x="716" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c50_1" x="716" y="40" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c50_2" x="716" y="54" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c50_3" x="716" y="68" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c50_4" x="716" y="82" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c50_5" x="716" y="96" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect class="c50_6" x="716" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c51_0" x="730" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c51_1" x="730" y="40" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c51_2" x="730" y="54" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c51_3" x="730" y="68" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c51_4" x="730" y="82" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c51_5" x="730" y="96" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c51_6" x="730" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c52_0" x="744" y="26" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c52_1" x="744" y="40" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c52_2" x="744" y="54" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c52_3" x="744" y="68" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c52_4" x="744" y="82" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c52_5" x="744" y="96" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect class="c52_6" x="744" y="110" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <text class="lab" x="30" y="14">nov</text>
+  <text class="lab" x="100" y="14">dec</text>
+  <text class="lab" x="156" y="14">jan</text>
+  <text class="lab" x="212" y="14">feb</text>
+  <text class="lab" x="268" y="14">mar</text>
+  <text class="lab" x="338" y="14">apr</text>
+  <text class="lab" x="394" y="14">may</text>
+  <text class="lab" x="464" y="14">jun</text>
+  <text class="lab" x="520" y="14">jul</text>
+  <text class="lab" x="576" y="14">aug</text>
+  <text class="lab" x="646" y="14">sep</text>
+  <text class="lab" x="702" y="14">oct</text>
+  <text class="lab" x="593" y="141">less</text>
+  <rect x="623" y="132" width="11" height="11" rx="2.5" fill="#ebedf0"/>
+  <rect x="637" y="132" width="11" height="11" rx="2.5" fill="#9be9a8"/>
+  <rect x="651" y="132" width="11" height="11" rx="2.5" fill="#40c463"/>
+  <rect x="665" y="132" width="11" height="11" rx="2.5" fill="#30a14e"/>
+  <rect x="679" y="132" width="11" height="11" rx="2.5" fill="#216e39"/>
+  <text class="lab" x="701" y="141">more</text>
+  <text class="lab" x="16" y="141">$ commits eaten:</text>
+  <text class="cnt m1" opacity="0" x="118" y="141">1/493</text>
+  <text class="cnt m2" opacity="0" x="118" y="141">2/493</text>
+  <text class="cnt m3" opacity="0" x="118" y="141">6/493</text>
+  <text class="cnt m4" opacity="0" x="118" y="141">8/493</text>
+  <text class="cnt m5" opacity="0" x="118" y="141">9/493</text>
+  <text class="cnt m6" opacity="0" x="118" y="141">11/493</text>
+  <text class="cnt m7" opacity="0" x="118" y="141">13/493</text>
+  <text class="cnt m8" opacity="0" x="118" y="141">15/493</text>
+  <text class="cnt m9" opacity="0" x="118" y="141">19/493</text>
+  <text class="cnt m10" opacity="0" x="118" y="141">22/493</text>
+  <text class="cnt m11" opacity="0" x="118" y="141">24/493</text>
+  <text class="cnt m12" opacity="0" x="118" y="141">25/493</text>
+  <text class="cnt m13" opacity="0" x="118" y="141">26/493</text>
+  <text class="cnt m14" opacity="0" x="118" y="141">31/493</text>
+  <text class="cnt m15" opacity="0" x="118" y="141">32/493</text>
+  <text class="cnt m16" opacity="0" x="118" y="141">33/493</text>
+  <text class="cnt m17" opacity="0" x="118" y="141">34/493</text>
+  <text class="cnt m18" opacity="0" x="118" y="141">36/493</text>
+  <text class="cnt m19" opacity="0" x="118" y="141">43/493</text>
+  <text class="cnt m20" opacity="0" x="118" y="141">45/493</text>
+  <text class="cnt m21" opacity="0" x="118" y="141">46/493</text>
+  <text class="cnt m22" opacity="0" x="118" y="141">48/493</text>
+  <text class="cnt m23" opacity="0" x="118" y="141">49/493</text>
+  <text class="cnt m24" opacity="0" x="118" y="141">50/493</text>
+  <text class="cnt m25" opacity="0" x="118" y="141">52/493</text>
+  <text class="cnt m26" opacity="0" x="118" y="141">56/493</text>
+  <text class="cnt m27" opacity="0" x="118" y="141">58/493</text>
+  <text class="cnt m28" opacity="0" x="118" y="141">59/493</text>
+  <text class="cnt m29" opacity="0" x="118" y="141">63/493</text>
+  <text class="cnt m30" opacity="0" x="118" y="141">65/493</text>
+  <text class="cnt m31" opacity="0" x="118" y="141">75/493</text>
+  <text class="cnt m32" opacity="0" x="118" y="141">77/493</text>
+  <text class="cnt m33" opacity="0" x="118" y="141">81/493</text>
+  <text class="cnt m34" opacity="0" x="118" y="141">86/493</text>
+  <text class="cnt m35" opacity="0" x="118" y="141">89/493</text>
+  <text class="cnt m36" opacity="0" x="118" y="141">91/493</text>
+  <text class="cnt m37" opacity="0" x="118" y="141">92/493</text>
+  <text class="cnt m38" opacity="0" x="118" y="141">93/493</text>
+  <text class="cnt m39" opacity="0" x="118" y="141">94/493</text>
+  <text class="cnt m40" opacity="0" x="118" y="141">97/493</text>
+  <text class="cnt m41" opacity="0" x="118" y="141">98/493</text>
+  <text class="cnt m42" opacity="0" x="118" y="141">100/493</text>
+  <text class="cnt m43" opacity="0" x="118" y="141">107/493</text>
+  <text class="cnt m44" opacity="0" x="118" y="141">110/493</text>
+  <text class="cnt m45" opacity="0" x="118" y="141">112/493</text>
+  <text class="cnt m46" opacity="0" x="118" y="141">130/493</text>
+  <text class="cnt m47" opacity="0" x="118" y="141">134/493</text>
+  <text class="cnt m48" opacity="0" x="118" y="141">136/493</text>
+  <text class="cnt m49" opacity="0" x="118" y="141">141/493</text>
+  <text class="cnt m50" opacity="0" x="118" y="141">144/493</text>
+  <text class="cnt m51" opacity="0" x="118" y="141">149/493</text>
+  <text class="cnt m52" opacity="0" x="118" y="141">150/493</text>
+  <text class="cnt m53" opacity="0" x="118" y="141">151/493</text>
+  <text class="cnt m54" opacity="0" x="118" y="141">156/493</text>
+  <text class="cnt m55" opacity="0" x="118" y="141">160/493</text>
+  <text class="cnt m56" opacity="0" x="118" y="141">164/493</text>
+  <text class="cnt m57" opacity="0" x="118" y="141">165/493</text>
+  <text class="cnt m58" opacity="0" x="118" y="141">171/493</text>
+  <text class="cnt m59" opacity="0" x="118" y="141">173/493</text>
+  <text class="cnt m60" opacity="0" x="118" y="141">177/493</text>
+  <text class="cnt m61" opacity="0" x="118" y="141">178/493</text>
+  <text class="cnt m62" opacity="0" x="118" y="141">180/493</text>
+  <text class="cnt m63" opacity="0" x="118" y="141">182/493</text>
+  <text class="cnt m64" opacity="0" x="118" y="141">191/493</text>
+  <text class="cnt m65" opacity="0" x="118" y="141">197/493</text>
+  <text class="cnt m66" opacity="0" x="118" y="141">203/493</text>
+  <text class="cnt m67" opacity="0" x="118" y="141">210/493</text>
+  <text class="cnt m68" opacity="0" x="118" y="141">224/493</text>
+  <text class="cnt m69" opacity="0" x="118" y="141">241/493</text>
+  <text class="cnt m70" opacity="0" x="118" y="141">251/493</text>
+  <text class="cnt m71" opacity="0" x="118" y="141">257/493</text>
+  <text class="cnt m72" opacity="0" x="118" y="141">260/493</text>
+  <text class="cnt m73" opacity="0" x="118" y="141">261/493</text>
+  <text class="cnt m74" opacity="0" x="118" y="141">266/493</text>
+  <text class="cnt m75" opacity="0" x="118" y="141">273/493</text>
+  <text class="cnt m76" opacity="0" x="118" y="141">274/493</text>
+  <text class="cnt m77" opacity="0" x="118" y="141">276/493</text>
+  <text class="cnt m78" opacity="0" x="118" y="141">284/493</text>
+  <text class="cnt m79" opacity="0" x="118" y="141">285/493</text>
+  <text class="cnt m80" opacity="0" x="118" y="141">289/493</text>
+  <text class="cnt m81" opacity="0" x="118" y="141">300/493</text>
+  <text class="cnt m82" opacity="0" x="118" y="141">306/493</text>
+  <text class="cnt m83" opacity="0" x="118" y="141">309/493</text>
+  <text class="cnt m84" opacity="0" x="118" y="141">311/493</text>
+  <text class="cnt m85" opacity="0" x="118" y="141">320/493</text>
+  <text class="cnt m86" opacity="0" x="118" y="141">322/493</text>
+  <text class="cnt m87" opacity="0" x="118" y="141">324/493</text>
+  <text class="cnt m88" opacity="0" x="118" y="141">337/493</text>
+  <text class="cnt m89" opacity="0" x="118" y="141">346/493</text>
+  <text class="cnt m90" opacity="0" x="118" y="141">351/493</text>
+  <text class="cnt m91" opacity="0" x="118" y="141">359/493</text>
+  <text class="cnt m92" opacity="0" x="118" y="141">424/493</text>
+  <text class="cnt m93" opacity="0" x="118" y="141">432/493</text>
+  <text class="cnt m94" opacity="0" x="118" y="141">449/493</text>
+  <text class="cnt m95" opacity="0" x="118" y="141">459/493</text>
+  <text class="cnt m96" opacity="0" x="118" y="141">493/493</text>
+  
+</svg>
